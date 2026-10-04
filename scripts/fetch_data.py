@@ -142,7 +142,7 @@ def espn_location(venue):
     return ", ".join(p for p in parts if p) or None
 
 
-def espn_game(event, team_id):
+def espn_game(event, team_id, path=None):
     comp = (event.get("competitions") or [{}])[0]
     competitors = comp.get("competitors") or []
     us = next((c for c in competitors if str(c.get("team", {}).get("id")) == team_id), None)
@@ -183,7 +183,24 @@ def espn_game(event, team_id):
             )
     if status.get("name") in ("STATUS_POSTPONED", "STATUS_CANCELED"):
         game["state"] = "canceled"
+    if path:
+        game.update(espn_links(event, path, game["id"]))
     return game
+
+
+def espn_links(event, path, game_id):
+    """liveUrl: the one-game scoreboard the page polls during a game (it allows
+    cross-origin reads); gameUrl: ESPN's game page, for "Follow live"."""
+    sport = path.split("/")[1]
+    if path.startswith("soccer/"):
+        # soccer/all has no per-match scoreboard; the match's own league does.
+        slug = (event.get("league") or {}).get("slug")
+        live = f"{ESPN}/soccer/{slug}/scoreboard/{game_id}" if slug else None
+        page = f"https://www.espn.com/soccer/match/_/gameId/{game_id}"
+    else:
+        live = f"{ESPN}/{path}/scoreboard/{game_id}"
+        page = f"https://www.espn.com/{sport}/game/_/gameId/{game_id}"
+    return {"liveUrl": live, "gameUrl": page}
 
 
 def espn_schedule(cfg, season=None):
@@ -225,16 +242,16 @@ def fetch_espn(cfg):
     total = next((r for r in record_items if r.get("type") == "total"), record_items[0] if record_items else {})
 
     events, season = espn_schedule(cfg)
-    games = [g for g in (espn_game(e, cfg["id"]) for e in events) if g]
+    games = [g for g in (espn_game(e, cfg["id"], cfg["path"]) for e in events) if g]
     # Between seasons the default season may have nothing upcoming (or nothing
     # played yet), so look one season ahead/behind.
     if season and not any(g["state"] in ("pre", "in") for g in games):
         more, _ = espn_schedule(cfg, season + 1)
-        games += [g for g in (espn_game(e, cfg["id"]) for e in more) if g]
+        games += [g for g in (espn_game(e, cfg["id"], cfg["path"]) for e in more) if g]
     prev_games = []
     if season and not any(g["state"] == "post" for g in games):
         more, _ = espn_schedule(cfg, season - 1)
-        prev_games = [g for g in (espn_game(e, cfg["id"]) for e in more) if g]
+        prev_games = [g for g in (espn_game(e, cfg["id"], cfg["path"]) for e in more) if g]
         games += prev_games
 
     # In the preseason ESPN reports no record at all, so fall back to last
@@ -264,7 +281,7 @@ def fetch_espn_soccer(cfg):
     events += get_json(f"{base}/schedule?fixture=true").get("events") or []
     games = []
     for e in events:
-        g = espn_game(e, cfg["id"])
+        g = espn_game(e, cfg["id"], cfg["path"])
         if not g:
             continue
         if g.get("result") == "T":
@@ -323,6 +340,8 @@ def mlb_game(g, team_id):
         "neutral": False,
         "note": g.get("seriesDescription") if g.get("gameType") not in ("R", None) else None,
     }
+    game["liveUrl"] = f"{MLB}/schedule?gamePk={g['gamePk']}&hydrate=linescore"
+    game["gameUrl"] = f"https://www.mlb.com/gameday/{g['gamePk']}"
     tv = [b.get("name") for b in g.get("broadcasts") or [] if b.get("type") == "TV"]
     if tv:
         game["broadcast"] = ", ".join(dict.fromkeys(tv))
