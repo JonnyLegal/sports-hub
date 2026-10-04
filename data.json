@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:00:00+00:00",
+  "updated": "2026-10-04T00:05:06+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -11,11 +11,42 @@
         "text": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": null,
-      "standing": null,
+      "record": "2-1",
+      "standing": "2nd in AFC North",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "401872960",
+        "date": "2026-09-27T20:25Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "Final",
+        "homeAway": "away",
+        "opponent": "Dallas Cowboys",
+        "opponentShort": "Cowboys",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+        "venue": "Maracan\u00e3 Stadium",
+        "broadcast": "CBS",
+        "neutral": true,
+        "note": "NFL Rio Game",
+        "teamScore": 34,
+        "oppScore": 31,
+        "result": "W"
+      },
+      "next": {
+        "id": "401872973",
+        "date": "2026-10-04T17:00Z",
+        "state": "pre",
+        "timeTBD": false,
+        "detail": "10/4 - 1:00 PM EDT",
+        "homeAway": "home",
+        "opponent": "Tennessee Titans",
+        "opponentShort": "Titans",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
+        "venue": "M&T Bank Stadium",
+        "broadcast": "CBS",
+        "neutral": false,
+        "note": null
+      }
     },
     {
       "key": "orioles",
@@ -27,11 +58,42 @@
         "text": "#FFFFFF"
       },
       "logo": "https://www.mlbstatic.com/team-logos/110.svg",
-      "record": null,
-      "standing": null,
+      "record": "79-82",
+      "standing": "4th in AL East (18.5 GB)",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "823489",
+        "date": "2026-09-25T20:10:00Z",
+        "timeTBD": true,
+        "state": "post",
+        "detail": "Final",
+        "homeAway": "away",
+        "opponent": "New York Yankees",
+        "opponentShort": "Yankees",
+        "opponentLogo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "venue": "Yankee Stadium",
+        "broadcast": "YES, MASN",
+        "neutral": false,
+        "note": null,
+        "teamScore": 3,
+        "oppScore": 6,
+        "result": "L"
+      },
+      "next": {
+        "id": "868576",
+        "date": "2027-02-19T08:33:00Z",
+        "timeTBD": true,
+        "state": "pre",
+        "detail": "Scheduled",
+        "homeAway": "home",
+        "opponent": "Atlanta Braves",
+        "opponentShort": "Braves",
+        "opponentLogo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "venue": "Ed Smith Stadium",
+        "broadcast": null,
+        "neutral": false,
+        "note": "Spring Training"
+      }
     },
     {
       "key": "michigan-football",
@@ -43,11 +105,42 @@
         "text": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": null,
-      "standing": null,
+      "record": "3-2",
+      "standing": "14th in Big Ten",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "401858474",
+        "date": "2026-10-03T16:00Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "Final",
+        "homeAway": "away",
+        "opponent": "Minnesota Golden Gophers",
+        "opponentShort": "Minnesota",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
+        "venue": "Huntington Bank Stadium",
+        "broadcast": "FOX",
+        "neutral": false,
+        "note": null,
+        "teamScore": 14,
+        "oppScore": 20,
+        "result": "L"
+      },
+      "next": {
+        "id": "401858490",
+        "date": "2026-10-17T04:00Z",
+        "state": "pre",
+        "timeTBD": true,
+        "detail": "TBD",
+        "homeAway": "home",
+        "opponent": "Penn State Nittany Lions",
+        "opponentShort": "Penn State",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
+        "venue": "Michigan Stadium",
+        "broadcast": null,
+        "neutral": false,
+        "note": null
+      }
     },
     {
       "key": "michigan-basketball",
@@ -60,10 +153,41 @@
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": null,
-      "standing": null,
+      "standing": "1st in Big Ten",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "401856600",
+        "date": "2026-04-07T00:50Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "Final",
+        "homeAway": "home",
+        "opponent": "UConn Huskies",
+        "opponentShort": "UConn",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
+        "venue": "Lucas Oil Stadium",
+        "broadcast": "TBS",
+        "neutral": true,
+        "note": "NCAA Men's Basketball Championship - National Championship",
+        "teamScore": 69,
+        "oppScore": 63,
+        "result": "W"
+      },
+      "next": {
+        "id": "401925733",
+        "date": "2026-11-02T05:00Z",
+        "state": "pre",
+        "timeTBD": true,
+        "detail": "TBD",
+        "homeAway": "home",
+        "opponent": "Oakland Golden Grizzlies",
+        "opponentShort": "Oakland",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
+        "venue": "Crisler Center",
+        "broadcast": null,
+        "neutral": false,
+        "note": null
+      }
     },
     {
       "key": "wake-forest-football",
