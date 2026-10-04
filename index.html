@@ -231,7 +231,9 @@ function gameRow(g, kind, fresh = false) {
   const meta = [];
   if (kind === "last") meta.push(fmtDate(g.date, false, g.timeTBD));
   if (kind === "next") meta.push(fmtDate(g.date, true, g.timeTBD));
-  if (kind === "live") meta.push(fresh ? g.detail || "In progress" : `Score as of ${asOf(DATA.updated)}`);
+  if (kind === "live") {
+    meta.push(fresh ? g.detail || "In progress" : g.teamScore != null ? `Score as of ${asOf(DATA.updated)}` : "In progress");
+  }
   if (kind === "next" && g.broadcast) meta.push(g.broadcast);
   if (kind !== "last" && g.venue) meta.push(g.venue);
   if (g.note) meta.push(g.note);

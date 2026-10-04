@@ -188,6 +188,22 @@ def espn_game(event, team_id, path=None):
     return game
 
 
+def fill_live_scores(games):
+    """ESPN's team schedule omits scores for games in progress (it has the
+    clock, not the score), so read them from the game's own scoreboard."""
+    for g in games:
+        if g["state"] != "in" or g.get("teamScore") is not None or not g.get("liveUrl"):
+            continue
+        try:
+            comp = get_json(g["liveUrl"])["competitions"][0]
+            us = next(c for c in comp["competitors"] if c.get("homeAway") == g["homeAway"])
+            them = next(c for c in comp["competitors"] if c is not us)
+            g["teamScore"], g["oppScore"] = espn_score(us), espn_score(them)
+            g["detail"] = comp["status"]["type"].get("shortDetail") or g["detail"]
+        except Exception as e:  # keep the clock-only snapshot
+            print(f"  warn: live score {g['liveUrl']}: {e}", file=sys.stderr)
+
+
 def espn_links(event, path, game_id):
     """liveUrl: the one-game scoreboard the page polls during a game (it allows
     cross-origin reads); gameUrl: ESPN's game page, for "Follow live"."""
@@ -254,6 +270,8 @@ def fetch_espn(cfg):
         prev_games = [g for g in (espn_game(e, cfg["id"], cfg["path"]) for e in more) if g]
         games += prev_games
 
+    fill_live_scores(games)
+
     # In the preseason ESPN reports no record at all, so fall back to last
     # season's final record, tallied from its games.
     record, record_note = total.get("summary"), None
@@ -292,6 +310,8 @@ def fetch_espn_soccer(cfg):
         if league and league not in (g["note"] or ""):
             g["note"] = f"{league} - {g['note']}" if g["note"] else league
         games.append(g)
+
+    fill_live_scores(games)
 
     played = [g for g in games if g["state"] == "post" and g.get("date")]
     record = record_note = None
