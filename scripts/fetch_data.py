@@ -165,7 +165,7 @@ def espn_game(event, team_id):
         "homeAway": us.get("homeAway"),
         "opponent": opp.get("displayName") or opp.get("name"),
         "opponentShort": opp.get("shortDisplayName") or opp.get("abbreviation"),
-        "opponentSchool": opp.get("location"),  # "Western Michigan", vs short "W Michigan"
+        "opponentFull": opp.get("location"),  # "Western Michigan" / "Trinidad and Tobago", vs short "W Michigan" / "Trin & Tob"
         "opponentLogo": ((opp.get("logos") or [{}])[0].get("href") or opp.get("logo")),
         "venue": (comp.get("venue") or {}).get("fullName"),
         "location": espn_location(comp.get("venue") or {}),
@@ -262,10 +262,19 @@ def fetch_espn_soccer(cfg):
     team = get_json(base).get("team", {})
     events = get_json(f"{base}/schedule").get("events") or []
     events += get_json(f"{base}/schedule?fixture=true").get("events") or []
-    games = [g for g in (espn_game(e, cfg["id"]) for e in events) if g]
-    for g in games:
+    games = []
+    for e in events:
+        g = espn_game(e, cfg["id"])
+        if not g:
+            continue
         if g.get("result") == "T":
             g["result"] = "D"  # a draw, in soccer terms
+        # Name the competition ("International Friendly", "FIFA World Cup"),
+        # keeping any round ESPN notes ("Round of 16").
+        league = (e.get("league") or {}).get("name")
+        if league and league not in (g["note"] or ""):
+            g["note"] = f"{league} - {g['note']}" if g["note"] else league
+        games.append(g)
 
     played = [g for g in games if g["state"] == "post" and g.get("date")]
     record = record_note = None
@@ -278,7 +287,9 @@ def fetch_espn_soccer(cfg):
     return {
         "record": record,
         "recordNote": record_note,
-        "standing": team.get("standingSummary"),
+        # ESPN's standingSummary here is the last tournament's group finish
+        # ("1st in FIFA World Cup") and lingers until the next one, so skip it.
+        "standing": None,
         "logo": ((team.get("logos") or [{}])[0].get("href")),
         "games": games,
     }
