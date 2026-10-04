@@ -74,15 +74,34 @@ def parse_utc(iso):
     return datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(timezone.utc)
 
 
+def sport_emoji(cfg):
+    if cfg["source"] == "mlb":
+        return "⚾"
+    return "🏀" if "basketball" in cfg["path"] else "🏈"
+
+
 def summary(cfg, g):
-    sep = "vs" if g.get("neutral") or g.get("homeAway") == "home" else "@"
-    text = f"{cfg['short']} {sep} {g.get('opponentShort') or g.get('opponent')}"
+    """e.g. "🏈 ✅ Cowboys 31 at Ravens 34 [Home]" or "🏀 Wolverines at Spartans [Away]"."""
+    us, them = cfg["short"], g.get("opponentShort") or g.get("opponent")
     if g["state"] == "post" and g.get("teamScore") is not None:
-        score = f"{g['teamScore']}-{g['oppScore']}"
-        text += f" ({g['result']} {score})" if g.get("result") else f" ({score})"
-    elif g["state"] == "canceled":
-        text += f" ({g.get('detail') or 'Canceled'})"
-    return text
+        us, them = f"{us} {g['teamScore']}", f"{them} {g['oppScore']}"
+
+    if g.get("neutral"):
+        matchup, where = f"{us} vs {them}", "Neutral"
+    elif g.get("homeAway") == "home":
+        matchup, where = f"{them} at {us}", "Home"
+    else:
+        matchup, where = f"{us} at {them}", "Away"
+
+    parts = [sport_emoji(cfg)]
+    if g["state"] == "post":
+        mark = {"W": "✅", "L": "❌"}.get(g.get("result"))
+        if mark:
+            parts.append(mark)
+    parts.append(f"{matchup} [{where}]")
+    if g["state"] == "canceled":
+        parts.append(f"({g.get('detail') or 'Canceled'})")
+    return " ".join(parts)
 
 
 def event_body(cfg, g):
