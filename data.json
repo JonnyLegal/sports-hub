@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:11:53+00:00",
+  "updated": "2026-10-04T17:56:16+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -19,7 +19,7 @@
         "date": "2026-10-04T17:00Z",
         "state": "in",
         "timeTBD": false,
-        "detail": "12:48 - 1st",
+        "detail": "8:16 - 2nd",
         "homeAway": "home",
         "opponent": "Tennessee Titans",
         "opponentShort": "Titans",
@@ -31,7 +31,9 @@
         "neutral": false,
         "note": null,
         "teamScore": null,
-        "oppScore": null
+        "oppScore": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872973",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872973"
       },
       "last": {
         "id": "401872960",
@@ -51,7 +53,9 @@
         "note": "NFL Rio Game",
         "teamScore": 34,
         "oppScore": 31,
-        "result": "W"
+        "result": "W",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872960",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872960"
       },
       "next": {
         "id": "401872993",
@@ -68,7 +72,9 @@
         "location": "Mercedes-Benz Stadium, Atlanta, GA",
         "broadcast": "NBC",
         "neutral": false,
-        "note": null
+        "note": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872993",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872993"
       },
       "calendar": "calendars/ravens.ics"
     },
@@ -100,6 +106,8 @@
         "broadcast": "YES, MASN",
         "neutral": false,
         "note": null,
+        "liveUrl": "https://statsapi.mlb.com/api/v1/schedule?gamePk=823489&hydrate=linescore",
+        "gameUrl": "https://www.mlb.com/gameday/823489",
         "teamScore": 3,
         "oppScore": 6,
         "result": "L"
@@ -117,7 +125,9 @@
         "venue": "Ed Smith Stadium",
         "broadcast": null,
         "neutral": false,
-        "note": "Spring Training"
+        "note": "Spring Training",
+        "liveUrl": "https://statsapi.mlb.com/api/v1/schedule?gamePk=868576&hydrate=linescore",
+        "gameUrl": "https://www.mlb.com/gameday/868576"
       },
       "calendar": "calendars/orioles.ics"
     },
@@ -153,7 +163,9 @@
         "note": null,
         "teamScore": 14,
         "oppScore": 20,
-        "result": "L"
+        "result": "L",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858474",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858474"
       },
       "next": {
         "id": "401858490",
@@ -170,7 +182,9 @@
         "location": "Michigan Stadium, Ann Arbor, MI",
         "broadcast": null,
         "neutral": false,
-        "note": null
+        "note": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858490",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858490"
       },
       "calendar": "calendars/michigan-football.ics"
     },
@@ -206,7 +220,9 @@
         "note": "NCAA Men's Basketball Championship - National Championship",
         "teamScore": 69,
         "oppScore": 63,
-        "result": "W"
+        "result": "W",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401856600",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401856600"
       },
       "next": {
         "id": "401925733",
@@ -223,7 +239,9 @@
         "location": "Crisler Center, Ann Arbor, MI",
         "broadcast": null,
         "neutral": false,
-        "note": null
+        "note": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401925733",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925733"
       },
       "calendar": "calendars/michigan-basketball.ics"
     },
@@ -259,7 +277,9 @@
         "note": null,
         "teamScore": 57,
         "oppScore": 3,
-        "result": "W"
+        "result": "W",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858251",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858251"
       },
       "next": {
         "id": "401858260",
@@ -276,7 +296,9 @@
         "location": "Carter-Finley Stadium, Raleigh, NC",
         "broadcast": "CW",
         "neutral": false,
-        "note": null
+        "note": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858260",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
       },
       "calendar": "calendars/wake-forest-football.ics"
     },
@@ -312,7 +334,9 @@
         "note": "NIT - 2nd Round",
         "teamScore": 75,
         "oppScore": 78,
-        "result": "L"
+        "result": "L",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401858352",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401858352"
       },
       "next": {
         "id": "401909725",
@@ -329,7 +353,9 @@
         "location": "LJVM Coliseum, Winston-Salem, NC",
         "broadcast": null,
         "neutral": false,
-        "note": null
+        "note": null,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401909725",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909725"
       },
       "calendar": "calendars/wake-forest-basketball.ics"
     },
@@ -365,7 +391,9 @@
         "note": "International Friendly",
         "teamScore": 3,
         "oppScore": 0,
-        "result": "W"
+        "result": "W",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905202",
+        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905202"
       },
       "next": {
         "id": "401905188",
@@ -382,7 +410,9 @@
         "location": "Allianz Field, Saint Paul, Minnesota",
         "broadcast": "TNT",
         "neutral": false,
-        "note": "International Friendly"
+        "note": "International Friendly",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905188",
+        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905188"
       },
       "calendar": "calendars/usmnt.ics"
     }
