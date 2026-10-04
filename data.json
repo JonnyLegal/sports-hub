@@ -1,14 +1,17 @@
 {
-  "updated": "2026-10-04T23:07:51+00:00",
+  "updated": "2026-10-04T23:52:49+00:00",
   "teams": [
     {
       "key": "ravens",
       "name": "Baltimore Ravens",
+      "headerName": "Baltimore Ravens",
       "short": "Ravens",
       "colors": {
         "primary": "#241773",
         "secondary": "#9E7C0C",
-        "text": "#FFFFFF"
+        "text": "#FFFFFF",
+        "shade": "#332E89",
+        "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "record": "3-1",
@@ -61,11 +64,14 @@
     {
       "key": "orioles",
       "name": "Baltimore Orioles",
+      "headerName": "Baltimore Orioles",
       "short": "Orioles",
       "colors": {
         "primary": "#DF4601",
         "secondary": "#000000",
-        "text": "#FFFFFF"
+        "text": "#FFFFFF",
+        "shade": "#CA2F00",
+        "onSecondary": "#FFFFFF"
       },
       "logo": "https://www.mlbstatic.com/team-logos/110.svg",
       "record": "79-82",
@@ -114,11 +120,14 @@
     {
       "key": "michigan-football",
       "name": "Michigan Football",
+      "headerName": "Michigan Football",
       "short": "Michigan",
       "colors": {
         "primary": "#00274C",
         "secondary": "#FFCB05",
-        "text": "#FFFFFF"
+        "text": "#FFFFFF",
+        "shade": "#133960",
+        "onSecondary": "#00274C"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": "3-2",
@@ -171,11 +180,14 @@
     {
       "key": "michigan-basketball",
       "name": "Michigan Men's Basketball",
+      "headerName": "Michigan Hoops",
       "short": "Michigan",
       "colors": {
         "primary": "#FFCB05",
         "secondary": "#00274C",
-        "text": "#00274C"
+        "text": "#00274C",
+        "shade": "#EBB700",
+        "onSecondary": "#FFCB05"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": "37-3",
@@ -228,11 +240,14 @@
     {
       "key": "wake-forest-football",
       "name": "Wake Forest Football",
+      "headerName": "Wake Forest Football",
       "short": "Wake Forest",
       "colors": {
         "primary": "#000000",
         "secondary": "#9E7E38",
-        "text": "#FFFFFF"
+        "text": "#FFFFFF",
+        "shade": "#1F1F1F",
+        "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "record": "4-1",
@@ -285,11 +300,14 @@
     {
       "key": "wake-forest-basketball",
       "name": "Wake Forest Men's Basketball",
+      "headerName": "Wake Forest Hoops",
       "short": "Wake Forest",
       "colors": {
         "primary": "#9E7E38",
         "secondary": "#000000",
-        "text": "#000000"
+        "text": "#000000",
+        "shade": "#8C6C24",
+        "onSecondary": "#9E7E38"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "record": "18-17",
@@ -342,11 +360,14 @@
     {
       "key": "usmnt",
       "name": "USMNT",
+      "headerName": "USMNT",
       "short": "USA",
       "colors": {
         "primary": "#213065",
         "secondary": "#D42339",
-        "text": "#FFFFFF"
+        "text": "#FFFFFF",
+        "shade": "#32437A",
+        "onSecondary": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
       "record": "7-5",
