@@ -27,182 +27,182 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:michigan-football-espn-401858428@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20260905T193000
 DTEND;TZID=America/Detroit:20260905T230000
-SUMMARY:Wolverines vs W Michigan (W 13-12)
+SUMMARY:🏈 ✅ W Michigan 12 at Wolverines 13 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 13-12\nTV: NBC\nVenue: Michigan Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a2b7c1973044b8f
+X-SPORTSHUB-HASH:1d5b3c5c2c75e2b5
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401856679@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20260912T120000
 DTEND;TZID=America/Detroit:20260912T153000
-SUMMARY:Wolverines vs Oklahoma (W 17-10)
+SUMMARY:🏈 ✅ Oklahoma 10 at Wolverines 17 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 17-10\nTV: FOX\nVenue: Michigan Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:71823cdd6aaa1556
+X-SPORTSHUB-HASH:c298662459bd08ac
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858450@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20260919T153000
 DTEND;TZID=America/Detroit:20260919T190000
-SUMMARY:Wolverines vs UTEP (W 52-17)
+SUMMARY:🏈 ✅ UTEP 17 at Wolverines 52 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 52-17\nTV: BTN\nVenue: Michigan Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:254de75658fc6b81
+X-SPORTSHUB-HASH:81d73aa61a5c05fe
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858463@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20260926T153000
 DTEND;TZID=America/Detroit:20260926T190000
-SUMMARY:Wolverines vs Iowa (L 19-20)
+SUMMARY:🏈 ❌ Iowa 20 at Wolverines 19 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Final: Lost 19-20\nTV: CBS\nVenue: Michigan Stadium\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:963227efa8a57f8e
+X-SPORTSHUB-HASH:898e0a130d2fc27d
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858474@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20261003T120000
 DTEND;TZID=America/Detroit:20261003T153000
-SUMMARY:Wolverines @ Minnesota (L 14-20)
+SUMMARY:🏈 ❌ Wolverines 14 at Minnesota 20 [Away]
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
 DESCRIPTION:Final: Lost 14-20\nTV: FOX\nVenue: Huntington Bank Stadium\nhtt
  ps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:692e854845fe2c0e
+X-SPORTSHUB-HASH:48ed2bfe7ca551a7
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858490@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:Wolverines vs Penn State
+SUMMARY:🏈 Penn State at Wolverines [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e99db16531d16d5b
+X-SPORTSHUB-HASH:3bdf87727ae97560
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858496@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Wolverines vs Indiana
+SUMMARY:🏈 Indiana at Wolverines [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:28398027856bfd0f
+X-SPORTSHUB-HASH:73b5ef4c0525b544
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858507@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:Wolverines @ Rutgers
+SUMMARY:🏈 Wolverines at Rutgers [Away]
 LOCATION:SHI Stadium\, Piscataway\, NJ
 DESCRIPTION:Start time TBD\nVenue: SHI Stadium\nhttps://jonnylegal.github.i
  o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:71c8bcb9ebd710b1
+X-SPORTSHUB-HASH:37dfdeb828d75657
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858511@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:Wolverines vs Michigan St
+SUMMARY:🏈 Michigan St at Wolverines [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7da817053db15f8e
+X-SPORTSHUB-HASH:1e4754d6ddf46f44
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858523@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Wolverines @ Oregon
+SUMMARY:🏈 Wolverines at Oregon [Away]
 LOCATION:Autzen Stadium\, Eugene\, OR
 DESCRIPTION:Start time TBD\nVenue: Autzen Stadium\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d681972e7620d30e
+X-SPORTSHUB-HASH:2e907edd0bebc540
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858528@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Wolverines vs UCLA
+SUMMARY:🏈 UCLA at Wolverines [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:648d4b24eb399c89
+X-SPORTSHUB-HASH:af0ad0a015f22963
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858540@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/Detroit:20261128T120000
 DTEND;TZID=America/Detroit:20261128T153000
-SUMMARY:Wolverines @ Ohio State
+SUMMARY:🏈 Wolverines at Ohio State [Away]
 LOCATION:Ohio Stadium\, Columbus\, OH
 DESCRIPTION:TV: FOX\nVenue: Ohio Stadium\nhttps://jonnylegal.github.io/spor
  ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4c1e7565e98d0fa7
+X-SPORTSHUB-HASH:c62ec205a067c46d
 END:VEVENT
 END:VCALENDAR

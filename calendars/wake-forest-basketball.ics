@@ -27,71 +27,71 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817527@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251103T200000
 DTEND;TZID=America/New_York:20251103T221500
-SUMMARY:Demon Deacons vs American (W 88-74)
+SUMMARY:🏀 ✅ American 74 at Demon Deacons 88 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 88-74\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:41a98f51c14f6967
+X-SPORTSHUB-HASH:cec2088777920f60
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817528@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251107T190000
 DTEND;TZID=America/New_York:20251107T211500
-SUMMARY:Demon Deacons vs Morehead St (W 81-65)
+SUMMARY:🏀 ✅ Morehead St 65 at Demon Deacons 81 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 81-65\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:208ed05a74aef6f3
+X-SPORTSHUB-HASH:57aa4c3aba944991
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817529@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251111T183000
 DTEND;TZID=America/New_York:20251111T204500
-SUMMARY:Demon Deacons vs Michigan (L 84-85)
+SUMMARY:🏀 ❌ Demon Deacons 84 vs Michigan 85 [Neutral]
 LOCATION:Little Caesars Arena\, Detroit\, MI
 DESCRIPTION:Final: Lost 84-85\nTV: FS1\nVenue: Little Caesars Arena (neutra
  l site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0d9cf6808443ff5d
+X-SPORTSHUB-HASH:b63e509e568f3c15
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817530@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251116T140000
 DTEND;TZID=America/New_York:20251116T161500
-SUMMARY:Demon Deacons vs UMass Lowell (W 109-75)
+SUMMARY:🏀 ✅ UMass Lowell 75 at Demon Deacons 109 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 109-75\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4d5b8dd6a736da61
+X-SPORTSHUB-HASH:effaa71fd4f004ed
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817531@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251120T205900
 DTEND;TZID=America/New_York:20251120T231400
-SUMMARY:Demon Deacons vs Texas Tech (L 83-84)
+SUMMARY:🏀 ❌ Demon Deacons 83 vs Texas Tech 84 [Neutral]
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 DESCRIPTION:Final: Lost 83-84\nTV: CBSSN\nBaha Mar Championship\nVenue: Bah
  a Mar Convention Center (neutral site)\nhttps://jonnylegal.github.io/sport
@@ -99,15 +99,15 @@ DESCRIPTION:Final: Lost 83-84\nTV: CBSSN\nBaha Mar Championship\nVenue: Bah
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e50c87bd151806af
+X-SPORTSHUB-HASH:d230c3ffe6ff581a
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401823638@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251121T190000
 DTEND;TZID=America/New_York:20251121T211500
-SUMMARY:Demon Deacons vs Memphis (W 69-68)
+SUMMARY:🏀 ✅ Demon Deacons 69 vs Memphis 68 [Neutral]
 LOCATION:Baha Mar Convention Center\, Nassau\, Bahamas
 DESCRIPTION:Final: Won 69-68\nTV: CBSSN\nBaha Mar Championship - Consolatio
  n Game\nVenue: Baha Mar Convention Center (neutral site)\nhttps://jonnyleg
@@ -115,60 +115,60 @@ DESCRIPTION:Final: Won 69-68\nTV: CBSSN\nBaha Mar Championship - Consolatio
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:864e650ffb6ffd78
+X-SPORTSHUB-HASH:812ac6f7b018c817
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817532@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251125T190000
 DTEND;TZID=America/New_York:20251125T211500
-SUMMARY:Demon Deacons vs Campbell (W 99-51)
+SUMMARY:🏀 ✅ Campbell 51 at Demon Deacons 99 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 99-51\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:198e611762c5199d
+X-SPORTSHUB-HASH:88497d36265648b1
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817533@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251128T120000
 DTEND;TZID=America/New_York:20251128T141500
-SUMMARY:Demon Deacons vs Northeastern (W 86-73)
+SUMMARY:🏀 ✅ Northeastern 73 at Demon Deacons 86 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 86-73\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a513b6fa6e7f9eac
+X-SPORTSHUB-HASH:c9d940c466f58ee2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401806370@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251202T190000
 DTEND;TZID=America/New_York:20251202T211500
-SUMMARY:Demon Deacons vs Oklahoma (L 68-86)
+SUMMARY:🏀 ❌ Oklahoma 86 at Demon Deacons 68 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 68-86\nTV: ACC Network\nACC/SEC Men's Challenge\nVe
  nue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:36b15daacff7c79c
+X-SPORTSHUB-HASH:1e22fbaa668f4ef4
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817534@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251206T180000
 DTEND;TZID=America/New_York:20251206T201500
-SUMMARY:Demon Deacons vs West Virginia (W 75-66)
+SUMMARY:🏀 ✅ Demon Deacons 75 vs West Virginia 66 [Neutral]
 LOCATION:Charleston Coliseum\, Charleston\, WV
 DESCRIPTION:Final: Won 75-66\nTV: ESPN2\nHoliday Hoopfest presented by Char
  lestonWV.com\nVenue: Charleston Coliseum (neutral site)\nhttps://jonnylega
@@ -176,330 +176,330 @@ DESCRIPTION:Final: Won 75-66\nTV: ESPN2\nHoliday Hoopfest presented by Char
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:37318db2c05e71f2
+X-SPORTSHUB-HASH:150de912a90f3a71
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817535@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251214T170000
 DTEND;TZID=America/New_York:20251214T191500
-SUMMARY:Demon Deacons vs Queens (W 111-73)
+SUMMARY:🏀 ✅ Queens 73 at Demon Deacons 111 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 111-73\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:361d7c08ecec2f83
+X-SPORTSHUB-HASH:db3ea355e9421e9f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817536@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251217T190000
 DTEND;TZID=America/New_York:20251217T211500
-SUMMARY:Demon Deacons vs Longwood (W 71-68)
+SUMMARY:🏀 ✅ Longwood 68 at Demon Deacons 71 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 71-68\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0a6d6a82a3a118b2
+X-SPORTSHUB-HASH:f4a15ad28e8b5c1f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401817537@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251221T130000
 DTEND;TZID=America/New_York:20251221T151500
-SUMMARY:Demon Deacons vs Vanderbilt (L 67-98)
+SUMMARY:🏀 ❌ Vanderbilt 98 at Demon Deacons 67 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 67-98\nTV: CW\nVenue: LJVM Coliseum\nhttps://jonnyl
  egal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e4d79bb0ec366a25
+X-SPORTSHUB-HASH:c2166792de4cd9f2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820638@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20251231T120000
 DTEND;TZID=America/New_York:20251231T141500
-SUMMARY:Demon Deacons @ NC State (L 57-70)
+SUMMARY:🏀 ❌ Demon Deacons 57 at NC State 70 [Away]
 LOCATION:Lenovo Center\, Raleigh\, NC
 DESCRIPTION:Final: Lost 57-70\nTV: ESPN2\nVenue: Lenovo Center\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d739ced77fd90416
+X-SPORTSHUB-HASH:527bfc4098cbfd2c
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820649@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260103T120000
 DTEND;TZID=America/New_York:20260103T141500
-SUMMARY:Demon Deacons vs Virginia Tech (W 81-78)
+SUMMARY:🏀 ✅ Virginia Tech 78 at Demon Deacons 81 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 81-78\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps:
  //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fe0d7a42c4243ad7
+X-SPORTSHUB-HASH:631ae546e06afcc9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820656@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260107T190000
 DTEND;TZID=America/New_York:20260107T211500
-SUMMARY:Demon Deacons vs Miami (L 77-81)
+SUMMARY:🏀 ❌ Miami 81 at Demon Deacons 77 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 77-81\nTV: ESPNU\nVenue: LJVM Coliseum\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e9d8884b737bc0a5
+X-SPORTSHUB-HASH:503890ff5ea55d1f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820661@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260110T180000
 DTEND;TZID=America/New_York:20260110T201500
-SUMMARY:Demon Deacons @ North Carolina (L 84-87)
+SUMMARY:🏀 ❌ Demon Deacons 84 at North Carolina 87 [Away]
 LOCATION:Dean E. Smith Center\, Chapel Hill\, NC
 DESCRIPTION:Final: Lost 84-87\nTV: ACC Network\nVenue: Dean E. Smith Center
  \nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:19763a706471be3e
+X-SPORTSHUB-HASH:7f2b196d9abb5a49
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820677@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260117T180000
 DTEND;TZID=America/New_York:20260117T201500
-SUMMARY:Demon Deacons @ Florida St (W 69-68)
+SUMMARY:🏀 ✅ Demon Deacons 69 at Florida St 68 [Away]
 LOCATION:Tucker Center\, Tallahassee\, FL
 DESCRIPTION:Final: Won 69-68\nTV: ESPN2\nVenue: Tucker Center\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8820da229669d9cd
+X-SPORTSHUB-HASH:7181bd5594c40b4f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820683@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260120T210000
 DTEND;TZID=America/New_York:20260120T231500
-SUMMARY:Demon Deacons vs SMU (L 79-91)
+SUMMARY:🏀 ❌ SMU 91 at Demon Deacons 79 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 79-91\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps
  ://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a628e1fb8d900691
+X-SPORTSHUB-HASH:c69eb757697bfc9f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820689@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260124T120000
 DTEND;TZID=America/New_York:20260124T141500
-SUMMARY:Demon Deacons @ Duke (L 69-90)
+SUMMARY:🏀 ❌ Demon Deacons 69 at Duke 90 [Away]
 LOCATION:Cameron Indoor Stadium\, Durham\, NC
 DESCRIPTION:Final: Lost 69-90\nTV: CW\nVenue: Cameron Indoor Stadium\nhttps
  ://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:610a739381556aeb
+X-SPORTSHUB-HASH:94ea4663680a1a20
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820704@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260127T180000
 DTEND;TZID=America/New_York:20260127T201500
-SUMMARY:Demon Deacons @ Pitt (L 76-80)
+SUMMARY:🏀 ❌ Demon Deacons 76 at Pitt 80 [Away]
 LOCATION:Petersen Events Center\, Pittsburgh\, PA
 DESCRIPTION:Final: Lost 76-80\nTV: ACC Network\nVenue: Petersen Events Cent
  er\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2c6d249fb707656f
+X-SPORTSHUB-HASH:509e0e460f83afe1
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820713@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260131T120000
 DTEND;TZID=America/New_York:20260131T141500
-SUMMARY:Demon Deacons vs NC State (L 78-96)
+SUMMARY:🏀 ❌ NC State 96 at Demon Deacons 78 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 78-96\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5c986f23d86be3ba
+X-SPORTSHUB-HASH:9eda57de43856f2b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820729@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260207T120000
 DTEND;TZID=America/New_York:20260207T141500
-SUMMARY:Demon Deacons vs Louisville (L 80-88)
+SUMMARY:🏀 ❌ Louisville 88 at Demon Deacons 80 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 80-88\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps
  ://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4c5ca474af5622c3
+X-SPORTSHUB-HASH:9aa9a48d67a25942
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820735@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260211T210000
 DTEND;TZID=America/New_York:20260211T231500
-SUMMARY:Demon Deacons @ Georgia Tech (W 83-67)
+SUMMARY:🏀 ✅ Demon Deacons 83 at Georgia Tech 67 [Away]
 LOCATION:McCamish Pavilion\, Atlanta\, GA
 DESCRIPTION:Final: Won 83-67\nTV: ACC Network\nVenue: McCamish Pavilion\nht
  tps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d42075d9e488a2c1
+X-SPORTSHUB-HASH:1b973ac619d1eea4
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820746@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260214T160000
 DTEND;TZID=America/New_York:20260214T181500
-SUMMARY:Demon Deacons vs Stanford (W 68-63)
+SUMMARY:🏀 ✅ Stanford 63 at Demon Deacons 68 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 68-63\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps:
  //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:44a6d634b86b7e7d
+X-SPORTSHUB-HASH:c9954ad04febb19d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820753@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260218T190000
 DTEND;TZID=America/New_York:20260218T211500
-SUMMARY:Demon Deacons vs Clemson (W 85-77)
+SUMMARY:🏀 ✅ Clemson 77 at Demon Deacons 85 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 85-77\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps:
  //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6684b21df362a521
+X-SPORTSHUB-HASH:d7102734b20ab12d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820761@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260221T120000
 DTEND;TZID=America/New_York:20260221T141500
-SUMMARY:Demon Deacons @ Virginia Tech (L 63-82)
+SUMMARY:🏀 ❌ Demon Deacons 63 at Virginia Tech 82 [Away]
 LOCATION:Cassell Coliseum\, Blacksburg\, VA
 DESCRIPTION:Final: Lost 63-82\nTV: ACC Network\nVenue: Cassell Coliseum\nht
  tps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8b52498cab40a756
+X-SPORTSHUB-HASH:06c39628fc1258f6
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820764@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260225T180000
 DTEND;TZID=America/New_York:20260225T201500
-SUMMARY:Demon Deacons @ Boston College (L 67-68)
+SUMMARY:🏀 ❌ Demon Deacons 67 at Boston College 68 [Away]
 LOCATION:Conte Forum\, Chestnut Hill\, MA
 DESCRIPTION:Final: Lost 67-68\nTV: ACC Network\nVenue: Conte Forum\nhttps:/
  /jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8f08317d9a127ade
+X-SPORTSHUB-HASH:0b756ace14e7fc4b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820777@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260228T174500
 DTEND;TZID=America/New_York:20260228T200000
-SUMMARY:Demon Deacons vs Syracuse (W 88-83)
+SUMMARY:🏀 ✅ Syracuse 83 at Demon Deacons 88 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 88-83\nTV: CW\nVenue: LJVM Coliseum\nhttps://jonnyle
  gal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8c7bb310a3bd052f
+X-SPORTSHUB-HASH:0f691c7d3ef65252
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820785@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260303T190000
 DTEND;TZID=America/New_York:20260303T211500
-SUMMARY:Demon Deacons @ Virginia (L 70-75)
+SUMMARY:🏀 ❌ Demon Deacons 70 at Virginia 75 [Away]
 LOCATION:John Paul Jones Arena\, Charlottesville\, VA
 DESCRIPTION:Final: Lost 70-75\nTV: ACC Network\nVenue: John Paul Jones Aren
  a\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f97ba5340ed31876
+X-SPORTSHUB-HASH:334970ec5d9479cb
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401820795@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260307T160000
 DTEND;TZID=America/New_York:20260307T181500
-SUMMARY:Demon Deacons vs California (W 80-73)
+SUMMARY:🏀 ✅ California 73 at Demon Deacons 80 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 80-73\nTV: ACC Network\nVenue: LJVM Coliseum\nhttps:
  //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:73bc31bc8b804a54
+X-SPORTSHUB-HASH:a3ea48f760a64bf0
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401851172@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260310T190000
 DTEND;TZID=America/New_York:20260310T211500
-SUMMARY:Demon Deacons vs Virginia Tech (W 95-89)
+SUMMARY:🏀 ✅ Demon Deacons 95 vs Virginia Tech 89 [Neutral]
 LOCATION:Spectrum Center\, Charlotte\, NC
 DESCRIPTION:Final: Won 95-89\nTV: ACC Network\nT. Rowe Price ACC Tournament
   - 1st Round\nVenue: Spectrum Center (neutral site)\nhttps://jonnylegal.gi
@@ -507,15 +507,15 @@ DESCRIPTION:Final: Won 95-89\nTV: ACC Network\nT. Rowe Price ACC Tournament
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f798ce7482b5413e
+X-SPORTSHUB-HASH:94cea4a0f7592c2b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401851176@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260311T213800
 DTEND;TZID=America/New_York:20260311T235300
-SUMMARY:Demon Deacons vs Clemson (L 62-71)
+SUMMARY:🏀 ❌ Demon Deacons 62 vs Clemson 71 [Neutral]
 LOCATION:Spectrum Center\, Charlotte\, NC
 DESCRIPTION:Final: Lost 62-71\nTV: ESPN2\nT. Rowe Price ACC Tournament - 2n
  d Round\nVenue: Spectrum Center (neutral site)\nhttps://jonnylegal.github.
@@ -523,501 +523,501 @@ DESCRIPTION:Final: Lost 62-71\nTV: ESPN2\nT. Rowe Price ACC Tournament - 2n
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:019ce92168216a7a
+X-SPORTSHUB-HASH:5154e62672489b7d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401858344@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260318T190000
 DTEND;TZID=America/New_York:20260318T211500
-SUMMARY:Demon Deacons vs Navy (W 82-72)
+SUMMARY:🏀 ✅ Navy 72 at Demon Deacons 82 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 82-72\nTV: ESPNU\nNIT - 1st Round\nVenue: LJVM Colis
  eum\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8409c91d8a658ae3
+X-SPORTSHUB-HASH:2371ddb1264497d2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401858352@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260322T163000
 DTEND;TZID=America/New_York:20260322T184500
-SUMMARY:Demon Deacons vs Illinois St (L 75-78)
+SUMMARY:🏀 ❌ Illinois St 78 at Demon Deacons 75 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 75-78\nTV: ESPN2\nNIT - 2nd Round\nVenue: LJVM Coli
  seum\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a0740de79de090c6
+X-SPORTSHUB-HASH:0abeab0efad54247
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909725@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Demon Deacons vs MD Eastern
+SUMMARY:🏀 MD Eastern at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a65ad7cfc3cfd474
+X-SPORTSHUB-HASH:9afd974d01471e79
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909726@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
-SUMMARY:Demon Deacons @ Vanderbilt
+SUMMARY:🏀 Demon Deacons at Vanderbilt [Away]
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
 DESCRIPTION:Start time TBD\nVenue: Memorial Gymnasium (TN)\nhttps://jonnyle
  gal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:425694beff5bd1d3
+X-SPORTSHUB-HASH:95d111067ce35ff1
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909727@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-SUMMARY:Demon Deacons vs Charleston So
+SUMMARY:🏀 Charleston So at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7f7879355f60ac51
+X-SPORTSHUB-HASH:4d4acd97e8b01cd7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909728@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:Demon Deacons vs Southern Utah
+SUMMARY:🏀 Southern Utah at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:48db849ace4a05ac
+X-SPORTSHUB-HASH:11d863a4df8fbc9a
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909729@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Demon Deacons vs Monmouth
+SUMMARY:🏀 Monmouth at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:3e6e4a29b0b1ac49
+X-SPORTSHUB-HASH:1bc419e4f5fb60c2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909730@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:Demon Deacons vs W Carolina
+SUMMARY:🏀 W Carolina at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6487a0117ed9a7e0
+X-SPORTSHUB-HASH:b6298fbbdbeb54e5
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909731@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261201T210000
 DTEND;TZID=America/New_York:20261201T231500
-SUMMARY:Demon Deacons @ LSU
+SUMMARY:🏀 Demon Deacons at LSU [Away]
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
 DESCRIPTION:TV: SEC Network\nACC/SEC Men's Challenge\nVenue: Pete Maravich 
  Assembly Center\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d46c11fb9b9aab17
+X-SPORTSHUB-HASH:e1256791d81e95ff
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909732@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-SUMMARY:Demon Deacons vs UMass
+SUMMARY:🏀 Demon Deacons vs UMass [Neutral]
 LOCATION:MassMutual Center\, Springfield\, MA
 DESCRIPTION:Start time TBD\nBasketball Hall of Fame Classic\nVenue: MassMut
  ual Center (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8bfa552d8324bdb3
+X-SPORTSHUB-HASH:f477fadfd8c165ca
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909733@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:Demon Deacons vs Hampton
+SUMMARY:🏀 Hampton at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:19403d48bbf74406
+X-SPORTSHUB-HASH:080072071d73c2ff
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909734@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Demon Deacons vs Gardner-Webb
+SUMMARY:🏀 Gardner-Webb at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:59ce5ba8c7988e60
+X-SPORTSHUB-HASH:7eb50daedd87f74f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909735@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:Demon Deacons vs West Virginia
+SUMMARY:🏀 Demon Deacons vs West Virginia [Neutral]
 LOCATION:First Horizon Coliseum\, Greensboro\, NC
 DESCRIPTION:Start time TBD\nHoliday Hoopfest\nVenue: First Horizon Coliseum
   (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2493a835a91ff3f7
+X-SPORTSHUB-HASH:d2e0a219884da940
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909736@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
-SUMMARY:Demon Deacons vs Presbyterian
+SUMMARY:🏀 Presbyterian at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:816b27e944006077
+X-SPORTSHUB-HASH:670e1778540ffe5f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918106@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
-SUMMARY:Demon Deacons vs Virginia Tech
+SUMMARY:🏀 Virginia Tech at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6a513b19d18abfdd
+X-SPORTSHUB-HASH:82ed9d4c95eac314
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918108@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
-SUMMARY:Demon Deacons @ SMU
+SUMMARY:🏀 Demon Deacons at SMU [Away]
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
 DESCRIPTION:Start time TBD\nVenue: Moody Coliseum (Dallas)\nhttps://jonnyle
  gal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:402eaa2b4d983622
+X-SPORTSHUB-HASH:db548dd1d04237b9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918125@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-SUMMARY:Demon Deacons @ Clemson
+SUMMARY:🏀 Demon Deacons at Clemson [Away]
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
 DESCRIPTION:Start time TBD\nVenue: Littlejohn Coliseum\nhttps://jonnylegal.
  github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b94f7cfbd151b8e3
+X-SPORTSHUB-HASH:c09eceb73fd5c123
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918129@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
-SUMMARY:Demon Deacons vs Notre Dame
+SUMMARY:🏀 Notre Dame at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:836f98916ec332a2
+X-SPORTSHUB-HASH:b3d3682f0908c295
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918138@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
-SUMMARY:Demon Deacons vs Florida St
+SUMMARY:🏀 Florida St at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:71bf4e8d0e397f58
+X-SPORTSHUB-HASH:93ca7eb210eadfa4
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918148@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-SUMMARY:Demon Deacons vs Duke
+SUMMARY:🏀 Duke at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:34e98189a14e0e76
+X-SPORTSHUB-HASH:2c0a78ef65455171
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918154@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-SUMMARY:Demon Deacons @ NC State
+SUMMARY:🏀 Demon Deacons at NC State [Away]
 LOCATION:Lenovo Center\, Raleigh\, NC
 DESCRIPTION:Start time TBD\nVenue: Lenovo Center\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d872617b300a1bb4
+X-SPORTSHUB-HASH:b1e37d31f0565aa5
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918169@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-SUMMARY:Demon Deacons @ Miami
+SUMMARY:🏀 Demon Deacons at Miami [Away]
 LOCATION:Watsco Center\, Coral Gables\, FL
 DESCRIPTION:Start time TBD\nVenue: Watsco Center\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:aeeeb17e515b0e7b
+X-SPORTSHUB-HASH:0093b7832cafab17
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918176@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
-SUMMARY:Demon Deacons vs Boston College
+SUMMARY:🏀 Boston College at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ec22e18ba65a48b6
+X-SPORTSHUB-HASH:cbc8d11d6bd9fb7a
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918186@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-SUMMARY:Demon Deacons @ Louisville
+SUMMARY:🏀 Demon Deacons at Louisville [Away]
 LOCATION:KFC Yum! Center\, Louisville\, KY
 DESCRIPTION:Start time TBD\nVenue: KFC Yum! Center\nhttps://jonnylegal.gith
  ub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7925fe85c9621038
+X-SPORTSHUB-HASH:fa3daff7e9332364
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401925972@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-SUMMARY:Demon Deacons vs Boston College
+SUMMARY:🏀 Boston College at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b1e526351d92ce72
+X-SPORTSHUB-HASH:92416a1776e2728e
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918196@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-SUMMARY:Demon Deacons vs NC State
+SUMMARY:🏀 NC State at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8010f1385d16fab2
+X-SPORTSHUB-HASH:ec57205672e55e75
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918200@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:Demon Deacons vs Pitt
+SUMMARY:🏀 Pitt at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:17cb08a6b7077300
+X-SPORTSHUB-HASH:5f031719c36f04a7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918209@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
-SUMMARY:Demon Deacons @ Notre Dame
+SUMMARY:🏀 Demon Deacons at Notre Dame [Away]
 LOCATION:Purcell Pavilion\, South Bend\, IN
 DESCRIPTION:Start time TBD\nFlex Game: 2/16 or 2/17\nVenue: Purcell Pavilio
  n\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b424cd56dcf5559b
+X-SPORTSHUB-HASH:2545cd955462c35b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918218@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
-SUMMARY:Demon Deacons vs North Carolina
+SUMMARY:🏀 North Carolina at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:892b82de05b51988
+X-SPORTSHUB-HASH:b103a556b9128caa
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918229@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
-SUMMARY:Demon Deacons @ Stanford
+SUMMARY:🏀 Demon Deacons at Stanford [Away]
 LOCATION:Maples Pavilion\, Stanford\, CA
 DESCRIPTION:Start time TBD\nVenue: Maples Pavilion\nhttps://jonnylegal.gith
  ub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6070e0c84f27542d
+X-SPORTSHUB-HASH:be08cddd9edb551d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918230@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
-SUMMARY:Demon Deacons @ California
+SUMMARY:🏀 Demon Deacons at California [Away]
 LOCATION:Haas Pavilion\, Berkeley\, CA
 DESCRIPTION:Start time TBD\nVenue: Haas Pavilion\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e3837f941953a9fb
+X-SPORTSHUB-HASH:6e0b29ee426c6102
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918244@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
-SUMMARY:Demon Deacons vs Georgia Tech
+SUMMARY:🏀 Georgia Tech at Demon Deacons [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:aa8bf8645da07bfd
+X-SPORTSHUB-HASH:87062a5ab50e563d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918246@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
-SUMMARY:Demon Deacons @ Syracuse
+SUMMARY:🏀 Demon Deacons at Syracuse [Away]
 LOCATION:JMA Wireless Dome\, Syracuse\, NY
 DESCRIPTION:Start time TBD\nVenue: JMA Wireless Dome\nhttps://jonnylegal.gi
  thub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:371cfe140c5248e5
+X-SPORTSHUB-HASH:0497236fe7014225
 END:VEVENT
 END:VCALENDAR

@@ -27,257 +27,257 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ravens-espn-401872659@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260913T130000
 DTEND;TZID=America/New_York:20260913T163000
-SUMMARY:Ravens @ Colts (W 41-23)
+SUMMARY:🏈 ✅ Ravens 41 at Colts 23 [Away]
 LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
 DESCRIPTION:Final: Won 41-23\nTV: CBS\nVenue: Lucas Oil Stadium\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8f61ff0846d8cefd
+X-SPORTSHUB-HASH:62af1fbfc3df5546
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872938@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260920T130000
 DTEND;TZID=America/New_York:20260920T163000
-SUMMARY:Ravens vs Saints (L 17-24)
+SUMMARY:🏈 ❌ Saints 24 at Ravens 17 [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:Final: Lost 17-24\nTV: CBS\nVenue: M&T Bank Stadium\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b8d534ede0ea3412
+X-SPORTSHUB-HASH:3ef746fa2e990287
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872960@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20260927T162500
 DTEND;TZID=America/New_York:20260927T195500
-SUMMARY:Ravens vs Cowboys (W 34-31)
+SUMMARY:🏈 ✅ Ravens 34 vs Cowboys 31 [Neutral]
 LOCATION:Maracanã Stadium\, Rio De Janeiro
 DESCRIPTION:Final: Won 34-31\nTV: CBS\nNFL Rio Game\nVenue: Maracanã Stadi
  um (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5dde54ce964c97b7
+X-SPORTSHUB-HASH:d94ab9981ed74af3
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872973@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261004T130000
 DTEND;TZID=America/New_York:20261004T163000
-SUMMARY:Ravens vs Titans
+SUMMARY:🏈 Titans at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: CBS\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a9ea7e4bd7550674
+X-SPORTSHUB-HASH:286e11fdcb10d2dc
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872993@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261011T202000
 DTEND;TZID=America/New_York:20261011T235000
-SUMMARY:Ravens @ Falcons
+SUMMARY:🏈 Ravens at Falcons [Away]
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
 DESCRIPTION:TV: NBC\nVenue: Mercedes-Benz Stadium\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4626a7133d7a34f0
+X-SPORTSHUB-HASH:333bdf93fc052eef
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872997@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T163000
-SUMMARY:Ravens @ Browns
+SUMMARY:🏈 Ravens at Browns [Away]
 LOCATION:Huntington Bank Field\, Cleveland\, OH
 DESCRIPTION:TV: FOX\nVenue: Huntington Bank Field\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ef83ec81ea6e8f40
+X-SPORTSHUB-HASH:55fc07d8ffd2cd8b
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873012@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261025T130000
 DTEND;TZID=America/New_York:20261025T163000
-SUMMARY:Ravens vs Bengals
+SUMMARY:🏈 Bengals at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: CBS\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:643d04f871ae2cd4
+X-SPORTSHUB-HASH:aac4987d43064388
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873026@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261101T130000
 DTEND;TZID=America/New_York:20261101T163000
-SUMMARY:Ravens @ Bills
+SUMMARY:🏈 Ravens at Bills [Away]
 LOCATION:Highmark Stadium\, Orchard Park\, NY
 DESCRIPTION:TV: CBS\nVenue: Highmark Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:1b7937252fce01a2
+X-SPORTSHUB-HASH:1735ae8abdea496a
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873037@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261105T201500
 DTEND;TZID=America/New_York:20261105T234500
-SUMMARY:Ravens vs Jaguars
+SUMMARY:🏈 Jaguars at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: Prime Video\nVenue: M&T Bank Stadium\nhttps://jonnylegal.gi
  thub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:65953b7417cd2c60
+X-SPORTSHUB-HASH:5d7a3a1fa656b5b8
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873065@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261116T201500
 DTEND;TZID=America/New_York:20261116T234500
-SUMMARY:Ravens vs Chargers
+SUMMARY:🏈 Chargers at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: ESPN\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io
  /sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:de9a3de9116b6d40
+X-SPORTSHUB-HASH:aeb8663d9c38dde2
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873068@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261122T130000
 DTEND;TZID=America/New_York:20261122T163000
-SUMMARY:Ravens @ Panthers
+SUMMARY:🏈 Ravens at Panthers [Away]
 LOCATION:Bank of America Stadium\, Charlotte\, NC
 DESCRIPTION:TV: FOX\nVenue: Bank of America Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ae8fe15c128f7688
+X-SPORTSHUB-HASH:0e71b07ae306c1ca
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873085@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261129T130000
 DTEND;TZID=America/New_York:20261129T163000
-SUMMARY:Ravens @ Texans
+SUMMARY:🏈 Ravens at Texans [Away]
 LOCATION:Reliant Stadium\, Houston\, TX
 DESCRIPTION:TV: CBS\nVenue: Reliant Stadium\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d43939229ee4d1b5
+X-SPORTSHUB-HASH:d3edecd1f58e67af
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873116@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261213T130000
 DTEND;TZID=America/New_York:20261213T163000
-SUMMARY:Ravens vs Buccaneers
+SUMMARY:🏈 Buccaneers at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: FOX\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:20e1f6c267446d03
+X-SPORTSHUB-HASH:2b2ee20f237c7493
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873128@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261220T130000
 DTEND;TZID=America/New_York:20261220T163000
-SUMMARY:Ravens @ Steelers
+SUMMARY:🏈 Ravens at Steelers [Away]
 LOCATION:Acrisure Stadium\, Pittsburgh\, PA
 DESCRIPTION:TV: CBS\nVenue: Acrisure Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:1990d20422b550ac
+X-SPORTSHUB-HASH:a5b8428c073509d0
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873149@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261227T130000
 DTEND;TZID=America/New_York:20261227T163000
-SUMMARY:Ravens vs Browns
+SUMMARY:🏈 Browns at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:TV: CBS\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2cb09a0b03857c55
+X-SPORTSHUB-HASH:00ec31e675b5dfba
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873156@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261231T201500
 DTEND;TZID=America/New_York:20261231T234500
-SUMMARY:Ravens @ Bengals
+SUMMARY:🏈 Ravens at Bengals [Away]
 LOCATION:Paycor Stadium\, Cincinnati\, OH
 DESCRIPTION:TV: Prime Video\nVenue: Paycor Stadium\nhttps://jonnylegal.gith
  ub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b534afe111a9b2d7
+X-SPORTSHUB-HASH:5f3f28b3754b6b5b
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873183@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T005804Z
-SEQUENCE:0
+DTSTAMP:20261004T010544Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-SUMMARY:Ravens vs Steelers
+SUMMARY:🏈 Steelers at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
 DESCRIPTION:Start time TBD\nFlex Game: 1/9 or 1/10\nVenue: M&T Bank Stadium
  \nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fbb8e9871232885a
+X-SPORTSHUB-HASH:ba838a1fcf41eadf
 END:VEVENT
 END:VCALENDAR
