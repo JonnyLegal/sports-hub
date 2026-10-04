@@ -165,6 +165,22 @@ def espn_schedule(cfg, season=None):
     return events, season
 
 
+def tally(games):
+    by_id = {g["id"]: g for g in games if g["state"] == "post"}
+    results = [g.get("result") for g in by_id.values()]
+    w, l, t = results.count("W"), results.count("L"), results.count("T")
+    if not w + l + t:
+        return None
+    return f"{w}-{l}-{t}" if t else f"{w}-{l}"
+
+
+def season_label(cfg, year):
+    # ESPN names basketball seasons by the year they end in (2026 = 2025-26).
+    if "basketball" in cfg["path"]:
+        return f"{year - 1}-{str(year)[-2:]}"
+    return str(year)
+
+
 def fetch_espn(cfg):
     team = get_json(f"{ESPN}/{cfg['path']}/teams/{cfg['id']}").get("team", {})
     record_items = (team.get("record") or {}).get("items") or []
@@ -177,12 +193,23 @@ def fetch_espn(cfg):
     if season and not any(g["state"] in ("pre", "in") for g in games):
         more, _ = espn_schedule(cfg, season + 1)
         games += [g for g in (espn_game(e, cfg["id"]) for e in more) if g]
+    prev_games = []
     if season and not any(g["state"] == "post" for g in games):
         more, _ = espn_schedule(cfg, season - 1)
-        games += [g for g in (espn_game(e, cfg["id"]) for e in more) if g]
+        prev_games = [g for g in (espn_game(e, cfg["id"]) for e in more) if g]
+        games += prev_games
+
+    # In the preseason ESPN reports no record at all, so fall back to last
+    # season's final record, tallied from its games.
+    record, record_note = total.get("summary"), None
+    if not record and prev_games:
+        record = tally(prev_games)
+        if record:
+            record_note = f"{season_label(cfg, season - 1)} final"
 
     return {
-        "record": total.get("summary"),
+        "record": record,
+        "recordNote": record_note,
         "standing": team.get("standingSummary"),
         "logo": ((team.get("logos") or [{}])[0].get("href")),
         "games": games,
@@ -260,7 +287,7 @@ def fetch_mlb(cfg):
                             standing += f" ({gb} GB)"
         if record:
             break
-    return {"record": record, "standing": standing, "logo": None, "games": games}
+    return {"record": record, "recordNote": None, "standing": standing, "logo": None, "games": games}
 
 
 def ordinal(n):
@@ -289,6 +316,7 @@ def build_team(cfg, previous):
             **base,
             "logo": raw["logo"] or cfg["logo"],
             "record": raw["record"],
+            "recordNote": raw["recordNote"],
             "standing": raw["standing"],
             "live": live,
             "last": last,
