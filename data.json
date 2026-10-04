@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T17:56:16+00:00",
+  "updated": "2026-10-04T17:58:07+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -30,8 +30,8 @@
         "broadcast": "CBS",
         "neutral": false,
         "note": null,
-        "teamScore": null,
-        "oppScore": null,
+        "teamScore": 14,
+        "oppScore": 7,
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872973",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872973"
       },
