@@ -72,33 +72,33 @@ X-SPORTSHUB-HASH:28b982e0d1d8bf09
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401822996@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20251119T183000
 DTEND;TZID=America/Detroit:20251119T204500
-SUMMARY:🏀 ✅ MTSU 61 at Michigan 86 [Home]
+SUMMARY:🏀 ✅ Middle Tennessee 61 at Michigan 86 [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 86-61\nTV: BTN\nVenue: Crisler Center\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9af30e488770c67d
+X-SPORTSHUB-HASH:bdcec4ae3cb5d229
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401823764@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20251124T223000
 DTEND;TZID=America/Detroit:20251125T004500
-SUMMARY:🏀 ✅ Michigan 94 vs San Diego St 54 [Neutral]
+SUMMARY:🏀 ✅ Michigan 94 vs San Diego State 54 [Neutral]
 LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
 DESCRIPTION:Final: Won 94-54\nTV: truTV\nPlayers Era Festival\nVenue: Miche
  lob ULTRA Arena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d31efc3bfbd5b7be
+X-SPORTSHUB-HASH:af06393aa1f4a7a4
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401823479@sports-hub.jonnylegal.github.io
@@ -328,18 +328,18 @@ X-SPORTSHUB-HASH:ba4f7b47477bb64d
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825481@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260130T200000
 DTEND;TZID=America/Detroit:20260130T221500
-SUMMARY:🏀 ✅ Michigan 83 at Michigan St 71 [Away]
+SUMMARY:🏀 ✅ Michigan 83 at Michigan State 71 [Away]
 LOCATION:Breslin Center\, East Lansing\, MI
 DESCRIPTION:Final: Won 83-71\nTV: FOX\nVenue: Breslin Center\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2d81c8269133f70f
+X-SPORTSHUB-HASH:4a5fa37e8ea890cc
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825496@sports-hub.jonnylegal.github.io
@@ -479,18 +479,18 @@ X-SPORTSHUB-HASH:c5479d2c964fd7b1
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825568@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260308T163000
 DTEND;TZID=America/Detroit:20260308T184500
-SUMMARY:🏀 ✅ Michigan St 80 at Michigan 90 [Home]
+SUMMARY:🏀 ✅ Michigan State 80 at Michigan 90 [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 90-80\nTV: CBS\nVenue: Crisler Center\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:814a1bd65b3b6491
+X-SPORTSHUB-HASH:ee4108036832e1e2
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401851380@sports-hub.jonnylegal.github.io
@@ -726,18 +726,18 @@ X-SPORTSHUB-HASH:b2bd9918b0af8c7f
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:🏀 Miss Valley St at Michigan [Home]
+SUMMARY:🏀 Mississippi Valley State at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c89a3d323cb678b1
+X-SPORTSHUB-HASH:f25b5e11427b0a45
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401918951@sports-hub.jonnylegal.github.io
@@ -981,18 +981,18 @@ X-SPORTSHUB-HASH:50e5688a8b639586
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921970@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
-SUMMARY:🏀 Michigan St at Michigan [Home]
+SUMMARY:🏀 Michigan State at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c0986eb67609443a
+X-SPORTSHUB-HASH:0c986f49048ed021
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921977@sports-hub.jonnylegal.github.io
@@ -1042,18 +1042,18 @@ X-SPORTSHUB-HASH:8be46cba01575f97
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921997@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-SUMMARY:🏀 Michigan at Michigan St [Away]
+SUMMARY:🏀 Michigan at Michigan State [Away]
 LOCATION:Breslin Center\, East Lansing\, MI
 DESCRIPTION:Start time TBD\nVenue: Breslin Center\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:1a6545487cf7d245
+X-SPORTSHUB-HASH:0f27d466d5ad0557
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401922009@sports-hub.jonnylegal.github.io

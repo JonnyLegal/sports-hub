@@ -27,18 +27,18 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:michigan-football-espn-401858428@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260905T193000
 DTEND;TZID=America/Detroit:20260905T230000
-SUMMARY:🏈 ✅ W Michigan 12 at Michigan 13 [Home]
+SUMMARY:🏈 ✅ Western Michigan 12 at Michigan 13 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Final: Won 13-12\nTV: NBC\nVenue: Michigan Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a62e34695bd2f520
+X-SPORTSHUB-HASH:2fd93dd475b859c7
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401856679@sports-hub.jonnylegal.github.io
@@ -147,18 +147,18 @@ X-SPORTSHUB-HASH:ccad9fdfea76da43
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858511@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261004T011102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:🏈 Michigan St at Michigan [Home]
+SUMMARY:🏈 Michigan State at Michigan [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
 DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ae6bdd594129a037
+X-SPORTSHUB-HASH:187448e997dfb594
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858523@sports-hub.jonnylegal.github.io
