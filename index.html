@@ -154,7 +154,8 @@
     font-size: 0.85rem;
     color: var(--muted);
   }
-  .cal a { color: var(--link); font-weight: 600; text-decoration: none; }
+  .cal a, .follow { color: var(--link); font-weight: 600; text-decoration: none; }
+  .follow { display: inline-block; margin: 6px 0 0 38px; font-size: 0.85rem; }
   .cal a:hover { text-decoration: underline; }
   .stale { color: var(--muted); font-size: 0.75rem; padding: 0 16px 10px; }
   #error { max-width: 1100px; margin: 0 auto; padding: 0 16px; color: var(--loss); }
@@ -216,11 +217,21 @@ function oppLogo(g) {
     : `<span class="opp-logo"></span>`;
 }
 
-function gameRow(g, kind) {
+function asOf(iso) {
+  return new Date(iso).toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+}
+
+function follow(g) {
+  return g.gameUrl ? `<a class="follow" href="${esc(g.gameUrl)}" target="_blank" rel="noopener">Follow live ↗</a>` : "";
+}
+
+// kind "live" rows show the game clock only when it's fresh (polled just now);
+// an hourly snapshot gets "Score as of <time>" instead of a stale clock.
+function gameRow(g, kind, fresh = false) {
   const meta = [];
   if (kind === "last") meta.push(fmtDate(g.date, false, g.timeTBD));
   if (kind === "next") meta.push(fmtDate(g.date, true, g.timeTBD));
-  if (kind === "live" && g.detail) meta.push(g.detail);
+  if (kind === "live") meta.push(fresh ? g.detail || "In progress" : `Score as of ${asOf(DATA.updated)}`);
   if (kind === "next" && g.broadcast) meta.push(g.broadcast);
   if (kind !== "last" && g.venue) meta.push(g.venue);
   if (g.note) meta.push(g.note);
@@ -258,12 +269,26 @@ function calRow(t) {
 function card(t) {
   const c = t.colors;
   const style = `--primary:${c.primary};--accent:${c.secondary};--on-primary:${c.text}`;
+  // Merge a live poll (if any) over the hourly snapshot.
+  const L = LIVE[t.key];
+  const polled = L && [t.live, t.next].find((g) => g && g.id === L.id);
+  const liveGame = L && L.state === "in" && polled ? { ...polled, ...L }
+    : t.live && !(L && L.state === "post" && L.id === t.live.id) ? t.live : null;
+  const fresh = !!(liveGame && L && L.state === "in");
+  const finished = L && L.state === "post" && polled ? { ...polled, ...L } : null;
+  const last = finished || t.last;
+  const shown = [liveGame, finished].filter(Boolean).map((g) => g.id);
+  const next = t.next && !shown.includes(t.next.id) ? t.next : null;
+  // Past its start but no live score (poll failed or not started): offer the game page.
+  const started = next && !next.timeTBD && Date.now() >= Date.parse(next.date);
+
   const sections = [];
-  if (t.live) sections.push(`<div class="section"><div class="label live">Live</div>${gameRow(t.live, "live")}</div>`);
+  if (liveGame) sections.push(`<div class="section"><div class="label live">Live</div>${
+    gameRow(liveGame, "live", fresh)}${follow(liveGame)}</div>`);
   sections.push(`<div class="section"><div class="label">Last game</div>${
-    t.last ? gameRow(t.last, "last") : `<div class="empty">No recent games</div>`}</div>`);
-  if (!t.live || t.next) sections.push(`<div class="section"><div class="label">Next game</div>${
-    t.next ? gameRow(t.next, "next") : `<div class="empty">Not scheduled yet</div>`}</div>`);
+    last ? gameRow(last, "last") : `<div class="empty">No recent games</div>`}</div>`);
+  if (next || !(liveGame || finished)) sections.push(`<div class="section"><div class="label">Next game</div>${
+    next ? gameRow(next, "next") + (started ? follow(next) : "") : `<div class="empty">Not scheduled yet</div>`}</div>`);
 
   return `
     <article class="card" style="${style}">
@@ -286,7 +311,7 @@ function card(t) {
 // with nothing scheduled. A TBD game counts as the end of its day, so it
 // sorts after a timed game on the same date. Ties keep data.json's order.
 function nextGameKey(t) {
-  if (t.live) return -Infinity;
+  if (t.live || (LIVE[t.key] && LIVE[t.key].state === "in")) return -Infinity;
   if (!t.next || !t.next.date) return Infinity;
   const ms = Date.parse(t.next.date);
   if (Number.isNaN(ms)) return Infinity;
@@ -300,20 +325,102 @@ function byNextGame(teams) {
   });
 }
 
+// ---- Live scores --------------------------------------------------------
+// data.json refreshes hourly, so during a game the page polls that one game's
+// scoreboard itself (ESPN and MLB both allow cross-origin GETs). Plain fetch()
+// with no custom headers: a CORS preflight would be refused.
+let DATA = null;
+const LIVE = {};    // team key -> { id, state, detail, teamScore, oppScore, result }
+const timers = {};
+const POLL_MS = 30000;
+
+// The game to poll: the snapshot's live game, or the next game from 10 min
+// before its start to 6 h after (it may have started since the last refresh).
+function pollTarget(t) {
+  if (t.live && t.live.liveUrl) return t.live;
+  const g = t.next;
+  if (!g || !g.liveUrl || g.timeTBD) return null;
+  const start = Date.parse(g.date), now = Date.now();
+  return now >= start - 10 * 60000 && now <= start + 6 * 3600000 ? g : null;
+}
+
+function parseLive(g, d) {
+  const side = g.homeAway === "away" ? "away" : "home";
+  if (d.dates) {  // MLB schedule?gamePk=
+    const m = d.dates[0].games[0], ls = m.linescore || {};
+    const us = m.teams[side], them = m.teams[side === "home" ? "away" : "home"];
+    const st = m.status || {};
+    let state = { Preview: "pre", Live: "in", Final: "post" }[st.abstractGameState] || "pre";
+    if (["Postponed", "Cancelled", "Suspended"].includes(st.detailedState)) state = "canceled";
+    const detail = state === "in" && ls.currentInningOrdinal
+      ? `${ls.inningHalf || ""} ${ls.currentInningOrdinal}`.trim() : st.detailedState;
+    const result = state === "post" ? (us.isWinner ? "W" : them.isWinner ? "L" : null) : null;
+    return { id: g.id, state, detail, teamScore: us.score ?? null, oppScore: them.score ?? null, result };
+  }
+  const c = d.competitions[0], st = c.status.type;  // ESPN scoreboard/{id}
+  const us = c.competitors.find((x) => x.homeAway === side);
+  const them = c.competitors.find((x) => x !== us);
+  const num = (x) => (x && x.score != null && x.score !== "" ? Number(x.score) : null);
+  let state = st.state;
+  if (["STATUS_POSTPONED", "STATUS_CANCELED"].includes(st.name)) state = "canceled";
+  let result = null;
+  if (state === "post") {
+    result = us.winner ? "W" : them.winner ? "L" : g.liveUrl.includes("/soccer/") ? "D" : "T";
+  }
+  return { id: g.id, state, detail: st.shortDetail || st.detail, teamScore: num(us), oppScore: num(them), result };
+}
+
+async function poll(key) {
+  delete timers[key];
+  const t = DATA.teams.find((x) => x.key === key);
+  const g = t && pollTarget(t);
+  if (!g) return;
+  if (!document.hidden) {
+    try {
+      const res = await fetch(g.liveUrl);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      LIVE[key] = parseLive(g, await res.json());
+    } catch (e) {
+      delete LIVE[key];  // fall back to the hourly snapshot, labelled "as of"
+    }
+    render();
+  }
+  const L = LIVE[key];
+  if (!(L && ["post", "canceled"].includes(L.state))) timers[key] = setTimeout(() => poll(key), POLL_MS);
+}
+
+function startPolling() {
+  for (const t of DATA.teams) if (!timers[t.key] && pollTarget(t) && !(LIVE[t.key] && LIVE[t.key].state === "post")) poll(t.key);
+}
+
+function render() {
+  document.getElementById("teams").innerHTML = byNextGame(DATA.teams).map(card).join("");
+  const u = document.getElementById("updated");
+  u.textContent = `Updated ${ago(DATA.updated)}`;
+  u.title = new Date(DATA.updated).toLocaleString();
+}
+
 async function load() {
   try {
     const res = await fetch(`data.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    document.getElementById("teams").innerHTML = byNextGame(data.teams).map(card).join("");
-    const u = document.getElementById("updated");
-    u.textContent = `Updated ${ago(data.updated)}`;
-    u.title = new Date(data.updated).toLocaleString();
+    // A newer snapshot that already has the result supersedes a "post" poll.
+    if (DATA && data.updated !== DATA.updated) for (const k in LIVE) if (LIVE[k].state !== "in") delete LIVE[k];
+    DATA = data;
+    document.getElementById("error").textContent = "";
+    render();
+    startPolling();
   } catch (e) {
-    document.getElementById("error").textContent = `Couldn't load data.json (${e.message}).`;
+    if (!DATA) document.getElementById("error").textContent = `Couldn't load data.json (${e.message}).`;
   }
 }
 load();
+setInterval(load, 5 * 60000);          // pick up the hourly refresh without a reload
+setInterval(() => DATA && startPolling(), 60000);  // catch games that start while open
+document.addEventListener("visibilitychange", () => {
+  if (!document.hidden && DATA) { for (const k in timers) { clearTimeout(timers[k]); delete timers[k]; } startPolling(); }
+});
 </script>
 </body>
 </html>
