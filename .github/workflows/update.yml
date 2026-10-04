@@ -1,0 +1,67 @@
+name: Update scores and deploy
+
+on:
+  schedule:
+    - cron: "17 */3 * * *" # every 3 hours (off the hour to dodge the :00 rush)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore: [data.json]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: update-and-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch data
+        run: python scripts/fetch_data.py
+
+      - name: Commit data.json if it changed
+        run: |
+          if git diff --quiet -- data.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update scores $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+  # Pushes made with GITHUB_TOKEN don't trigger other workflows, so deploy
+  # Pages from here. Requires Settings → Pages → Source: "GitHub Actions".
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Stage site
+        run: mkdir _site && cp index.html data.json _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

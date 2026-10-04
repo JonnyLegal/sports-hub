@@ -1,0 +1,264 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sports Hub</title>
+<meta name="theme-color" content="#241773">
+<style>
+  :root {
+    --bg: #f3f4f6;
+    --card: #ffffff;
+    --ink: #111827;
+    --muted: #6b7280;
+    --line: #e5e7eb;
+    --win: #15803d;
+    --loss: #b91c1c;
+    --live: #dc2626;
+    --badge-ink: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0b0f17;
+      --card: #151b26;
+      --ink: #f3f4f6;
+      --muted: #9ca3af;
+      --line: #263042;
+      --win: #4ade80;
+      --loss: #f87171;
+      --live: #f87171;
+      --badge-ink: #0b0f17;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  header {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 24px 16px 8px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -0.02em; }
+  #updated { color: var(--muted); font-size: 0.85rem; }
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 8px 16px 32px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card);
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 1px 2px rgba(0,0,0,.06), 0 4px 16px rgba(0,0,0,.05);
+    border-top: 4px solid var(--accent);
+  }
+  .card-head {
+    background: var(--primary);
+    color: var(--on-primary);
+    padding: 14px 16px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .logo {
+    width: 48px; height: 48px;
+    flex: none;
+    background: #fff;
+    border-radius: 50%;
+    padding: 6px;
+    object-fit: contain;
+    box-shadow: 0 0 0 2px var(--accent);
+  }
+  .title { flex: 1; min-width: 0; }
+  .title h2 { margin: 0; font-size: 1.1rem; line-height: 1.2; }
+  .title .standing { font-size: 0.8rem; opacity: 0.85; }
+  .record {
+    font-size: 1.5rem;
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+  }
+  .section { padding: 12px 16px; border-top: 1px solid var(--line); }
+  .section:first-of-type { border-top: 0; }
+  .label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .label.live { color: var(--live); }
+  .label.live::before {
+    content: "";
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--live);
+    animation: pulse 1.4s infinite;
+  }
+  @keyframes pulse { 50% { opacity: .3; } }
+  .game { display: flex; align-items: center; gap: 10px; }
+  .opp-logo { width: 28px; height: 28px; object-fit: contain; flex: none; }
+  .game .info { flex: 1; min-width: 0; }
+  .opp { font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .meta { font-size: 0.82rem; color: var(--muted); }
+  .score { font-weight: 800; font-variant-numeric: tabular-nums; white-space: nowrap; font-size: 1.05rem; }
+  .badge {
+    display: inline-block;
+    min-width: 1.6em;
+    text-align: center;
+    border-radius: 6px;
+    padding: 1px 6px;
+    margin-right: 6px;
+    color: var(--badge-ink);
+    font-size: 0.85rem;
+  }
+  .W { background: var(--win); }
+  .L { background: var(--loss); }
+  .T { background: var(--muted); }
+  .empty { color: var(--muted); font-size: 0.9rem; }
+  .stale { color: var(--muted); font-size: 0.75rem; padding: 0 16px 10px; }
+  #error { max-width: 1100px; margin: 0 auto; padding: 0 16px; color: var(--loss); }
+  footer { text-align: center; color: var(--muted); font-size: 0.75rem; padding: 0 16px 24px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Sports Hub</h1>
+  <div id="updated"></div>
+</header>
+<div id="error"></div>
+<main id="teams"></main>
+<footer>Data from ESPN and MLB Stats API · refreshes every few hours</footer>
+
+<script>
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function fmtDate(iso, withTime = true, tbd = false) {
+  let d = new Date(iso);
+  // TBD games carry a placeholder time (midnight Eastern), which would land on
+  // the previous day out west. Use the Eastern calendar date instead.
+  if (tbd) {
+    const [y, m, dd] = d.toLocaleDateString("en-CA", { timeZone: "America/New_York" }).split("-").map(Number);
+    d = new Date(y, m - 1, dd, 12);
+  }
+  const now = new Date();
+  const day = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const diff = Math.round((day - today) / 86400000);
+  let date;
+  if (diff === 0) date = "Today";
+  else if (diff === 1) date = "Tomorrow";
+  else if (diff === -1) date = "Yesterday";
+  else date = d.toLocaleDateString(undefined, {
+    weekday: "short", month: "short", day: "numeric",
+    year: d.getFullYear() !== now.getFullYear() ? "numeric" : undefined,
+  });
+  if (!withTime) return date;
+  if (tbd) return `${date} · Time TBD`;
+  const t = d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit", timeZoneName: "short" });
+  return `${date} · ${t}`;
+}
+
+function ago(iso) {
+  const mins = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (mins < 1) return "just now";
+  if (mins < 60) return `${mins} min ago`;
+  const hrs = Math.round(mins / 60);
+  if (hrs < 48) return `${hrs} hr${hrs === 1 ? "" : "s"} ago`;
+  return `${Math.round(hrs / 24)} days ago`;
+}
+
+const vs = (g) => (g.neutral ? "vs" : g.homeAway === "home" ? "vs" : "@");
+
+function oppLogo(g) {
+  return g.opponentLogo
+    ? `<img class="opp-logo" src="${esc(g.opponentLogo)}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">`
+    : `<span class="opp-logo"></span>`;
+}
+
+function gameRow(g, kind) {
+  const meta = [];
+  if (kind === "last") meta.push(fmtDate(g.date, false, g.timeTBD));
+  if (kind === "next") meta.push(fmtDate(g.date, true, g.timeTBD));
+  if (kind === "live" && g.detail) meta.push(g.detail);
+  if (kind === "next" && g.broadcast) meta.push(g.broadcast);
+  if (kind !== "last" && g.venue) meta.push(g.venue);
+  if (g.note) meta.push(g.note);
+
+  let right = "";
+  if (kind === "last" && g.teamScore != null) {
+    right = `<div class="score">${g.result ? `<span class="badge ${esc(g.result)}">${esc(g.result)}</span>` : ""}${g.teamScore}–${g.oppScore}</div>`;
+  } else if (kind === "live" && g.teamScore != null) {
+    right = `<div class="score">${g.teamScore}–${g.oppScore}</div>`;
+  }
+  return `
+    <div class="game">
+      ${oppLogo(g)}
+      <div class="info">
+        <div class="opp">${vs(g)} ${esc(g.opponent)}</div>
+        <div class="meta">${meta.map(esc).join(" · ")}</div>
+      </div>
+      ${right}
+    </div>`;
+}
+
+function card(t) {
+  const c = t.colors;
+  const style = `--primary:${c.primary};--accent:${c.secondary};--on-primary:${c.text}`;
+  const sections = [];
+  if (t.live) sections.push(`<div class="section"><div class="label live">Live</div>${gameRow(t.live, "live")}</div>`);
+  sections.push(`<div class="section"><div class="label">Last game</div>${
+    t.last ? gameRow(t.last, "last") : `<div class="empty">No recent games</div>`}</div>`);
+  if (!t.live || t.next) sections.push(`<div class="section"><div class="label">Next game</div>${
+    t.next ? gameRow(t.next, "next") : `<div class="empty">Not scheduled yet</div>`}</div>`);
+
+  return `
+    <article class="card" style="${style}">
+      <div class="card-head">
+        <img class="logo" src="${esc(t.logo)}" alt="" onerror="this.style.visibility='hidden'">
+        <div class="title">
+          <h2>${esc(t.name)}</h2>
+          ${t.standing ? `<div class="standing">${esc(t.standing)}</div>` : ""}
+        </div>
+        <div class="record">${esc(t.record || "–")}</div>
+      </div>
+      ${sections.join("")}
+      ${t.stale ? `<div class="stale">Couldn't refresh this team on the last run; showing earlier data.</div>` : ""}
+      ${t.error ? `<div class="stale">Data unavailable: ${esc(t.error)}</div>` : ""}
+    </article>`;
+}
+
+async function load() {
+  try {
+    const res = await fetch(`data.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    document.getElementById("teams").innerHTML = data.teams.map(card).join("");
+    const u = document.getElementById("updated");
+    u.textContent = `Updated ${ago(data.updated)}`;
+    u.title = new Date(data.updated).toLocaleString();
+  } catch (e) {
+    document.getElementById("error").textContent = `Couldn't load data.json (${e.message}).`;
+  }
+}
+load();
+</script>
+</body>
+</html>

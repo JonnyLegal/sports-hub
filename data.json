@@ -1,0 +1,69 @@
+{
+  "updated": "2026-10-03T00:00:00+00:00",
+  "teams": [
+    {
+      "key": "ravens",
+      "name": "Baltimore Ravens",
+      "short": "Ravens",
+      "colors": {
+        "primary": "#241773",
+        "secondary": "#9E7C0C",
+        "text": "#FFFFFF"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
+    },
+    {
+      "key": "orioles",
+      "name": "Baltimore Orioles",
+      "short": "Orioles",
+      "colors": {
+        "primary": "#DF4601",
+        "secondary": "#000000",
+        "text": "#FFFFFF"
+      },
+      "logo": "https://www.mlbstatic.com/team-logos/110.svg",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
+    },
+    {
+      "key": "michigan-football",
+      "name": "Michigan Football",
+      "short": "Wolverines",
+      "colors": {
+        "primary": "#00274C",
+        "secondary": "#FFCB05",
+        "text": "#FFFFFF"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
+    },
+    {
+      "key": "michigan-basketball",
+      "name": "Michigan Men's Basketball",
+      "short": "Wolverines",
+      "colors": {
+        "primary": "#FFCB05",
+        "secondary": "#00274C",
+        "text": "#00274C"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
+    }
+  ]
+}
