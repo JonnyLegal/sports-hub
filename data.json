@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:05:06+00:00",
+  "updated": "2026-10-04T00:31:10+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -199,11 +199,42 @@
         "text": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": null,
-      "standing": null,
+      "record": "4-1",
+      "standing": "4th in ACC",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "401858251",
+        "date": "2026-10-03T16:00Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "Final",
+        "homeAway": "home",
+        "opponent": "Stanford Cardinal",
+        "opponentShort": "Stanford",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
+        "venue": "Allegacy Federal Credit Union Stadium",
+        "broadcast": "ACC Network",
+        "neutral": false,
+        "note": null,
+        "teamScore": 57,
+        "oppScore": 3,
+        "result": "W"
+      },
+      "next": {
+        "id": "401858260",
+        "date": "2026-10-10T16:00Z",
+        "state": "pre",
+        "timeTBD": false,
+        "detail": "10/10 - 12:00 PM EDT",
+        "homeAway": "away",
+        "opponent": "NC State Wolfpack",
+        "opponentShort": "NC State",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+        "venue": "Carter-Finley Stadium",
+        "broadcast": "CW",
+        "neutral": false,
+        "note": null
+      }
     },
     {
       "key": "wake-forest-basketball",
@@ -216,10 +247,41 @@
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "record": null,
-      "standing": null,
+      "standing": "13th in ACC",
       "live": null,
-      "last": null,
-      "next": null
+      "last": {
+        "id": "401858352",
+        "date": "2026-03-22T20:30Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "Final",
+        "homeAway": "home",
+        "opponent": "Illinois State Redbirds",
+        "opponentShort": "Illinois St",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+        "venue": "LJVM Coliseum",
+        "broadcast": "ESPN2",
+        "neutral": false,
+        "note": "NIT - 2nd Round",
+        "teamScore": 75,
+        "oppScore": 78,
+        "result": "L"
+      },
+      "next": {
+        "id": "401909725",
+        "date": "2026-11-02T05:00Z",
+        "state": "pre",
+        "timeTBD": true,
+        "detail": "TBD",
+        "homeAway": "home",
+        "opponent": "Maryland Eastern Shore Hawks",
+        "opponentShort": "MD Eastern",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png",
+        "venue": "LJVM Coliseum",
+        "broadcast": null,
+        "neutral": false,
+        "note": null
+      }
     }
   ]
 }
