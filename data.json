@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:35:38+00:00",
+  "updated": "2026-10-04T23:07:51+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -11,15 +11,16 @@
         "text": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": "2-1",
+      "record": "3-1",
       "recordNote": null,
-      "standing": "2nd in AFC North",
-      "live": {
+      "standing": "1st in AFC North",
+      "live": null,
+      "last": {
         "id": "401872973",
         "date": "2026-10-04T17:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "11:25 - 4th",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Tennessee Titans",
         "opponentShort": "Titans",
@@ -31,31 +32,10 @@
         "neutral": false,
         "note": null,
         "teamScore": 24,
-        "oppScore": 10,
+        "oppScore": 18,
+        "result": "W",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872973",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872973"
-      },
-      "last": {
-        "id": "401872960",
-        "date": "2026-09-27T20:25Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "Dallas Cowboys",
-        "opponentShort": "Cowboys",
-        "opponentFull": "Dallas",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
-        "venue": "Maracan\u00e3 Stadium",
-        "location": "Maracan\u00e3 Stadium, Rio De Janeiro",
-        "broadcast": "CBS",
-        "neutral": true,
-        "note": "NFL Rio Game",
-        "teamScore": 34,
-        "oppScore": 31,
-        "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872960",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872960"
       },
       "next": {
         "id": "401872993",

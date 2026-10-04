@@ -72,18 +72,18 @@ X-SPORTSHUB-HASH:d94ab9981ed74af3
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872973@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T230751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261004T130000
 DTEND;TZID=America/New_York:20261004T163000
-SUMMARY:🏈 Titans at Ravens [Home]
+SUMMARY:🏈 ✅ Titans 18 at Ravens 24 [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
-DESCRIPTION:TV: CBS\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
- sports-hub/
+DESCRIPTION:Final: Won 24-18\nTV: CBS\nVenue: M&T Bank Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:286e11fdcb10d2dc
+X-SPORTSHUB-HASH:6c417ea16f749656
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872993@sports-hub.jonnylegal.github.io
