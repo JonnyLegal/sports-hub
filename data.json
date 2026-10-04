@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:31:10+00:00",
+  "updated": "2026-10-04T00:31:32+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -12,6 +12,7 @@
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "record": "2-1",
+      "recordNote": null,
       "standing": "2nd in AFC North",
       "live": null,
       "last": {
@@ -59,6 +60,7 @@
       },
       "logo": "https://www.mlbstatic.com/team-logos/110.svg",
       "record": "79-82",
+      "recordNote": null,
       "standing": "4th in AL East (18.5 GB)",
       "live": null,
       "last": {
@@ -106,6 +108,7 @@
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": "3-2",
+      "recordNote": null,
       "standing": "14th in Big Ten",
       "live": null,
       "last": {
@@ -152,7 +155,8 @@
         "text": "#00274C"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": null,
+      "record": "37-3",
+      "recordNote": "2025-26 final",
       "standing": "1st in Big Ten",
       "live": null,
       "last": {
@@ -200,6 +204,7 @@
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "record": "4-1",
+      "recordNote": null,
       "standing": "4th in ACC",
       "live": null,
       "last": {
@@ -246,7 +251,8 @@
         "text": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": null,
+      "record": "18-17",
+      "recordNote": "2025-26 final",
       "standing": "13th in ACC",
       "live": null,
       "last": {
