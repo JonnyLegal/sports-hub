@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 
 PRODID = "-//sports-hub//schedule feeds//EN"
 UID_DOMAIN = "sports-hub.jonnylegal.github.io"
-REFRESH = "PT3H"  # matches the workflow's cron
+REFRESH = "PT1H"  # matches the workflow's cron
 
 
 def escape(text):
