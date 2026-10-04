@@ -27,182 +27,182 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858204@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260903T190000
 DTEND;TZID=America/New_York:20260903T223000
-SUMMARY:🏈 ✅ Akron 16 at Demon Deacons 38 [Home]
+SUMMARY:🏈 ✅ Akron 16 at Wake Forest 38 [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 38-16\nTV: ACC Network\nVenue: Allegacy Federal Cred
  it Union Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0052b527658bb112
+X-SPORTSHUB-HASH:4a9a3ccace697fa7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858224@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260912T120000
 DTEND;TZID=America/New_York:20260912T153000
-SUMMARY:🏈 ✅ Demon Deacons 38 at Purdue 36 [Away]
+SUMMARY:🏈 ✅ Wake Forest 38 at Purdue 36 [Away]
 LOCATION:Ross-Ade Stadium\, West Lafayette\, IN
 DESCRIPTION:Final: Won 38-36\nTV: FS1\nVenue: Ross-Ade Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8a0c2fe7bddf3c3c
+X-SPORTSHUB-HASH:08ce3a996c3f49c2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858226@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260918T193000
 DTEND;TZID=America/New_York:20260918T230000
-SUMMARY:🏈 ❌ Miami 33 at Demon Deacons 20 [Home]
+SUMMARY:🏈 ❌ Miami 33 at Wake Forest 20 [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Final: Lost 20-33\nTV: ESPN\nVenue: Allegacy Federal Credit Uni
  on Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f4b3fb38f6d50d05
+X-SPORTSHUB-HASH:13ca04dd677bb8ce
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858243@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260926T120000
 DTEND;TZID=America/New_York:20260926T153000
-SUMMARY:🏈 ✅ Demon Deacons 30 at Louisville 27 [Away]
+SUMMARY:🏈 ✅ Wake Forest 30 at Louisville 27 [Away]
 LOCATION:L&N Federal Credit Union Stadium\, Louisville\, KY
 DESCRIPTION:Final: Won 30-27\nTV: ESPN\nVenue: L&N Federal Credit Union Sta
  dium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:66a813e8df53b495
+X-SPORTSHUB-HASH:583532e34d4a94fe
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858251@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261003T120000
 DTEND;TZID=America/New_York:20261003T153000
-SUMMARY:🏈 ✅ Stanford 3 at Demon Deacons 57 [Home]
+SUMMARY:🏈 ✅ Stanford 3 at Wake Forest 57 [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Final: Won 57-3\nTV: ACC Network\nVenue: Allegacy Federal Credi
  t Union Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bb812ebf17ba8996
+X-SPORTSHUB-HASH:36316a571ad96468
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858260@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T153000
-SUMMARY:🏈 Demon Deacons at NC State [Away]
+SUMMARY:🏈 Wake Forest at NC State [Away]
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
 DESCRIPTION:TV: CW\nVenue: Carter-Finley Stadium\nhttps://jonnylegal.github
  .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:dc03bcbf4f91274d
+X-SPORTSHUB-HASH:418bce9b4ee6b93d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858269@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
-SUMMARY:🏈 Demon Deacons at California [Away]
+SUMMARY:🏈 Wake Forest at California [Away]
 LOCATION:California Memorial Stadium\, Berkeley\, CA
 DESCRIPTION:Start time TBD\nVenue: California Memorial Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c8e294ab5a9bfbc4
+X-SPORTSHUB-HASH:2e827503c33c407c
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858284@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:🏈 Virginia at Demon Deacons [Home]
+SUMMARY:🏈 Virginia at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: Allegacy Federal Credit Union Stadium\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7b7eec7f72d480c8
+X-SPORTSHUB-HASH:040855b4cd4f1f6f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858290@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:🏈 Merrimack at Demon Deacons [Home]
+SUMMARY:🏈 Merrimack at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: Allegacy Federal Credit Union Stadium\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e9b2824ea7679ebf
+X-SPORTSHUB-HASH:77c1f7a95d74ed22
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858301@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-SUMMARY:🏈 Demon Deacons at SMU [Away]
+SUMMARY:🏈 Wake Forest at SMU [Away]
 LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
 DESCRIPTION:Start time TBD\nVenue: Gerald J. Ford Stadium\nhttps://jonnyleg
  al.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4257ff6d5e3a5066
+X-SPORTSHUB-HASH:71a6dc56faab7944
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858310@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:🏈 Demon Deacons at Georgia Tech [Away]
+SUMMARY:🏈 Wake Forest at Georgia Tech [Away]
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
 DESCRIPTION:Start time TBD\nVenue: Bobby Dodd Stadium\nhttps://jonnylegal.g
  ithub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f00b020147254a8f
+X-SPORTSHUB-HASH:cd3602e91bc61811
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858312@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261004T010751Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-SUMMARY:🏈 Duke at Demon Deacons [Home]
+SUMMARY:🏈 Duke at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
 DESCRIPTION:Start time TBD\nVenue: Allegacy Federal Credit Union Stadium\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:be9f37e6d2f179c0
+X-SPORTSHUB-HASH:c53d35a5ceecea1d
 END:VEVENT
 END:VCALENDAR

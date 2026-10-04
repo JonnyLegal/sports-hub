@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:58:04+00:00",
+  "updated": "2026-10-04T01:07:51+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -104,7 +104,7 @@
     {
       "key": "michigan-football",
       "name": "Michigan Football",
-      "short": "Wolverines",
+      "short": "Michigan",
       "colors": {
         "primary": "#00274C",
         "secondary": "#FFCB05",
@@ -155,7 +155,7 @@
     {
       "key": "michigan-basketball",
       "name": "Michigan Men's Basketball",
-      "short": "Wolverines",
+      "short": "Michigan",
       "colors": {
         "primary": "#FFCB05",
         "secondary": "#00274C",
@@ -206,7 +206,7 @@
     {
       "key": "wake-forest-football",
       "name": "Wake Forest Football",
-      "short": "Demon Deacons",
+      "short": "Wake Forest",
       "colors": {
         "primary": "#000000",
         "secondary": "#9E7E38",
@@ -257,7 +257,7 @@
     {
       "key": "wake-forest-basketball",
       "name": "Wake Forest Men's Basketball",
-      "short": "Demon Deacons",
+      "short": "Wake Forest",
       "colors": {
         "primary": "#9E7E38",
         "secondary": "#000000",
