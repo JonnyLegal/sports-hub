@@ -78,12 +78,15 @@
   .logo {
     width: 48px; height: 48px;
     flex: none;
+    display: grid;
+    place-items: center;
     background: #fff;
     border-radius: 50%;
-    padding: 6px;
-    object-fit: contain;
     box-shadow: 0 0 0 2px var(--accent);
   }
+  /* The circle lives on the wrapper so the logo itself isn't clipped. A 30px
+     square's corners sit ~21px from center, inside the 24px radius. */
+  .logo img { width: 30px; height: 30px; object-fit: contain; }
   .title { flex: 1; min-width: 0; }
   .title h2 { margin: 0; font-size: 1.1rem; line-height: 1.2; }
   .title .standing { font-size: 0.8rem; opacity: 0.85; }
@@ -265,7 +268,7 @@ function card(t) {
   return `
     <article class="card" style="${style}">
       <div class="card-head">
-        <img class="logo" src="${esc(t.logo)}" alt="" onerror="this.style.visibility='hidden'">
+        <span class="logo"><img src="${esc(t.logo)}" alt="" onerror="this.style.visibility='hidden'"></span>
         <div class="title">
           <h2>${esc(t.name)}</h2>
           ${t.standing ? `<div class="standing">${esc(t.standing)}</div>` : ""}
