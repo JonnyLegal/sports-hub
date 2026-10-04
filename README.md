@@ -5,7 +5,7 @@ Tracker for Jon's favorite teams: Ravens, Orioles, Michigan football and men's b
 - `scripts/fetch_data.py` pulls from ESPN's public site API (Ravens, Michigan, Wake Forest) and `statsapi.mlb.com` (Orioles) and writes `data.json`. It uses only the standard library.
 - `scripts/calendars.py` writes `calendars/<team>.ics`, a subscribable feed of each team's full schedule with venue, TV and final scores. Event UIDs come from the source's game IDs, so a rescheduled game updates in place in calendar apps.
 - `index.html` is a static page that reads `data.json`, with Subscribe, Google Calendar and .ics links for each team.
-- `.github/workflows/update.yml` runs the script every 3 hours, commits `data.json` and the calendars when they change, and deploys the site to GitHub Pages.
+- `.github/workflows/update.yml` runs the script every hour, commits `data.json` and the calendars when they change, and deploys the site to GitHub Pages.
 
 ## Setup
 
