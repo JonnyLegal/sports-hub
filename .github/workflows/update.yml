@@ -58,7 +58,7 @@ jobs:
           ref: main
 
       - name: Stage site
-        run: mkdir -p _site calendars && cp -r index.html data.json calendars _site/
+        run: mkdir -p _site calendars && cp -r index.html data.json calendars fonts _site/
 
       - uses: actions/upload-pages-artifact@v5
         with:

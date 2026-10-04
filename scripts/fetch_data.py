@@ -28,11 +28,12 @@ TEAMS = [
         "tz": "America/New_York",
         "duration": 210,
         "name": "Baltimore Ravens",
+        "headerName": "Baltimore Ravens",  # card header: one line, 20 characters at most
         "short": "Ravens",
         "source": "espn",
         "path": "football/nfl",
         "id": "33",
-        "colors": {"primary": "#241773", "secondary": "#9E7C0C", "text": "#FFFFFF"},
+        "colors": {"primary": "#241773", "secondary": "#9E7C0C", "text": "#FFFFFF", "shade": "#332E89", "onSecondary": "#000000"},
         "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
     },
     {
@@ -40,10 +41,11 @@ TEAMS = [
         "tz": "America/New_York",
         "duration": 180,
         "name": "Baltimore Orioles",
+        "headerName": "Baltimore Orioles",  # card header: one line, 20 characters at most
         "short": "Orioles",
         "source": "mlb",
         "id": 110,
-        "colors": {"primary": "#DF4601", "secondary": "#000000", "text": "#FFFFFF"},
+        "colors": {"primary": "#DF4601", "secondary": "#000000", "text": "#FFFFFF", "shade": "#CA2F00", "onSecondary": "#FFFFFF"},
         "logo": "https://www.mlbstatic.com/team-logos/110.svg",
     },
     {
@@ -51,11 +53,12 @@ TEAMS = [
         "tz": "America/Detroit",
         "duration": 210,
         "name": "Michigan Football",
+        "headerName": "Michigan Football",  # card header: one line, 20 characters at most
         "short": "Michigan",
         "source": "espn",
         "path": "football/college-football",
         "id": "130",
-        "colors": {"primary": "#00274C", "secondary": "#FFCB05", "text": "#FFFFFF"},
+        "colors": {"primary": "#00274C", "secondary": "#FFCB05", "text": "#FFFFFF", "shade": "#133960", "onSecondary": "#00274C"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
     },
     {
@@ -63,11 +66,12 @@ TEAMS = [
         "tz": "America/Detroit",
         "duration": 135,
         "name": "Michigan Men's Basketball",
+        "headerName": "Michigan Hoops",  # card header: one line, 20 characters at most
         "short": "Michigan",
         "source": "espn",
         "path": "basketball/mens-college-basketball",
         "id": "130",
-        "colors": {"primary": "#FFCB05", "secondary": "#00274C", "text": "#00274C"},
+        "colors": {"primary": "#FFCB05", "secondary": "#00274C", "text": "#00274C", "shade": "#EBB700", "onSecondary": "#FFCB05"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
     },
     {
@@ -75,11 +79,12 @@ TEAMS = [
         "tz": "America/New_York",
         "duration": 210,
         "name": "Wake Forest Football",
+        "headerName": "Wake Forest Football",  # card header: one line, 20 characters at most
         "short": "Wake Forest",
         "source": "espn",
         "path": "football/college-football",
         "id": "154",
-        "colors": {"primary": "#000000", "secondary": "#9E7E38", "text": "#FFFFFF"},
+        "colors": {"primary": "#000000", "secondary": "#9E7E38", "text": "#FFFFFF", "shade": "#1F1F1F", "onSecondary": "#000000"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
     },
     {
@@ -87,11 +92,12 @@ TEAMS = [
         "tz": "America/New_York",
         "duration": 135,
         "name": "Wake Forest Men's Basketball",
+        "headerName": "Wake Forest Hoops",  # card header: one line, 20 characters at most
         "short": "Wake Forest",
         "source": "espn",
         "path": "basketball/mens-college-basketball",
         "id": "154",
-        "colors": {"primary": "#9E7E38", "secondary": "#000000", "text": "#000000"},
+        "colors": {"primary": "#9E7E38", "secondary": "#000000", "text": "#000000", "shade": "#8C6C24", "onSecondary": "#9E7E38"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
     },
     {
@@ -99,11 +105,12 @@ TEAMS = [
         "tz": "America/New_York",
         "duration": 120,
         "name": "USMNT",
+        "headerName": "USMNT",  # card header: one line, 20 characters at most
         "short": "USA",
         "source": "espn-soccer",
         "path": "soccer/all",  # every competition: friendlies, Nations League, Gold Cup, World Cup
         "id": "660",
-        "colors": {"primary": "#213065", "secondary": "#D42339", "text": "#FFFFFF"},
+        "colors": {"primary": "#213065", "secondary": "#D42339", "text": "#FFFFFF", "shade": "#32437A", "onSecondary": "#FFFFFF"},
         "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
     },
 ]
@@ -425,7 +432,7 @@ def pick_games(games):
 
 
 def build_team(cfg, previous):
-    base = {k: cfg[k] for k in ("key", "name", "short", "colors", "logo")}
+    base = {k: cfg[k] for k in ("key", "name", "headerName", "short", "colors", "logo")}
     try:
         print(f"Fetching {cfg['name']}...", file=sys.stderr)
         fetch = {"espn": fetch_espn, "espn-soccer": fetch_espn_soccer, "mlb": fetch_mlb}[cfg["source"]]
