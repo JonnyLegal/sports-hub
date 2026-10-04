@@ -7,12 +7,17 @@ Action needs no pip install.
 """
 
 import json
+import os
 import sys
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent.parent / "data.json"
+from calendars import write_feed
+
+ROOT = Path(__file__).resolve().parent.parent
+OUT = ROOT / "data.json"
+CAL_DIR = ROOT / "calendars"
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 MLB = "https://statsapi.mlb.com/api/v1"
 UA = {"User-Agent": "sports-hub/1.0 (+https://github.com/jonnylegal/sports-hub)"}
@@ -20,6 +25,8 @@ UA = {"User-Agent": "sports-hub/1.0 (+https://github.com/jonnylegal/sports-hub)"
 TEAMS = [
     {
         "key": "ravens",
+        "tz": "America/New_York",
+        "duration": 210,
         "name": "Baltimore Ravens",
         "short": "Ravens",
         "source": "espn",
@@ -30,6 +37,8 @@ TEAMS = [
     },
     {
         "key": "orioles",
+        "tz": "America/New_York",
+        "duration": 180,
         "name": "Baltimore Orioles",
         "short": "Orioles",
         "source": "mlb",
@@ -39,6 +48,8 @@ TEAMS = [
     },
     {
         "key": "michigan-football",
+        "tz": "America/Detroit",
+        "duration": 210,
         "name": "Michigan Football",
         "short": "Wolverines",
         "source": "espn",
@@ -49,6 +60,8 @@ TEAMS = [
     },
     {
         "key": "michigan-basketball",
+        "tz": "America/Detroit",
+        "duration": 135,
         "name": "Michigan Men's Basketball",
         "short": "Wolverines",
         "source": "espn",
@@ -59,6 +72,8 @@ TEAMS = [
     },
     {
         "key": "wake-forest-football",
+        "tz": "America/New_York",
+        "duration": 210,
         "name": "Wake Forest Football",
         "short": "Demon Deacons",
         "source": "espn",
@@ -69,6 +84,8 @@ TEAMS = [
     },
     {
         "key": "wake-forest-basketball",
+        "tz": "America/New_York",
+        "duration": 135,
         "name": "Wake Forest Men's Basketball",
         "short": "Demon Deacons",
         "source": "espn",
@@ -107,6 +124,12 @@ def espn_score(competitor):
         return None
 
 
+def espn_location(venue):
+    addr = venue.get("address") or {}
+    parts = [venue.get("fullName"), addr.get("city"), addr.get("state")]
+    return ", ".join(p for p in parts if p) or None
+
+
 def espn_game(event, team_id):
     comp = (event.get("competitions") or [{}])[0]
     competitors = comp.get("competitors") or []
@@ -132,6 +155,7 @@ def espn_game(event, team_id):
         "opponentShort": opp.get("shortDisplayName") or opp.get("abbreviation"),
         "opponentLogo": ((opp.get("logos") or [{}])[0].get("href") or opp.get("logo")),
         "venue": (comp.get("venue") or {}).get("fullName"),
+        "location": espn_location(comp.get("venue") or {}),
         "broadcast": broadcast,
         "neutral": bool(comp.get("neutralSite")),
         "note": ((comp.get("notes") or [{}])[0].get("headline")),
@@ -312,7 +336,7 @@ def build_team(cfg, previous):
         print(f"Fetching {cfg['name']}...", file=sys.stderr)
         raw = fetch_espn(cfg) if cfg["source"] == "espn" else fetch_mlb(cfg)
         live, last, nxt = pick_games(raw["games"])
-        return {
+        return raw["games"], {
             **base,
             "logo": raw["logo"] or cfg["logo"],
             "record": raw["record"],
@@ -321,13 +345,14 @@ def build_team(cfg, previous):
             "live": live,
             "last": last,
             "next": nxt,
+            "calendar": f"calendars/{cfg['key']}.ics",
         }
     except Exception as e:
         # Keep the last good data rather than blanking the card.
         print(f"  error: {cfg['name']}: {e}", file=sys.stderr)
         if previous:
-            return {**previous, "stale": True}
-        return {**base, "record": None, "standing": None, "live": None, "last": None, "next": None, "error": str(e)}
+            return None, {**previous, "stale": True}
+        return None, {**base, "record": None, "standing": None, "live": None, "last": None, "next": None, "error": str(e)}
 
 
 def main():
@@ -339,10 +364,19 @@ def main():
             pass
     prev_teams = {t["key"]: t for t in old.get("teams", [])}
 
-    teams = [build_team(cfg, prev_teams.get(cfg["key"])) for cfg in TEAMS]
+    results = [build_team(cfg, prev_teams.get(cfg["key"])) for cfg in TEAMS]
+    teams = [team for _, team in results]
     if all(t.get("stale") or t.get("error") for t in teams):
         print("All sources failed; leaving data.json unchanged.", file=sys.stderr)
         return 1
+
+    # One .ics feed per team from its full schedule. A team whose fetch
+    # failed keeps its previous feed.
+    repo = os.environ.get("GITHUB_REPOSITORY")  # "Owner/name" in Actions
+    site_url = f"https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/" if repo else None
+    for cfg, (games, _) in zip(TEAMS, results):
+        if games is not None and write_feed(CAL_DIR / f"{cfg['key']}.ics", {**cfg, "site_url": site_url}, games):
+            print(f"Wrote calendars/{cfg['key']}.ics", file=sys.stderr)
 
     if teams == old.get("teams"):
         print("No changes.", file=sys.stderr)

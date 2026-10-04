@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths-ignore: [data.json]
+    paths-ignore: [data.json, "calendars/**"]
 
 permissions:
   contents: write
@@ -30,15 +30,16 @@ jobs:
       - name: Fetch data
         run: python scripts/fetch_data.py
 
-      - name: Commit data.json if it changed
+      - name: Commit data and calendars if they changed
         run: |
-          if git diff --quiet -- data.json; then
+          # status (not diff) so brand-new calendar files count as changes
+          if [ -z "$(git status --porcelain -- data.json calendars)" ]; then
             echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json
+          git add data.json calendars
           git commit -m "Update scores $(date -u +'%Y-%m-%d %H:%M UTC')"
           git pull --rebase origin main
           git push origin HEAD:main
@@ -57,7 +58,7 @@ jobs:
           ref: main
 
       - name: Stage site
-        run: mkdir _site && cp index.html data.json _site/
+        run: mkdir -p _site calendars && cp -r index.html data.json calendars _site/
 
       - uses: actions/upload-pages-artifact@v5
         with:
