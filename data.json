@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T00:31:32+00:00",
+  "updated": "2026-10-04T00:58:04+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -26,6 +26,7 @@
         "opponentShort": "Cowboys",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
         "venue": "Maracan\u00e3 Stadium",
+        "location": "Maracan\u00e3 Stadium, Rio De Janeiro",
         "broadcast": "CBS",
         "neutral": true,
         "note": "NFL Rio Game",
@@ -44,10 +45,12 @@
         "opponentShort": "Titans",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png",
         "venue": "M&T Bank Stadium",
+        "location": "M&T Bank Stadium, Baltimore, MD",
         "broadcast": "CBS",
         "neutral": false,
         "note": null
-      }
+      },
+      "calendar": "calendars/ravens.ics"
     },
     {
       "key": "orioles",
@@ -95,7 +98,8 @@
         "broadcast": null,
         "neutral": false,
         "note": "Spring Training"
-      }
+      },
+      "calendar": "calendars/orioles.ics"
     },
     {
       "key": "michigan-football",
@@ -122,6 +126,7 @@
         "opponentShort": "Minnesota",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "venue": "Huntington Bank Stadium",
+        "location": "Huntington Bank Stadium, Minneapolis, MN",
         "broadcast": "FOX",
         "neutral": false,
         "note": null,
@@ -140,10 +145,12 @@
         "opponentShort": "Penn State",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
         "venue": "Michigan Stadium",
+        "location": "Michigan Stadium, Ann Arbor, MI",
         "broadcast": null,
         "neutral": false,
         "note": null
-      }
+      },
+      "calendar": "calendars/michigan-football.ics"
     },
     {
       "key": "michigan-basketball",
@@ -170,6 +177,7 @@
         "opponentShort": "UConn",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/41.png",
         "venue": "Lucas Oil Stadium",
+        "location": "Lucas Oil Stadium, Indianapolis, IN",
         "broadcast": "TBS",
         "neutral": true,
         "note": "NCAA Men's Basketball Championship - National Championship",
@@ -188,10 +196,12 @@
         "opponentShort": "Oakland",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
         "venue": "Crisler Center",
+        "location": "Crisler Center, Ann Arbor, MI",
         "broadcast": null,
         "neutral": false,
         "note": null
-      }
+      },
+      "calendar": "calendars/michigan-basketball.ics"
     },
     {
       "key": "wake-forest-football",
@@ -218,6 +228,7 @@
         "opponentShort": "Stanford",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
         "venue": "Allegacy Federal Credit Union Stadium",
+        "location": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
         "broadcast": "ACC Network",
         "neutral": false,
         "note": null,
@@ -236,10 +247,12 @@
         "opponentShort": "NC State",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
         "venue": "Carter-Finley Stadium",
+        "location": "Carter-Finley Stadium, Raleigh, NC",
         "broadcast": "CW",
         "neutral": false,
         "note": null
-      }
+      },
+      "calendar": "calendars/wake-forest-football.ics"
     },
     {
       "key": "wake-forest-basketball",
@@ -266,6 +279,7 @@
         "opponentShort": "Illinois St",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
         "venue": "LJVM Coliseum",
+        "location": "LJVM Coliseum, Winston-Salem, NC",
         "broadcast": "ESPN2",
         "neutral": false,
         "note": "NIT - 2nd Round",
@@ -284,10 +298,12 @@
         "opponentShort": "MD Eastern",
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png",
         "venue": "LJVM Coliseum",
+        "location": "LJVM Coliseum, Winston-Salem, NC",
         "broadcast": null,
         "neutral": false,
         "note": null
-      }
+      },
+      "calendar": "calendars/wake-forest-basketball.ics"
     }
   ]
 }

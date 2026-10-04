@@ -1,0 +1,1088 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sports-hub//schedule feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Michigan Men's Basketball
+X-WR-CALDESC:Michigan Men's Basketball schedule\, scores and TV
+X-WR-TIMEZONE:America/Detroit
+REFRESH-INTERVAL;VALUE=DURATION:PT3H
+X-PUBLISHED-TTL:PT3H
+BEGIN:VTIMEZONE
+TZID:America/Detroit
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401826083@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251103T203000
+DTEND;TZID=America/Detroit:20251103T224500
+SUMMARY:Wolverines vs Oakland (W 121-78)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 121-78\nTV: FS1\nVenue: Crisler Center\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:0db3ab5e8abd4735
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401817529@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251111T183000
+DTEND;TZID=America/Detroit:20251111T204500
+SUMMARY:Wolverines vs Wake Forest (W 85-84)
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Final: Won 85-84\nTV: FS1\nVenue: Little Caesars Arena (neutral
+  site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:a96f13dd083b37c7
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401812252@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251114T210000
+DTEND;TZID=America/Detroit:20251114T231500
+SUMMARY:Wolverines @ TCU (W 67-63)
+LOCATION:Schollmaier Arena\, Fort Worth\, TX
+DESCRIPTION:Final: Won 67-63\nTV: ESPN2\nVenue: Schollmaier Arena\nhttps://
+ jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2ca72d607ce10ba4
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401822996@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251119T183000
+DTEND;TZID=America/Detroit:20251119T204500
+SUMMARY:Wolverines vs MTSU (W 86-61)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 86-61\nTV: BTN\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f2e065d28854c126
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401823764@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251124T223000
+DTEND;TZID=America/Detroit:20251125T004500
+SUMMARY:Wolverines vs San Diego St (W 94-54)
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+DESCRIPTION:Final: Won 94-54\nTV: truTV\nPlayers Era Festival\nVenue: Miche
+ lob ULTRA Arena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:71cd8548da2943f2
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401823479@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251125T203000
+DTEND;TZID=America/Detroit:20251125T224500
+SUMMARY:Wolverines vs Auburn (W 102-72)
+LOCATION:Michelob ULTRA Arena\, Las Vegas\, NV
+DESCRIPTION:Final: Won 102-72\nTV: TNT\nPlayers Era Festival\nVenue: Michel
+ ob ULTRA Arena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:5a955baed7d554be
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401831214@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251126T213000
+DTEND;TZID=America/Detroit:20251126T234500
+SUMMARY:Wolverines vs Gonzaga (W 101-61)
+LOCATION:MGM Grand Garden Arena\, Las Vegas\, NV
+DESCRIPTION:Final: Won 101-61\nTV: TNT\nPlayers Era Festival - Championship
+ \nVenue: MGM Grand Garden Arena (neutral site)\nhttps://jonnylegal.github.
+ io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:a374925ed048d8e7
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825400@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251206T160000
+DTEND;TZID=America/Detroit:20251206T181500
+SUMMARY:Wolverines vs Rutgers (W 101-60)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 101-60\nTV: BTN\nVenue: Crisler Center\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8ed4a35f1964250a
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401823566@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251209T183000
+DTEND;TZID=America/Detroit:20251209T204500
+SUMMARY:Wolverines vs Villanova (W 89-61)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 89-61\nTV: FS1\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ee5ccf0c98319826
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825408@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251213T200000
+DTEND;TZID=America/Detroit:20251213T221500
+SUMMARY:Wolverines @ Maryland (W 101-83)
+LOCATION:XFINITY Center\, College Park\, MD
+DESCRIPTION:Final: Won 101-83\nTV: FOX\nVenue: XFINITY Center\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:53cca0c088d3c0e8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401822185@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251221T160000
+DTEND;TZID=America/Detroit:20251221T181500
+SUMMARY:Wolverines vs La Salle (W 102-50)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 102-50\nTV: Peacock\nVenue: Crisler Center\nhttps://
+ jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2110b88fb35409f5
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401826084@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20251229T190000
+DTEND;TZID=America/Detroit:20251229T211500
+SUMMARY:Wolverines vs McNeese (W 112-71)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 112-71\nTV: B1G+\nVenue: Crisler Center\nhttps://jon
+ nylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:da7ca525b8819ba9
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825411@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260102T190000
+DTEND;TZID=America/Detroit:20260102T211500
+SUMMARY:Wolverines vs USC (W 96-66)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 96-66\nTV: Peacock\nVenue: Crisler Center\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:db735e8b7d23ff77
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825423@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260106T190000
+DTEND;TZID=America/Detroit:20260106T211500
+SUMMARY:Wolverines @ Penn State (W 74-72)
+LOCATION:Bryce Jordan Center\, University Park\, PA
+DESCRIPTION:Final: Won 74-72\nTV: FS1\nVenue: Bryce Jordan Center\nhttps://
+ jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:7cb2ba63dc88aeea
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825432@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260110T130000
+DTEND;TZID=America/Detroit:20260110T151500
+SUMMARY:Wolverines vs Wisconsin (L 88-91)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Lost 88-91\nTV: CBS\nVenue: Crisler Center\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:99fd87f53b490ee8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825445@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260114T223000
+DTEND;TZID=America/Detroit:20260115T004500
+SUMMARY:Wolverines @ Washington (W 82-72)
+LOCATION:Alaska Airlines Arena\, Seattle\, WA
+DESCRIPTION:Final: Won 82-72\nTV: BTN\nVenue: Alaska Airlines Arena\nhttps:
+ //jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:a00f5d506b0bf6f8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825450@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260117T160000
+DTEND;TZID=America/Detroit:20260117T181500
+SUMMARY:Wolverines @ Oregon (W 81-71)
+LOCATION:Matthew Knight Arena\, Eugene\, OR
+DESCRIPTION:Final: Won 81-71\nTV: NBC\nVenue: Matthew Knight Arena\nhttps:/
+ /jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8dab9f3851171d1f
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825456@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260120T190000
+DTEND;TZID=America/Detroit:20260120T211500
+SUMMARY:Wolverines vs Indiana (W 86-72)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 86-72\nTV: Peacock\nVenue: Crisler Center\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ce15507d787fe40c
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825464@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260123T200000
+DTEND;TZID=America/Detroit:20260123T221500
+SUMMARY:Wolverines vs Ohio State (W 74-62)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 74-62\nTV: FOX\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ebde7966efc8f5fc
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825474@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260127T190000
+DTEND;TZID=America/Detroit:20260127T211500
+SUMMARY:Wolverines vs Nebraska (W 75-72)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 75-72\nTV: Peacock\nVenue: Crisler Center\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:51d1b67ebfe31624
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825481@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260130T200000
+DTEND;TZID=America/Detroit:20260130T221500
+SUMMARY:Wolverines @ Michigan St (W 83-71)
+LOCATION:Breslin Center\, East Lansing\, MI
+DESCRIPTION:Final: Won 83-71\nTV: FOX\nVenue: Breslin Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d3067f6d258579bc
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825496@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260205T183000
+DTEND;TZID=America/Detroit:20260205T204500
+SUMMARY:Wolverines vs Penn State (W 110-69)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 110-69\nTV: FS1\nVenue: Crisler Center\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:1a6dde2749117781
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825503@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260208T130000
+DTEND;TZID=America/Detroit:20260208T151500
+SUMMARY:Wolverines @ Ohio State (W 82-61)
+LOCATION:Schottenstein Center\, Columbus\, OH
+DESCRIPTION:Final: Won 82-61\nTV: CBS\nVenue: Schottenstein Center\nhttps:/
+ /jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:3f382bbed66b3224
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825509@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260211T203000
+DTEND;TZID=America/Detroit:20260211T224500
+SUMMARY:Wolverines @ Northwestern (W 87-75)
+LOCATION:Welsh-Ryan Arena\, Evanston\, IL
+DESCRIPTION:Final: Won 87-75\nTV: BTN\nVenue: Welsh-Ryan Arena\nhttps://jon
+ nylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:1f604a364c5e15f2
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825514@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260214T124500
+DTEND;TZID=America/Detroit:20260214T150000
+SUMMARY:Wolverines vs UCLA (W 86-56)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 86-56\nTV: CBS\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ea2a3a0e5b978796
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825524@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260217T183000
+DTEND;TZID=America/Detroit:20260217T204500
+SUMMARY:Wolverines @ Purdue (W 91-80)
+LOCATION:Mackey Arena\, West Lafayette\, IN
+DESCRIPTION:Final: Won 91-80\nTV: Peacock\nVenue: Mackey Arena\nhttps://jon
+ nylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:37cbb49c6f586fa3
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401817238@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260221T183000
+DTEND;TZID=America/Detroit:20260221T204500
+SUMMARY:Wolverines vs Duke (L 63-68)
+LOCATION:Capital One Arena\, Washington\, DC
+DESCRIPTION:Final: Lost 63-68\nTV: ESPN\nEdward Jones Capital Showcase\nVen
+ ue: Capital One Arena (neutral site)\nhttps://jonnylegal.github.io/sports-
+ hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:583a4b8cb20e634c
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825537@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260224T203000
+DTEND;TZID=America/Detroit:20260224T224500
+SUMMARY:Wolverines vs Minnesota (W 77-67)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 77-67\nTV: BTN\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:b5068d35860b4683
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825544@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260227T200000
+DTEND;TZID=America/Detroit:20260227T221500
+SUMMARY:Wolverines @ Illinois (W 84-70)
+LOCATION:State Farm Center\, Champaign\, IL
+DESCRIPTION:Final: Won 84-70\nTV: FOX\nVenue: State Farm Center\nhttps://jo
+ nnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:58ff4877c70c1beb
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825560@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260305T200000
+DTEND;TZID=America/Detroit:20260305T221500
+SUMMARY:Wolverines @ Iowa (W 71-68)
+LOCATION:Carver-Hawkeye Arena\, Iowa City\, IA
+DESCRIPTION:Final: Won 71-68\nTV: Peacock\nVenue: Carver-Hawkeye Arena\nhtt
+ ps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:7e252888748a3e57
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401825568@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260308T163000
+DTEND;TZID=America/Detroit:20260308T184500
+SUMMARY:Wolverines vs Michigan St (W 90-80)
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Final: Won 90-80\nTV: CBS\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8e85b6655150e295
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401851380@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260313T120000
+DTEND;TZID=America/Detroit:20260313T141500
+SUMMARY:Wolverines vs Ohio State (W 71-67)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Final: Won 71-67\nTV: BTN\nBig Ten Tournament - Quarterfinal\nV
+ enue: United Center (neutral site)\nhttps://jonnylegal.github.io/sports-hu
+ b/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:9ddb1171aa6a8454
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401851384@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260314T130000
+DTEND;TZID=America/Detroit:20260314T151500
+SUMMARY:Wolverines vs Wisconsin (W 68-65)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Final: Won 68-65\nTV: CBS\nBig Ten Tournament - Semifinal\nVenu
+ e: United Center (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ebda0f7710d41bdc
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401851388@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260315T153000
+DTEND;TZID=America/Detroit:20260315T174500
+SUMMARY:Wolverines vs Purdue (L 72-80)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Final: Lost 72-80\nTV: CBS\nBig Ten Tournament - Final\nVenue: 
+ United Center (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:48ce2e1a4e741c39
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856486@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260319T193000
+DTEND;TZID=America/Detroit:20260319T214500
+SUMMARY:Wolverines vs Howard (W 101-80)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Final: Won 101-80\nTV: CBS\nNCAA Men's Basketball Championship 
+ - Midwest Region - 1st Round\nVenue: KeyBank Center (neutral site)\nhttps:
+ //jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f526fa18aea095d8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856532@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260321T121000
+DTEND;TZID=America/Detroit:20260321T142500
+SUMMARY:Wolverines vs Saint Louis (W 95-72)
+LOCATION:KeyBank Center\, Buffalo\, NY
+DESCRIPTION:Final: Won 95-72\nTV: CBS\nNCAA Men's Basketball Championship -
+  Midwest Region - 2nd Round\nVenue: KeyBank Center (neutral site)\nhttps:/
+ /jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:40d79cfa3a1f0018
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856572@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260327T193500
+DTEND;TZID=America/Detroit:20260327T215000
+SUMMARY:Wolverines vs Alabama (W 90-77)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Final: Won 90-77\nTV: TBS\nNCAA Men's Basketball Championship -
+  Midwest Region - Sweet 16\nVenue: United Center (neutral site)\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:9fdd26b5e7e49e97
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856576@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260329T141500
+DTEND;TZID=America/Detroit:20260329T163000
+SUMMARY:Wolverines vs Tennessee (W 95-62)
+LOCATION:United Center\, Chicago\, IL
+DESCRIPTION:Final: Won 95-62\nTV: CBS\nNCAA Men's Basketball Championship -
+  Midwest Region - Elite 8\nVenue: United Center (neutral site)\nhttps://jo
+ nnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:9a55626cc9787f25
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856599@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260404T211900
+DTEND;TZID=America/Detroit:20260404T233400
+SUMMARY:Wolverines vs Arizona (W 91-73)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Final: Won 91-73\nTV: TBS\nNCAA Men's Basketball Championship -
+  Final Four\nVenue: Lucas Oil Stadium (neutral site)\nhttps://jonnylegal.g
+ ithub.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:77f2a10fabbc5047
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401856600@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20260406T205000
+DTEND;TZID=America/Detroit:20260406T230500
+SUMMARY:Wolverines vs UConn (W 69-63)
+LOCATION:Lucas Oil Stadium\, Indianapolis\, IN
+DESCRIPTION:Final: Won 69-63\nTV: TBS\nNCAA Men's Basketball Championship -
+  National Championship\nVenue: Lucas Oil Stadium (neutral site)\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:5a994de552e3c6c1
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401925733@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Wolverines vs Oakland
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:16132fd8d1e8371c
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401920685@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wolverines vs UConn
+LOCATION:TD Garden\, Boston\, MA
+DESCRIPTION:Start time TBD\nHall of Fame Series - Boston\nVenue: TD Garden 
+ (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:84c7137c8cb51271
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401909524@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Wolverines vs Marquette
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ab8aacaee3c79021
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401918453@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Wolverines vs William & Mary
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ebf814a6ef32a638
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921776@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Wolverines @ Villanova
+LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
+DESCRIPTION:Start time TBD\nVenue: Xfinity Mobile Arena\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:35bfd067501314e9
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401909495@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20261124T173000
+DTEND;TZID=America/Detroit:20261124T194500
+SUMMARY:Wolverines vs Creighton
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Players Era Sixteen\nVenue: T-Mobile Arena (neutral site)\nhttp
+ s://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:416269e319d83a4f
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Wolverines vs Miss Valley St
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8e88149ca3b5f060
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401918951@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Wolverines vs Louisville
+LOCATION:Little Caesars Arena\, Detroit\, MI
+DESCRIPTION:Start time TBD\nVenue: Little Caesars Arena (neutral site)\nhtt
+ ps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f017bc89ba01b1b3
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921887@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Wolverines @ Rutgers
+LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
+DESCRIPTION:Start time TBD\nVenue: Jersey Mike’s Arena\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f945a81e8071cb54
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921889@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Wolverines vs Northwestern
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:e8c8e578e480f4e1
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401925735@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Wolverines vs Detroit Mercy
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:35329b7aeefe595c
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401925736@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Wolverines vs Toledo
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:5a0db9a3294ae0a8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921895@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:Wolverines vs Washington
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2454da1c84bcab34
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921903@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Wolverines @ Nebraska
+LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
+DESCRIPTION:Start time TBD\nVenue: Pinnacle Bank Arena\nhttps://jonnylegal.
+ github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:572fca6e941a2f8f
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921907@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Wolverines vs Purdue
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:cb2e789ecd8c0810
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921914@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:Wolverines vs Minnesota
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:5419acdb0ff79f8e
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921786@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:Wolverines @ Indiana
+LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
+DESCRIPTION:Start time TBD\nVenue: Simon Skjodt Assembly Hall\nhttps://jonn
+ ylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:76fa751b542428b7
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921929@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Wolverines vs Oregon
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2df91eb1a8df90db
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921938@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:Wolverines @ USC
+LOCATION:Galen Center\, Los Angeles\, CA
+DESCRIPTION:Start time TBD\nVenue: Galen Center\nhttps://jonnylegal.github.
+ io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:adb2ff5c96546be7
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921943@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:Wolverines @ UCLA
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+DESCRIPTION:Start time TBD\nVenue: Pauley Pavilion\nhttps://jonnylegal.gith
+ ub.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:663db4ea9b6e97a3
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921947@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:Wolverines vs Ohio State
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d67ad97b8baedd62
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921866@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:Wolverines @ Wisconsin
+LOCATION:Kohl Center\, Madison\, WI
+DESCRIPTION:Start time TBD\nVenue: Kohl Center\nhttps://jonnylegal.github.i
+ o/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:0fd70544d39ad49b
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921963@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:Wolverines vs Illinois
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:1deeccbc598e12c1
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921970@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:Wolverines vs Michigan St
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:4b6795356f356076
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921977@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:Wolverines @ Minnesota
+LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
+ , MN
+DESCRIPTION:Start time TBD\nVenue: The Barn by Blue Cross and Blue Shield o
+ f Minnesota\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:9cd5a05de4dbf01c
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921982@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:Wolverines vs Iowa
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:90ae92ce010770ad
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921991@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:Wolverines @ Penn State
+LOCATION:Bryce Jordan Center\, University Park\, PA
+DESCRIPTION:Start time TBD\nVenue: Bryce Jordan Center\nhttps://jonnylegal.
+ github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:41561c676367386a
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921997@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:Wolverines @ Michigan St
+LOCATION:Breslin Center\, East Lansing\, MI
+DESCRIPTION:Start time TBD\nVenue: Breslin Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2c53854e13ecc7ba
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401922009@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Wolverines vs Maryland
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:2a9a187c0bb602ff
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401922016@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T005804Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:Wolverines @ Ohio State
+LOCATION:Schottenstein Center\, Columbus\, OH
+DESCRIPTION:Start time TBD\nVenue: Schottenstein Center\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:75939ec337ba4f69
+END:VEVENT
+END:VCALENDAR
