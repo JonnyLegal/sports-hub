@@ -1,0 +1,419 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//sports-hub//schedule feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:USMNT
+X-WR-CALDESC:USMNT schedule\, scores and TV
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-734220@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250610T200000
+DTEND;TZID=America/New_York:20250610T220000
+SUMMARY:⚽ ❌ Switzerland 4 at USA 0 [Home]
+LOCATION:GEODIS Park\, Nashville\, Tennessee
+DESCRIPTION:Final: Lost 0-4\nTV: TNT\nVenue: GEODIS Park\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:07d78b241db2ba10
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735319@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250615T180000
+DTEND;TZID=America/New_York:20250615T200000
+SUMMARY:⚽ ✅ Trin & Tob 0 at USA 5 [Home]
+LOCATION:PayPal Park\, San Jose\, California
+DESCRIPTION:Final: Won 5-0\nTV: FOX\nVenue: PayPal Park\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:6681fa67e7a724ed
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735329@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250619T211500
+DTEND;TZID=America/New_York:20250619T231500
+SUMMARY:⚽ ✅ USA 1 at Saudi Arabia 0 [Away]
+LOCATION:Q2 Stadium\, Austin\, Texas
+DESCRIPTION:Final: Won 1-0\nTV: FS1\nVenue: Q2 Stadium\nhttps://jonnylegal.
+ github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:bc7d13612b98cba9
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735335@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250622T190000
+DTEND;TZID=America/New_York:20250622T210000
+SUMMARY:⚽ ✅ Haiti 1 at USA 2 [Home]
+LOCATION:AT&T Stadium\, Arlington\, Texas
+DESCRIPTION:Final: Won 2-1\nTV: FOX\nVenue: AT&T Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:889ffa8b072bb9fb
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735342@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250629T190000
+DTEND;TZID=America/New_York:20250629T210000
+SUMMARY:⚽ ✅ Costa Rica 2 at USA 2 [Home]
+LOCATION:U.S. Bank Stadium\, Minneapolis\, Minnesota
+DESCRIPTION:Final: Won 2-2 on penalties\nTV: FOX\nUnited States advance 4-3
+  on penalties\nVenue: U.S. Bank Stadium\nhttps://jonnylegal.github.io/spor
+ ts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8e536835638c0923
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735346@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250702T190000
+DTEND;TZID=America/New_York:20250702T210000
+SUMMARY:⚽ ✅ Guatemala 1 at USA 2 [Home]
+LOCATION:Energizer Park\, St. Louis\, Missouri
+DESCRIPTION:Final: Won 2-1\nTV: FS1\nVenue: Energizer Park\nhttps://jonnyle
+ gal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:e7ad67f1efbc144b
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735348@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250706T190000
+DTEND;TZID=America/New_York:20250706T210000
+SUMMARY:⚽ ❌ Mexico 2 at USA 1 [Home]
+LOCATION:NRG Stadium\, Houston\, Texas
+DESCRIPTION:Final: Lost 1-2\nTV: FOX\nVenue: NRG Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:580ae590af1157a8
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735765@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250906T170000
+DTEND;TZID=America/New_York:20250906T190000
+SUMMARY:⚽ ❌ South Korea 2 at USA 0 [Home]
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+DESCRIPTION:Final: Lost 0-2\nTV: TNT\nVenue: Sports Illustrated Stadium\nht
+ tps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:4c4fa31153c84328
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-735766@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20250909T193000
+DTEND;TZID=America/New_York:20250909T213000
+SUMMARY:⚽ ✅ Japan 0 at USA 2 [Home]
+LOCATION:ScottsMiracle-Gro Field\, Columbus\, Ohio
+DESCRIPTION:Final: Won 2-0\nTV: TNT\nVenue: ScottsMiracle-Gro Field\nhttps:
+ //jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:0d202b6f7fe62ee5
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-753161@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20251010T203000
+DTEND;TZID=America/New_York:20251010T223000
+SUMMARY:⚽ Ecuador 1 at USA 1 [Home]
+LOCATION:Q2 Stadium\, Austin\, Texas
+DESCRIPTION:Final: Drew 1-1\nTV: TNT\nVenue: Q2 Stadium\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:dd717a7230e5d046
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-753162@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20251014T210000
+DTEND;TZID=America/New_York:20251014T230000
+SUMMARY:⚽ ✅ Australia 1 at USA 2 [Home]
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+DESCRIPTION:Final: Won 2-1\nTV: TNT\nVenue: Dick's Sporting Goods Park\nhtt
+ ps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:6bf14133282c10e3
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-758376@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20251115T170000
+DTEND;TZID=America/New_York:20251115T190000
+SUMMARY:⚽ ✅ Paraguay 1 at USA 2 [Home]
+LOCATION:Subaru Park\, Chester\, Pennsylvania
+DESCRIPTION:Final: Won 2-1\nTV: TNT\nVenue: Subaru Park\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:220ce2cd264162bf
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-758377@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20251118T190000
+DTEND;TZID=America/New_York:20251118T210000
+SUMMARY:⚽ ✅ Uruguay 1 at USA 5 [Home]
+LOCATION:Raymond James Stadium\, Tampa\, Florida
+DESCRIPTION:Final: Won 5-1\nTV: TNT\nVenue: Raymond James Stadium\nhttps://
+ jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:fec7c6b6f074627f
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-762258@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260328T153000
+DTEND;TZID=America/New_York:20260328T173000
+SUMMARY:⚽ ❌ Belgium 5 at USA 2 [Home]
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+DESCRIPTION:Final: Lost 2-5\nTV: TNT\nVenue: Mercedes-Benz Stadium\nhttps:/
+ /jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d817a5912e4fd1f7
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-762259@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260331T190000
+DTEND;TZID=America/New_York:20260331T210000
+SUMMARY:⚽ ❌ Portugal 2 at USA 0 [Home]
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, Georgia
+DESCRIPTION:Final: Lost 0-2\nTV: TNT\nVenue: Mercedes-Benz Stadium\nhttps:/
+ /jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8db843d28d229eee
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-762592@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260531T153000
+DTEND;TZID=America/New_York:20260531T173000
+SUMMARY:⚽ ✅ Senegal 2 at USA 3 [Home]
+LOCATION:Bank of America Stadium\, Charlotte\, North Carolina
+DESCRIPTION:Final: Won 3-2\nTV: TBS\nVenue: Bank of America Stadium\nhttps:
+ //jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:237d94c15f12812b
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-762260@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260606T143000
+DTEND;TZID=America/New_York:20260606T163000
+SUMMARY:⚽ ❌ Germany 2 at USA 1 [Home]
+LOCATION:Soldier Field\, Chicago\, Illinois
+DESCRIPTION:Final: Lost 1-2\nTV: TBS\nVenue: Soldier Field\nhttps://jonnyle
+ gal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:feccf473067669c7
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-760417@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260612T210000
+DTEND;TZID=America/New_York:20260612T230000
+SUMMARY:⚽ ✅ Paraguay 1 at USA 4 [Home]
+LOCATION:SoFi Stadium\, Inglewood\, California
+DESCRIPTION:Final: Won 4-1\nTV: FOX\nVenue: SoFi Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:e3274a77b2e6dd91
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-760442@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260619T150000
+DTEND;TZID=America/New_York:20260619T170000
+SUMMARY:⚽ ✅ Australia 0 at USA 2 [Home]
+LOCATION:Lumen Field\, Seattle\, Washington
+DESCRIPTION:Final: Won 2-0\nTV: FOX\nVenue: Lumen Field\nhttps://jonnylegal
+ .github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:493230a1c5358711
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-760470@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260625T220000
+DTEND;TZID=America/New_York:20260626T000000
+SUMMARY:⚽ ❌ USA 2 at Türkiye 3 [Away]
+LOCATION:SoFi Stadium\, Inglewood\, California
+DESCRIPTION:Final: Lost 2-3\nTV: FOX\nVenue: SoFi Stadium\nhttps://jonnyleg
+ al.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:bbb3b6bb0ade466c
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-760494@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260701T200000
+DTEND;TZID=America/New_York:20260701T220000
+SUMMARY:⚽ ✅ Bosnia-Herz 0 at USA 2 [Home]
+LOCATION:Levi's Stadium\, Santa Clara\, California
+DESCRIPTION:Final: Won 2-0\nTV: FOX\nVenue: Levi's Stadium\nhttps://jonnyle
+ gal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:3d67390ac2a5331e
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-760507@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260706T200000
+DTEND;TZID=America/New_York:20260706T220000
+SUMMARY:⚽ ❌ Belgium 4 at USA 1 [Home]
+LOCATION:Lumen Field\, Seattle\, Washington
+DESCRIPTION:Final: Lost 1-4\nTV: FOX\nVenue: Lumen Field\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:32326c14807f4e2f
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401905203@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260926T163000
+DTEND;TZID=America/New_York:20260926T183000
+SUMMARY:⚽ ✅ Peru 1 at USA 4 [Home]
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+DESCRIPTION:Final: Won 4-1\nTV: TNT\nVenue: Inter&Co Stadium\nhttps://jonny
+ legal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:268c523eca0c9286
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401905189@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20260929T200000
+DTEND;TZID=America/New_York:20260929T220000
+SUMMARY:⚽ ✅ Chile 2 at USA 4 [Home]
+LOCATION:Energizer Park\, St. Louis\, Missouri
+DESCRIPTION:Final: Won 4-2\nTV: TNT\nVenue: Energizer Park\nhttps://jonnyle
+ gal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d15ade4b2169383f
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401905202@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261003T220000
+DTEND;TZID=America/New_York:20261004T000000
+SUMMARY:⚽ ✅ Mexico 0 at USA 3 [Home]
+LOCATION:State Farm Stadium\, Glendale\, Arizona
+DESCRIPTION:Final: Won 3-0\nTV: TNT\nVenue: State Farm Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:307c8be2dc0f2fa5
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401905188@sports-hub.jonnylegal.github.io
+DTSTAMP:20261004T170811Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261006T200000
+DTEND;TZID=America/New_York:20261006T220000
+SUMMARY:⚽ Canada at USA [Home]
+LOCATION:Allianz Field\, Saint Paul\, Minnesota
+DESCRIPTION:TV: TNT\nVenue: Allianz Field\nhttps://jonnylegal.github.io/spo
+ rts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:5eeb77d143bc5c94
+END:VEVENT
+END:VCALENDAR

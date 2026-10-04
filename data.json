@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:18:48+00:00",
+  "updated": "2026-10-04T17:08:11+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -314,6 +314,59 @@
         "note": null
       },
       "calendar": "calendars/wake-forest-basketball.ics"
+    },
+    {
+      "key": "usmnt",
+      "name": "USMNT",
+      "short": "USA",
+      "colors": {
+        "primary": "#213065",
+        "secondary": "#D42339",
+        "text": "#FFFFFF"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+      "record": "7-5",
+      "recordNote": "2026",
+      "standing": "1st in FIFA World Cup",
+      "live": null,
+      "last": {
+        "id": "401905202",
+        "date": "2026-10-04T02:00Z",
+        "state": "post",
+        "timeTBD": false,
+        "detail": "FT",
+        "homeAway": "home",
+        "opponent": "Mexico",
+        "opponentShort": "Mexico",
+        "opponentSchool": "Mexico",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
+        "venue": "State Farm Stadium",
+        "location": "State Farm Stadium, Glendale, Arizona",
+        "broadcast": "TNT",
+        "neutral": false,
+        "note": null,
+        "teamScore": 3,
+        "oppScore": 0,
+        "result": "W"
+      },
+      "next": {
+        "id": "401905188",
+        "date": "2026-10-07T00:00Z",
+        "state": "pre",
+        "timeTBD": false,
+        "detail": "10/6 - 8:00 PM EDT",
+        "homeAway": "home",
+        "opponent": "Canada",
+        "opponentShort": "Canada",
+        "opponentSchool": "Canada",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "venue": "Allianz Field",
+        "location": "Allianz Field, Saint Paul, Minnesota",
+        "broadcast": "TNT",
+        "neutral": false,
+        "note": null
+      },
+      "calendar": "calendars/usmnt.ics"
     }
   ]
 }
