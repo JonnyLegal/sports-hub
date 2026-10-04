@@ -94,6 +94,18 @@ TEAMS = [
         "colors": {"primary": "#9E7E38", "secondary": "#000000", "text": "#000000"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
     },
+    {
+        "key": "usmnt",
+        "tz": "America/New_York",
+        "duration": 120,
+        "name": "USMNT",
+        "short": "USA",
+        "source": "espn-soccer",
+        "path": "soccer/all",  # every competition: friendlies, Nations League, Gold Cup, World Cup
+        "id": "660",
+        "colors": {"primary": "#213065", "secondary": "#D42339", "text": "#FFFFFF"},
+        "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+    },
 ]
 
 
@@ -193,7 +205,8 @@ def espn_schedule(cfg, season=None):
 def tally(games):
     by_id = {g["id"]: g for g in games if g["state"] == "post"}
     results = [g.get("result") for g in by_id.values()]
-    w, l, t = results.count("W"), results.count("L"), results.count("T")
+    # Soccer draws count like ties: W-L-D, the way US Soccer reports records.
+    w, l, t = results.count("W"), results.count("L"), results.count("T") + results.count("D")
     if not w + l + t:
         return None
     return f"{w}-{l}-{t}" if t else f"{w}-{l}"
@@ -231,6 +244,36 @@ def fetch_espn(cfg):
         record = tally(prev_games)
         if record:
             record_note = f"{season_label(cfg, season - 1)} final"
+
+    return {
+        "record": record,
+        "recordNote": record_note,
+        "standing": team.get("standingSummary"),
+        "logo": ((team.get("logos") or [{}])[0].get("href")),
+        "games": games,
+    }
+
+
+def fetch_espn_soccer(cfg):
+    """National-team soccer. ESPN's soccer/all schedule lists results across
+    every competition; ?fixture=true lists the upcoming matches. There are no
+    seasons and no record, so the record is tallied for the latest year played."""
+    base = f"{ESPN}/{cfg['path']}/teams/{cfg['id']}"
+    team = get_json(base).get("team", {})
+    events = get_json(f"{base}/schedule").get("events") or []
+    events += get_json(f"{base}/schedule?fixture=true").get("events") or []
+    games = [g for g in (espn_game(e, cfg["id"]) for e in events) if g]
+    for g in games:
+        if g.get("result") == "T":
+            g["result"] = "D"  # a draw, in soccer terms
+
+    played = [g for g in games if g["state"] == "post" and g.get("date")]
+    record = record_note = None
+    if played:
+        year = max(g["date"][:4] for g in played)
+        record = tally([g for g in played if g["date"].startswith(year)])
+        this_year = str(datetime.now(timezone.utc).year)
+        record_note = year if year == this_year else f"{year} final"
 
     return {
         "record": record,
@@ -335,7 +378,8 @@ def build_team(cfg, previous):
     base = {k: cfg[k] for k in ("key", "name", "short", "colors", "logo")}
     try:
         print(f"Fetching {cfg['name']}...", file=sys.stderr)
-        raw = fetch_espn(cfg) if cfg["source"] == "espn" else fetch_mlb(cfg)
+        fetch = {"espn": fetch_espn, "espn-soccer": fetch_espn_soccer, "mlb": fetch_mlb}[cfg["source"]]
+        raw = fetch(cfg)
         live, last, nxt = pick_games(raw["games"])
         return raw["games"], {
             **base,

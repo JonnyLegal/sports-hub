@@ -77,6 +77,8 @@ def parse_utc(iso):
 def sport_emoji(cfg):
     if cfg["source"] == "mlb":
         return "⚾"
+    if "soccer" in cfg["path"]:
+        return "⚽"
     return "🏀" if "basketball" in cfg["path"] else "🏈"
 
 
@@ -126,8 +128,11 @@ def event_body(cfg, g):
 
     desc = []
     if g["state"] == "post" and g.get("teamScore") is not None:
-        word = {"W": "Won", "L": "Lost", "T": "Tied"}.get(g.get("result"), "Final")
-        desc.append(f"Final: {word} {g['teamScore']}-{g['oppScore']}")
+        word = {"W": "Won", "L": "Lost", "T": "Tied", "D": "Drew"}.get(g.get("result"), "Final")
+        line = f"Final: {word} {g['teamScore']}-{g['oppScore']}"
+        if g.get("result") in ("W", "L") and g["teamScore"] == g["oppScore"]:
+            line += " on penalties"  # level after extra time, decided by a shootout
+        desc.append(line)
     if g.get("timeTBD") and g["state"] == "pre":
         desc.append("Start time TBD")
     if g.get("broadcast"):
