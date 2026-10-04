@@ -16,6 +16,7 @@
     --loss: #b91c1c;
     --live: #dc2626;
     --badge-ink: #ffffff;
+    --link: #1d4ed8;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -28,6 +29,7 @@
       --loss: #f87171;
       --live: #f87171;
       --badge-ink: #0b0f17;
+      --link: #93c5fd;
     }
   }
   * { box-sizing: border-box; }
@@ -141,6 +143,16 @@
   .L { background: var(--loss); }
   .T { background: var(--muted); }
   .empty { color: var(--muted); font-size: 0.9rem; }
+  .cal {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .cal a { color: var(--link); font-weight: 600; text-decoration: none; }
+  .cal a:hover { text-decoration: underline; }
   .stale { color: var(--muted); font-size: 0.75rem; padding: 0 16px 10px; }
   #error { max-width: 1100px; margin: 0 auto; padding: 0 16px; color: var(--loss); }
   footer { text-align: center; color: var(--muted); font-size: 0.75rem; padding: 0 16px 24px; }
@@ -227,6 +239,19 @@ function gameRow(g, kind) {
     </div>`;
 }
 
+function calRow(t) {
+  const https = new URL(t.calendar, location.href).href;
+  const webcal = https.replace(/^https?:/, "webcal:");
+  const google = `https://calendar.google.com/calendar/render?cid=${encodeURIComponent(webcal)}`;
+  return `
+      <div class="section cal">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M7 2h2v2h6V2h2v2h3a1 1 0 0 1 1 1v15a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1h3V2Zm12 8H5v9h14v-9ZM5 8h14V6H5v2Z"/></svg>
+        <a href="${esc(webcal)}">Subscribe</a>
+        <a href="${esc(google)}" target="_blank" rel="noopener">Google Calendar</a>
+        <a href="${esc(https)}" download>.ics</a>
+      </div>`;
+}
+
 function card(t) {
   const c = t.colors;
   const style = `--primary:${c.primary};--accent:${c.secondary};--on-primary:${c.text}`;
@@ -248,6 +273,7 @@ function card(t) {
         <div class="record">${esc(t.record || "–")}${t.recordNote ? `<small>${esc(t.recordNote)}</small>` : ""}</div>
       </div>
       ${sections.join("")}
+      ${t.calendar ? calRow(t) : ""}
       ${t.stale ? `<div class="stale">Couldn't refresh this team on the last run; showing earlier data.</div>` : ""}
       ${t.error ? `<div class="stale">Data unavailable: ${esc(t.error)}</div>` : ""}
     </article>`;
