@@ -57,6 +57,26 @@ TEAMS = [
         "colors": {"primary": "#FFCB05", "secondary": "#00274C", "text": "#00274C"},
         "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
     },
+    {
+        "key": "wake-forest-football",
+        "name": "Wake Forest Football",
+        "short": "Demon Deacons",
+        "source": "espn",
+        "path": "football/college-football",
+        "id": "154",
+        "colors": {"primary": "#000000", "secondary": "#9E7E38", "text": "#FFFFFF"},
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    },
+    {
+        "key": "wake-forest-basketball",
+        "name": "Wake Forest Men's Basketball",
+        "short": "Demon Deacons",
+        "source": "espn",
+        "path": "basketball/mens-college-basketball",
+        "id": "154",
+        "colors": {"primary": "#9E7E38", "secondary": "#000000", "text": "#000000"},
+        "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+    },
 ]
 
 

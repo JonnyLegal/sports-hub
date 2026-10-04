@@ -188,6 +188,38 @@
         "neutral": false,
         "note": null
       }
+    },
+    {
+      "key": "wake-forest-football",
+      "name": "Wake Forest Football",
+      "short": "Demon Deacons",
+      "colors": {
+        "primary": "#000000",
+        "secondary": "#9E7E38",
+        "text": "#FFFFFF"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
+    },
+    {
+      "key": "wake-forest-basketball",
+      "name": "Wake Forest Men's Basketball",
+      "short": "Demon Deacons",
+      "colors": {
+        "primary": "#9E7E38",
+        "secondary": "#000000",
+        "text": "#000000"
+      },
+      "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
+      "record": null,
+      "standing": null,
+      "live": null,
+      "last": null,
+      "next": null
     }
   ]
 }

@@ -1,8 +1,8 @@
 # sports-hub
 
-Tracker for Jon's favorite teams: Ravens, Orioles, Michigan football, and Michigan men's basketball. Each card shows the current record, the last result, and the next game, plus the live score when a game is in progress.
+Tracker for Jon's favorite teams: Ravens, Orioles, Michigan football and men's basketball, and Wake Forest football and men's basketball. Each card shows the current record, the last result, and the next game, plus the live score when a game is in progress.
 
-- `scripts/fetch_data.py` pulls from ESPN's public site API (Ravens, Michigan) and `statsapi.mlb.com` (Orioles) and writes `data.json`. It uses only the standard library.
+- `scripts/fetch_data.py` pulls from ESPN's public site API (Ravens, Michigan, Wake Forest) and `statsapi.mlb.com` (Orioles) and writes `data.json`. It uses only the standard library.
 - `index.html` is a static page that reads `data.json`.
 - `.github/workflows/update.yml` runs the script every 3 hours, commits `data.json` when it changes, and deploys the site to GitHub Pages.
 
