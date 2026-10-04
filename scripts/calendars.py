@@ -81,8 +81,10 @@ def sport_emoji(cfg):
 
 
 def summary(cfg, g):
-    """e.g. "🏈 ✅ Cowboys 31 at Ravens 34 [Home]" or "🏀 Wolverines at Spartans [Away]"."""
-    us, them = cfg["short"], g.get("opponentShort") or g.get("opponent")
+    """e.g. "🏈 ✅ Cowboys 31 at Ravens 34 [Home]" or "🏀 Michigan at Michigan State [Away]"."""
+    # College opponents by full school name; pro teams by nickname ("Titans").
+    school = g.get("opponentSchool") if "college" in cfg.get("path", "") else None
+    us, them = cfg["short"], school or g.get("opponentShort") or g.get("opponent")
     if g["state"] == "post" and g.get("teamScore") is not None:
         us, them = f"{us} {g['teamScore']}", f"{them} {g['oppScore']}"
 

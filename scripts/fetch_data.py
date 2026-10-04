@@ -153,6 +153,7 @@ def espn_game(event, team_id):
         "homeAway": us.get("homeAway"),
         "opponent": opp.get("displayName") or opp.get("name"),
         "opponentShort": opp.get("shortDisplayName") or opp.get("abbreviation"),
+        "opponentSchool": opp.get("location"),  # "Western Michigan", vs short "W Michigan"
         "opponentLogo": ((opp.get("logos") or [{}])[0].get("href") or opp.get("logo")),
         "venue": (comp.get("venue") or {}).get("fullName"),
         "location": espn_location(comp.get("venue") or {}),
