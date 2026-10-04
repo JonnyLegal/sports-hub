@@ -282,12 +282,30 @@ function card(t) {
     </article>`;
 }
 
+// Soonest game first: teams playing now, then by next game time, then teams
+// with nothing scheduled. A TBD game counts as the end of its day, so it
+// sorts after a timed game on the same date. Ties keep data.json's order.
+function nextGameKey(t) {
+  if (t.live) return -Infinity;
+  if (!t.next || !t.next.date) return Infinity;
+  const ms = Date.parse(t.next.date);
+  if (Number.isNaN(ms)) return Infinity;
+  return t.next.timeTBD ? ms + 86400000 - 1 : ms;
+}
+function byNextGame(teams) {
+  // Compare rather than subtract: Infinity - Infinity is NaN.
+  return [...teams].sort((a, b) => {
+    const ka = nextGameKey(a), kb = nextGameKey(b);
+    return ka < kb ? -1 : ka > kb ? 1 : 0;
+  });
+}
+
 async function load() {
   try {
     const res = await fetch(`data.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-    document.getElementById("teams").innerHTML = data.teams.map(card).join("");
+    document.getElementById("teams").innerHTML = byNextGame(data.teams).map(card).join("");
     const u = document.getElementById("updated");
     u.textContent = `Updated ${ago(data.updated)}`;
     u.title = new Date(data.updated).toLocaleString();
