@@ -163,18 +163,18 @@ X-SPORTSHUB-HASH:d32cdc317f03f0af
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825408@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261005T182547Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20251213T200000
 DTEND;TZID=America/Detroit:20251213T221500
 SUMMARY:🏀 ✅ Michigan 101 at Maryland 83 [Away]
 LOCATION:XFINITY Center\, College Park\, MD
-DESCRIPTION:Final: Won 101-83\nTV: FOX\nVenue: XFINITY Center\nhttps://jonn
+DESCRIPTION:Final: Won 101-83\nTV: Fox\nVenue: XFINITY Center\nhttps://jonn
  ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bfe899a69a79452a
+X-SPORTSHUB-HASH:077d4a3eef2a99cb
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401822185@sports-hub.jonnylegal.github.io
@@ -298,18 +298,18 @@ X-SPORTSHUB-HASH:b98f06a36332aeed
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825464@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261005T182547Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260123T200000
 DTEND;TZID=America/Detroit:20260123T221500
 SUMMARY:🏀 ✅ Ohio State 62 at Michigan 74 [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Final: Won 74-62\nTV: FOX\nVenue: Crisler Center\nhttps://jonny
+DESCRIPTION:Final: Won 74-62\nTV: Fox\nVenue: Crisler Center\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:455596c7ae277790
+X-SPORTSHUB-HASH:8a9846e468278bf4
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825474@sports-hub.jonnylegal.github.io
@@ -328,18 +328,18 @@ X-SPORTSHUB-HASH:ba4f7b47477bb64d
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825481@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
+DTSTAMP:20261005T182547Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20260130T200000
 DTEND;TZID=America/Detroit:20260130T221500
 SUMMARY:🏀 ✅ Michigan 83 at Michigan State 71 [Away]
 LOCATION:Breslin Center\, East Lansing\, MI
-DESCRIPTION:Final: Won 83-71\nTV: FOX\nVenue: Breslin Center\nhttps://jonny
+DESCRIPTION:Final: Won 83-71\nTV: Fox\nVenue: Breslin Center\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a5fa37e8ea890cc
+X-SPORTSHUB-HASH:b18432156c620a2b
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825496@sports-hub.jonnylegal.github.io
@@ -449,18 +449,18 @@ X-SPORTSHUB-HASH:53360eda3f13ac75
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825544@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261005T182547Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260227T200000
 DTEND;TZID=America/Detroit:20260227T221500
 SUMMARY:🏀 ✅ Michigan 84 at Illinois 70 [Away]
 LOCATION:State Farm Center\, Champaign\, IL
-DESCRIPTION:Final: Won 84-70\nTV: FOX\nVenue: State Farm Center\nhttps://jo
+DESCRIPTION:Final: Won 84-70\nTV: Fox\nVenue: State Farm Center\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0fc562a5ba4753dd
+X-SPORTSHUB-HASH:d23010a6b090826e
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401825560@sports-hub.jonnylegal.github.io

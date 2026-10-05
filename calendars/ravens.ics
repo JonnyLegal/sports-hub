@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:333bdf93fc052eef
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872997@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261005T182547Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T163000
 SUMMARY:🏈 Ravens at Browns [Away]
 LOCATION:Huntington Bank Field\, Cleveland\, OH
-DESCRIPTION:TV: FOX\nVenue: Huntington Bank Field\nhttps://jonnylegal.githu
+DESCRIPTION:TV: Fox\nVenue: Huntington Bank Field\nhttps://jonnylegal.githu
  b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:55fc07d8ffd2cd8b
+X-SPORTSHUB-HASH:741b5007fc10af49
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873012@sports-hub.jonnylegal.github.io
@@ -177,18 +177,18 @@ X-SPORTSHUB-HASH:aeb8663d9c38dde2
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873068@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261005T182547Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261122T130000
 DTEND;TZID=America/New_York:20261122T163000
 SUMMARY:🏈 Ravens at Panthers [Away]
 LOCATION:Bank of America Stadium\, Charlotte\, NC
-DESCRIPTION:TV: FOX\nVenue: Bank of America Stadium\nhttps://jonnylegal.git
+DESCRIPTION:TV: Fox\nVenue: Bank of America Stadium\nhttps://jonnylegal.git
  hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0e71b07ae306c1ca
+X-SPORTSHUB-HASH:06f9d44b3800a008
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873085@sports-hub.jonnylegal.github.io
@@ -207,18 +207,18 @@ X-SPORTSHUB-HASH:d3edecd1f58e67af
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873116@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261005T182547Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261213T130000
 DTEND;TZID=America/New_York:20261213T163000
 SUMMARY:🏈 Buccaneers at Ravens [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
-DESCRIPTION:TV: FOX\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
+DESCRIPTION:TV: Fox\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2b2ee20f237c7493
+X-SPORTSHUB-HASH:56b0be3f49343514
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873128@sports-hub.jonnylegal.github.io
