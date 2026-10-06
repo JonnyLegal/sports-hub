@@ -651,18 +651,18 @@ X-SPORTSHUB-HASH:a5a2454d42f64f97
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401920685@sports-hub.jonnylegal.github.io
-DTSTAMP:20261006T004807Z
-SEQUENCE:3
+DTSTAMP:20261006T201814Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261106T200000
 DTEND;TZID=America/Detroit:20261106T221500
 SUMMARY:🏀 Michigan vs UConn [Neutral]
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:Hall of Fame Series - Boston\nVenue: TD Garden (neutral site)\n
- https://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: TNT\nHall of Fame Series - Boston\nVenue: TD Garden (neutra
+ l site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d665ae3a2775c751
+X-SPORTSHUB-HASH:940e3edfcca0ea92
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909524@sports-hub.jonnylegal.github.io
@@ -696,18 +696,18 @@ X-SPORTSHUB-HASH:6241cc10ea0ae2c1
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921776@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTAMP:20261006T201814Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261121T190000
+DTEND;TZID=America/Detroit:20261121T211500
 SUMMARY:🏀 Michigan at Villanova [Away]
 LOCATION:Xfinity Mobile Arena\, Philadelphia\, PA
-DESCRIPTION:Start time TBD\nVenue: Xfinity Mobile Arena\nhttps://jonnylegal
- .github.io/sports-hub/
+DESCRIPTION:TV: Fox\nVenue: Xfinity Mobile Arena\nhttps://jonnylegal.github
+ .io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:eb7d53b203da4126
+X-SPORTSHUB-HASH:9ef55ce836d15a75
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909495@sports-hub.jonnylegal.github.io

@@ -662,18 +662,18 @@ X-SPORTSHUB-HASH:98440e9e73529b10
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909732@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
+DTSTAMP:20261006T201814Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20261206T130000
+DTEND;TZID=America/New_York:20261206T151500
 SUMMARY:🏀 Wake Forest vs Massachusetts [Neutral]
 LOCATION:MassMutual Center\, Springfield\, MA
-DESCRIPTION:Start time TBD\nBasketball Hall of Fame Classic\nVenue: MassMut
- ual Center (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Basketball Hall of Fame Classic\nVenue: MassMutual Center (neut
+ ral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:377e0ba625644731
+X-SPORTSHUB-HASH:ee60fcccb521903a
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909733@sports-hub.jonnylegal.github.io
