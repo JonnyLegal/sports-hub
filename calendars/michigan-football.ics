@@ -42,18 +42,18 @@ X-SPORTSHUB-HASH:2fd93dd475b859c7
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401856679@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261006T004807Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20260912T120000
 DTEND;TZID=America/Detroit:20260912T153000
 SUMMARY:🏈 ✅ Oklahoma 10 at Michigan 17 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:Final: Won 17-10\nTV: FOX\nVenue: Michigan Stadium\nhttps://jon
+DESCRIPTION:Final: Won 17-10\nTV: Fox\nVenue: Michigan Stadium\nhttps://jon
  nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b2660950aa9332f3
+X-SPORTSHUB-HASH:36c06d46ec1a86de
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858450@sports-hub.jonnylegal.github.io
@@ -87,18 +87,18 @@ X-SPORTSHUB-HASH:1ccee49a7d11c3e0
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858474@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261006T004807Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20261003T120000
 DTEND;TZID=America/Detroit:20261003T153000
 SUMMARY:🏈 ❌ Michigan 14 at Minnesota 20 [Away]
 LOCATION:Huntington Bank Stadium\, Minneapolis\, MN
-DESCRIPTION:Final: Lost 14-20\nTV: FOX\nVenue: Huntington Bank Stadium\nhtt
+DESCRIPTION:Final: Lost 14-20\nTV: Fox\nVenue: Huntington Bank Stadium\nhtt
  ps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e19c5774f8ec7487
+X-SPORTSHUB-HASH:6e37e684452c8541
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858490@sports-hub.jonnylegal.github.io
@@ -192,17 +192,17 @@ X-SPORTSHUB-HASH:501aaec20867eb17
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858540@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261006T004807Z
+SEQUENCE:3
 DTSTART;TZID=America/Detroit:20261128T120000
 DTEND;TZID=America/Detroit:20261128T153000
 SUMMARY:🏈 Michigan at Ohio State [Away]
 LOCATION:Ohio Stadium\, Columbus\, OH
-DESCRIPTION:TV: FOX\nVenue: Ohio Stadium\nhttps://jonnylegal.github.io/spor
+DESCRIPTION:TV: Fox\nVenue: Ohio Stadium\nhttps://jonnylegal.github.io/spor
  ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8af6c28f83574ed4
+X-SPORTSHUB-HASH:d775f6de5bc7cc85
 END:VEVENT
 END:VCALENDAR

@@ -117,18 +117,18 @@ X-SPORTSHUB-HASH:418bce9b4ee6b93d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858269@sports-hub.jonnylegal.github.io
-DTSTAMP:20261005T182547Z
-SEQUENCE:3
-DTSTART;TZID=America/New_York:20261017T223000
-DTEND;TZID=America/New_York:20261018T020000
+DTSTAMP:20261006T004807Z
+SEQUENCE:4
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
 SUMMARY:🏈 Wake Forest at California [Away]
 LOCATION:California Memorial Stadium\, Berkeley\, CA
-DESCRIPTION:Venue: California Memorial Stadium\nhttps://jonnylegal.github.i
- o/sports-hub/
+DESCRIPTION:Start time TBD\nVenue: California Memorial Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:336a097c6d24fe50
+X-SPORTSHUB-HASH:2e827503c33c407c
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858284@sports-hub.jonnylegal.github.io

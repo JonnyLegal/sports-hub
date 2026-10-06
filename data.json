@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T23:52:49+00:00",
+  "updated": "2026-10-06T00:48:07+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -147,7 +147,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
         "venue": "Huntington Bank Stadium",
         "location": "Huntington Bank Stadium, Minneapolis, MN",
-        "broadcast": "FOX",
+        "broadcast": "Fox",
         "neutral": false,
         "note": null,
         "teamScore": 14,
