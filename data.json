@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T00:48:07+00:00",
+  "updated": "2026-10-07T00:40:54+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -373,7 +373,27 @@
       "record": "7-5",
       "recordNote": "2026",
       "standing": null,
-      "live": null,
+      "live": {
+        "id": "401905188",
+        "date": "2026-10-07T00:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "32'",
+        "homeAway": "home",
+        "opponent": "Canada",
+        "opponentShort": "Canada",
+        "opponentFull": "Canada",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "venue": "Allianz Field",
+        "location": "Allianz Field, Saint Paul, Minnesota",
+        "broadcast": "TNT",
+        "neutral": false,
+        "note": "International Friendly",
+        "teamScore": 1,
+        "oppScore": 0,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905188",
+        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905188"
+      },
       "last": {
         "id": "401905202",
         "date": "2026-10-04T02:00Z",
@@ -396,25 +416,7 @@
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905202",
         "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905202"
       },
-      "next": {
-        "id": "401905188",
-        "date": "2026-10-07T00:00Z",
-        "state": "pre",
-        "timeTBD": false,
-        "detail": "10/6 - 8:00 PM EDT",
-        "homeAway": "home",
-        "opponent": "Canada",
-        "opponentShort": "Canada",
-        "opponentFull": "Canada",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
-        "venue": "Allianz Field",
-        "location": "Allianz Field, Saint Paul, Minnesota",
-        "broadcast": "TNT",
-        "neutral": false,
-        "note": "International Friendly",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905188",
-        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905188"
-      },
+      "next": null,
       "calendar": "calendars/usmnt.ics"
     }
   ]
