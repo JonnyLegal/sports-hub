@@ -636,18 +636,18 @@ X-SPORTSHUB-HASH:4dc8a6f616d2e131
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925733@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261102T180000
+DTEND;TZID=America/Detroit:20261102T201500
 SUMMARY:🏀 Oakland at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: BTN\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a5a2454d42f64f97
+X-SPORTSHUB-HASH:71945c524713f513
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401920685@sports-hub.jonnylegal.github.io
@@ -666,33 +666,33 @@ X-SPORTSHUB-HASH:940e3edfcca0ea92
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909524@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261111T190000
+DTEND;TZID=America/Detroit:20261111T211500
 SUMMARY:🏀 Marquette at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: FS1\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:361eff95b2bc51b4
+X-SPORTSHUB-HASH:fb45ecd5ab5412b3
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401918453@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:🏀 William & Mary at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:Start time TBD\nTV: B1G+\nVenue: Crisler Center\nhttps://jonnyl
+ egal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6241cc10ea0ae2c1
+X-SPORTSHUB-HASH:cbafb396398fc7df
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921776@sports-hub.jonnylegal.github.io
@@ -726,363 +726,363 @@ X-SPORTSHUB-HASH:b2bd9918b0af8c7f
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
+DTSTAMP:20261007T203611Z
+SEQUENCE:4
+DTSTART;TZID=America/Detroit:20261201T190000
+DTEND;TZID=America/Detroit:20261201T211500
 SUMMARY:🏀 Mississippi Valley State at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: BTN\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f25b5e11427b0a45
+X-SPORTSHUB-HASH:f5f789cf8509e6ab
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401918951@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261205T120000
+DTEND;TZID=America/Detroit:20261205T141500
 SUMMARY:🏀 Michigan vs Louisville [Neutral]
 LOCATION:Little Caesars Arena\, Detroit\, MI
-DESCRIPTION:Start time TBD\nVenue: Little Caesars Arena (neutral site)\nhtt
- ps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: Peacock\nVenue: Little Caesars Arena (neutral site)\nhttps:
+ //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:16737dfb44de8f82
+X-SPORTSHUB-HASH:3b704560525852ee
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921887@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261209T183000
+DTEND;TZID=America/Detroit:20261209T204500
 SUMMARY:🏀 Michigan at Rutgers [Away]
 LOCATION:Jersey Mike’s Arena\, Piscataway\, NJ
-DESCRIPTION:Start time TBD\nVenue: Jersey Mike’s Arena\nhttps://jonnylega
- l.github.io/sports-hub/
+DESCRIPTION:TV: BTN\nVenue: Jersey Mike’s Arena\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a87d78aabf100ad5
+X-SPORTSHUB-HASH:8576996b49ce8937
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921889@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261212T163000
+DTEND;TZID=America/Detroit:20261212T184500
 SUMMARY:🏀 Northwestern at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: Fox\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a1003dc9410980a0
+X-SPORTSHUB-HASH:b6941cb606b56a2c
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925735@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261221T160000
+DTEND;TZID=America/Detroit:20261221T181500
 SUMMARY:🏀 Detroit Mercy at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: BTN\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:17456cd0c5dbfdfc
+X-SPORTSHUB-HASH:bcd4778b7a40e82c
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925736@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261230T120000
+DTEND;TZID=America/Detroit:20261230T141500
 SUMMARY:🏀 Toledo at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: BTN\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9a1816dd57313990
+X-SPORTSHUB-HASH:989f1e1a31970511
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921895@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270102T140000
+DTEND;TZID=America/Detroit:20270102T161500
 SUMMARY:🏀 Washington at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:TV: Fox\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9ead5cc478d7623e
+X-SPORTSHUB-HASH:06f04bdcd07ac8bb
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921903@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270105T190000
+DTEND;TZID=America/Detroit:20270105T211500
 SUMMARY:🏀 Michigan at Nebraska [Away]
 LOCATION:Pinnacle Bank Arena\, Lincoln\, NE
-DESCRIPTION:Start time TBD\nVenue: Pinnacle Bank Arena\nhttps://jonnylegal.
+DESCRIPTION:TV: Peacock\nVenue: Pinnacle Bank Arena\nhttps://jonnylegal.git
+ hub.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d37b7b95b7e3bb4f
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921907@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270108T200000
+DTEND;TZID=America/Detroit:20270108T221500
+SUMMARY:🏀 Purdue at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: Fox\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:fa9d323b863289c1
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921914@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270112T183000
+DTEND;TZID=America/Detroit:20270112T204500
+SUMMARY:🏀 Minnesota at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: BTN\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:e183a7a709d6b1ba
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921786@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270116T130000
+DTEND;TZID=America/Detroit:20270116T151500
+SUMMARY:🏀 Michigan at Indiana [Away]
+LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
+DESCRIPTION:TV: CBS\nVenue: Simon Skjodt Assembly Hall\nhttps://jonnylegal.
  github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4f2732f59ec590c4
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921907@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270108
-DTEND;VALUE=DATE:20270109
-SUMMARY:🏀 Purdue at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:415d2eb56c040618
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921914@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
-SUMMARY:🏀 Minnesota at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fff65dfb9f883186
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921786@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
-SUMMARY:🏀 Michigan at Indiana [Away]
-LOCATION:Simon Skjodt Assembly Hall\, Bloomington\, IN
-DESCRIPTION:Start time TBD\nVenue: Simon Skjodt Assembly Hall\nhttps://jonn
- ylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:45d87fe655cf2ce7
+X-SPORTSHUB-HASH:26756806aeea22f6
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921929@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270119
-DTEND;VALUE=DATE:20270120
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270119T190000
+DTEND;TZID=America/Detroit:20270119T211500
 SUMMARY:🏀 Oregon at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8a0346bdee095d90
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921938@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-SUMMARY:🏀 Michigan at USC [Away]
-LOCATION:Galen Center\, Los Angeles\, CA
-DESCRIPTION:Start time TBD\nVenue: Galen Center\nhttps://jonnylegal.github.
- io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:dcb53c1e1fdd2fcd
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921943@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270126
-DTEND;VALUE=DATE:20270127
-SUMMARY:🏀 Michigan at UCLA [Away]
-LOCATION:Pauley Pavilion\, Los Angeles\, CA
-DESCRIPTION:Start time TBD\nVenue: Pauley Pavilion\nhttps://jonnylegal.gith
- ub.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a299d99176e5cc23
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921947@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
-SUMMARY:🏀 Ohio State at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bb8a98332e42a864
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921866@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
-SUMMARY:🏀 Michigan at Wisconsin [Away]
-LOCATION:Kohl Center\, Madison\, WI
-DESCRIPTION:Start time TBD\nVenue: Kohl Center\nhttps://jonnylegal.github.i
+DESCRIPTION:TV: Peacock\nVenue: Crisler Center\nhttps://jonnylegal.github.i
  o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9df726f30f6c3838
+X-SPORTSHUB-HASH:f550fd0cd914d3cb
 END:VEVENT
 BEGIN:VEVENT
-UID:michigan-basketball-espn-401921963@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270209
-DTEND;VALUE=DATE:20270210
-SUMMARY:🏀 Illinois at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:50e5688a8b639586
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921970@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
+UID:michigan-basketball-espn-401921938@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
-SUMMARY:🏀 Michigan State at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DTSTART;TZID=America/Detroit:20270123T150000
+DTEND;TZID=America/Detroit:20270123T171500
+SUMMARY:🏀 Michigan at USC [Away]
+LOCATION:Galen Center\, Los Angeles\, CA
+DESCRIPTION:TV: NBC\nVenue: Galen Center\nhttps://jonnylegal.github.io/spor
+ ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0c986f49048ed021
+X-SPORTSHUB-HASH:d06539c0e3da9c4f
 END:VEVENT
 BEGIN:VEVENT
-UID:michigan-basketball-espn-401921977@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270217
-SUMMARY:🏀 Michigan at Minnesota [Away]
-LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
- , MN
-DESCRIPTION:Start time TBD\nVenue: The Barn by Blue Cross and Blue Shield o
- f Minnesota\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:143698b4a6e00ed4
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921982@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:🏀 Iowa at Michigan [Home]
-LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7dc5e003f429adcf
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921991@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270224
-SUMMARY:🏀 Michigan at Penn State [Away]
-LOCATION:Bryce Jordan Center\, University Park\, PA
-DESCRIPTION:Start time TBD\nVenue: Bryce Jordan Center\nhttps://jonnylegal.
- github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8be46cba01575f97
-END:VEVENT
-BEGIN:VEVENT
-UID:michigan-basketball-espn-401921997@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
+UID:michigan-basketball-espn-401921943@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
 SEQUENCE:3
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270227
-SUMMARY:🏀 Michigan at Michigan State [Away]
-LOCATION:Breslin Center\, East Lansing\, MI
-DESCRIPTION:Start time TBD\nVenue: Breslin Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DTSTART;TZID=America/Detroit:20270126T220000
+DTEND;TZID=America/Detroit:20270127T001500
+SUMMARY:🏀 Michigan at UCLA [Away]
+LOCATION:Pauley Pavilion\, Los Angeles\, CA
+DESCRIPTION:TV: Peacock\nVenue: Pauley Pavilion\nhttps://jonnylegal.github.
+ io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0f27d466d5ad0557
+X-SPORTSHUB-HASH:e9aa4ac0163a69e4
 END:VEVENT
 BEGIN:VEVENT
-UID:michigan-basketball-espn-401922009@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270304
-DTEND;VALUE=DATE:20270305
-SUMMARY:🏀 Maryland at Michigan [Home]
+UID:michigan-basketball-espn-401921947@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏀 Ohio State at Michigan [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Crisler Center\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:Start time TBD\nTV: Fox\nVenue: Crisler Center\nhttps://jonnyle
+ gal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:86d4b073a615ae96
+X-SPORTSHUB-HASH:b59c5674e8d83f33
 END:VEVENT
 BEGIN:VEVENT
-UID:michigan-basketball-espn-401922016@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
-SUMMARY:🏀 Michigan at Ohio State [Away]
-LOCATION:Schottenstein Center\, Columbus\, OH
-DESCRIPTION:Start time TBD\nVenue: Schottenstein Center\nhttps://jonnylegal
+UID:michigan-basketball-espn-401921866@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🏀 Michigan at Wisconsin [Away]
+LOCATION:Kohl Center\, Madison\, WI
+DESCRIPTION:Start time TBD\nTV: Fox\nVenue: Kohl Center\nhttps://jonnylegal
  .github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:49b678befb8d71da
+X-SPORTSHUB-HASH:4988500ba058c1fb
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921963@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270209T190000
+DTEND;TZID=America/Detroit:20270209T211500
+SUMMARY:🏀 Illinois at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: Peacock\nVenue: Crisler Center\nhttps://jonnylegal.github.i
+ o/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:cdbf949218cf701d
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921970@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:4
+DTSTART;TZID=America/Detroit:20270213T130000
+DTEND;TZID=America/Detroit:20270213T151500
+SUMMARY:🏀 Michigan State at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: CBS\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:130c42a052c912d8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921977@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270216T200000
+DTEND;TZID=America/Detroit:20270216T221500
+SUMMARY:🏀 Michigan at Minnesota [Away]
+LOCATION:The Barn by Blue Cross and Blue Shield of Minnesota\, Minneapolis\
+ , MN
+DESCRIPTION:TV: FS1\nVenue: The Barn by Blue Cross and Blue Shield of Minne
+ sota\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:397311fe60be3bfd
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921982@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270220T130000
+DTEND;TZID=America/Detroit:20270220T151500
+SUMMARY:🏀 Iowa at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: CBS\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:a82e3b3b1b9a40a8
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921991@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270223T180000
+DTEND;TZID=America/Detroit:20270223T201500
+SUMMARY:🏀 Michigan at Penn State [Away]
+LOCATION:Bryce Jordan Center\, University Park\, PA
+DESCRIPTION:TV: FS1\nVenue: Bryce Jordan Center\nhttps://jonnylegal.github.
+ io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:3697d808927db362
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401921997@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:4
+DTSTART;TZID=America/Detroit:20270226T200000
+DTEND;TZID=America/Detroit:20270226T221500
+SUMMARY:🏀 Michigan at Michigan State [Away]
+LOCATION:Breslin Center\, East Lansing\, MI
+DESCRIPTION:TV: Fox\nVenue: Breslin Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:44d2bb58b678ed70
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401922009@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270304T183000
+DTEND;TZID=America/Detroit:20270304T204500
+SUMMARY:🏀 Maryland at Michigan [Home]
+LOCATION:Crisler Center\, Ann Arbor\, MI
+DESCRIPTION:TV: FS1\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
+ orts-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:9224237523e50eed
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401922016@sports-hub.jonnylegal.github.io
+DTSTAMP:20261007T203611Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20270307T141500
+DTEND;TZID=America/Detroit:20270307T163000
+SUMMARY:🏀 Michigan at Ohio State [Away]
+LOCATION:Schottenstein Center\, Columbus\, OH
+DESCRIPTION:TV: CBS\nVenue: Schottenstein Center\nhttps://jonnylegal.github
+ .io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:c62f4469bf07c60b
 END:VEVENT
 END:VCALENDAR

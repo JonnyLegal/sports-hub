@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T07:13:01+00:00",
+  "updated": "2026-10-07T20:36:11+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -218,10 +218,10 @@
       },
       "next": {
         "id": "401925733",
-        "date": "2026-11-02T05:00Z",
+        "date": "2026-11-02T23:00Z",
         "state": "pre",
-        "timeTBD": true,
-        "detail": "TBD",
+        "timeTBD": false,
+        "detail": "11/2 - 6:00 PM EST",
         "homeAway": "home",
         "opponent": "Oakland Golden Grizzlies",
         "opponentShort": "Oakland",
@@ -229,7 +229,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2473.png",
         "venue": "Crisler Center",
         "location": "Crisler Center, Ann Arbor, MI",
-        "broadcast": null,
+        "broadcast": "BTN",
         "neutral": false,
         "note": null,
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401925733",
