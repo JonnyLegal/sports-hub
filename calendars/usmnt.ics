@@ -401,19 +401,4 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:87f6a74b3ae60cc8
 END:VEVENT
-BEGIN:VEVENT
-UID:usmnt-espn-soccer-401905188@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20261006T200000
-DTEND;TZID=America/New_York:20261006T220000
-SUMMARY:⚽ Canada at USA [Home]
-LOCATION:Allianz Field\, Saint Paul\, Minnesota
-DESCRIPTION:TV: TNT\nInternational Friendly\nVenue: Allianz Field\nhttps://
- jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0e4d9cb1c5faa0cc
-END:VEVENT
 END:VCALENDAR
