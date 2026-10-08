@@ -572,18 +572,18 @@ X-SPORTSHUB-HASH:4c30c85ab00e1026
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909726@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
+DTSTAMP:20261008T005900Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261105T180000
+DTEND;TZID=America/New_York:20261105T201500
 SUMMARY:🏀 Wake Forest at Vanderbilt [Away]
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
-DESCRIPTION:Start time TBD\nVenue: Memorial Gymnasium (TN)\nhttps://jonnyle
- gal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN2\nVenue: Memorial Gymnasium (TN)\nhttps://jonnylegal.g
+ ithub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:81f40bce407d6173
+X-SPORTSHUB-HASH:6a038f1cfabf1aea
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909727@sports-hub.jonnylegal.github.io
@@ -647,18 +647,18 @@ X-SPORTSHUB-HASH:eb891696414cad9f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401929287@sports-hub.jonnylegal.github.io
-DTSTAMP:20261007T203611Z
-SEQUENCE:0
+DTSTAMP:20261008T005900Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261125T193000
 DTEND;TZID=America/New_York:20261125T214500
 SUMMARY:🏀 Wake Forest vs Mississippi State [Neutral]
 LOCATION:Imperial Arena\, Nassau\, Bahamas
-DESCRIPTION:Battle 4 Atlantis - Championship Bracket\nVenue: Imperial Arena
-  (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN2\nBattle 4 Atlantis - Championship Bracket\nVenue: Imp
+ erial Arena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2556c70d9b2e3d8b
+X-SPORTSHUB-HASH:1dc5315ba0b7b600
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909731@sports-hub.jonnylegal.github.io
