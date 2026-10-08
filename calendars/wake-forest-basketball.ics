@@ -677,18 +677,18 @@ X-SPORTSHUB-HASH:98440e9e73529b10
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909732@sports-hub.jonnylegal.github.io
-DTSTAMP:20261006T201814Z
-SEQUENCE:4
+DTSTAMP:20261008T153459Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261206T130000
 DTEND;TZID=America/New_York:20261206T151500
 SUMMARY:🏀 Wake Forest vs Massachusetts [Neutral]
 LOCATION:MassMutual Center\, Springfield\, MA
-DESCRIPTION:Basketball Hall of Fame Classic\nVenue: MassMutual Center (neut
- ral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPNU\nBasketball Hall of Fame Classic\nVenue: MassMutual C
+ enter (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ee60fcccb521903a
+X-SPORTSHUB-HASH:a1cc4e9d6d3304a7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909733@sports-hub.jonnylegal.github.io
@@ -707,33 +707,33 @@ X-SPORTSHUB-HASH:eed9e34e96d3c68a
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909734@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261215T210000
+DTEND;TZID=America/New_York:20261215T231500
 SUMMARY:🏀 Gardner-Webb at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e646b958bb744a85
+X-SPORTSHUB-HASH:d98aecad0196f2a9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909735@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261219T153000
+DTEND;TZID=America/New_York:20261219T174500
 SUMMARY:🏀 Wake Forest vs West Virginia [Neutral]
 LOCATION:First Horizon Coliseum\, Greensboro\, NC
-DESCRIPTION:Start time TBD\nHoliday Hoopfest\nVenue: First Horizon Coliseum
-  (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN2\nHoliday Hoopfest\nVenue: First Horizon Coliseum (neu
+ tral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:354eb1100a3a9d8d
+X-SPORTSHUB-HASH:f3e15b7d9f2f87f5
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909736@sports-hub.jonnylegal.github.io
@@ -752,153 +752,153 @@ X-SPORTSHUB-HASH:b568f7565a3cf904
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918106@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270102T153000
+DTEND;TZID=America/New_York:20270102T174500
 SUMMARY:🏀 Virginia Tech at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5ea1374b754f6f48
+X-SPORTSHUB-HASH:74bd4b32cb54680b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918108@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270105
-DTEND;VALUE=DATE:20270106
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270105T190000
+DTEND;TZID=America/New_York:20270105T211500
 SUMMARY:🏀 Wake Forest at SMU [Away]
 LOCATION:Moody Coliseum (Dallas)\, Dallas\, TX
-DESCRIPTION:Start time TBD\nVenue: Moody Coliseum (Dallas)\nhttps://jonnyle
- gal.github.io/sports-hub/
+DESCRIPTION:TV: ESPNU\nVenue: Moody Coliseum (Dallas)\nhttps://jonnylegal.g
+ ithub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4f1a5778846a8399
+X-SPORTSHUB-HASH:82c34a3344f8bc37
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918125@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270109
-DTEND;VALUE=DATE:20270110
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270109T120000
+DTEND;TZID=America/New_York:20270109T141500
 SUMMARY:🏀 Wake Forest at Clemson [Away]
 LOCATION:Littlejohn Coliseum\, Clemson\, SC
-DESCRIPTION:Start time TBD\nVenue: Littlejohn Coliseum\nhttps://jonnylegal.
- github.io/sports-hub/
+DESCRIPTION:TV: CW\nVenue: Littlejohn Coliseum\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:db3405d880041f75
+X-SPORTSHUB-HASH:eb09864218e01862
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918129@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270112
-DTEND;VALUE=DATE:20270113
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270112T190000
+DTEND;TZID=America/New_York:20270112T211500
 SUMMARY:🏀 Notre Dame at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bf5c7fdd23106c32
+X-SPORTSHUB-HASH:a7f7d5bfdf8bf55f
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918138@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20270116
-DTEND;VALUE=DATE:20270117
+DTSTAMP:20261008T153459Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20270116T163000
+DTEND;TZID=America/New_York:20270116T184500
 SUMMARY:🏀 Florida State at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ebb8f4abb374af34
+X-SPORTSHUB-HASH:9f4fe08ae167bbca
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918148@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270120
-DTEND;VALUE=DATE:20270121
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270120T210000
+DTEND;TZID=America/New_York:20270120T231500
 SUMMARY:🏀 Duke at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:904fe86dcf8ffae3
+X-SPORTSHUB-HASH:cb1f6aef6bec7bbb
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918154@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270123T120000
+DTEND;TZID=America/New_York:20270123T141500
 SUMMARY:🏀 Wake Forest at NC State [Away]
 LOCATION:Lenovo Center\, Raleigh\, NC
-DESCRIPTION:Start time TBD\nVenue: Lenovo Center\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: CW\nVenue: Lenovo Center\nhttps://jonnylegal.github.io/spor
+ ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a1dcc20527b756d0
+X-SPORTSHUB-HASH:25a050b778808934
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918169@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270130
-DTEND;VALUE=DATE:20270131
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270130T120000
+DTEND;TZID=America/New_York:20270130T141500
 SUMMARY:🏀 Wake Forest at Miami [Away]
 LOCATION:Watsco Center\, Coral Gables\, FL
-DESCRIPTION:Start time TBD\nVenue: Watsco Center\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: CW\nVenue: Watsco Center\nhttps://jonnylegal.github.io/spor
+ ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:37773a9373d98b81
+X-SPORTSHUB-HASH:d08896cb763397db
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918176@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270203
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270202T180000
+DTEND;TZID=America/New_York:20270202T201500
 SUMMARY:🏀 Boston College at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:eda87ba6e4bcc101
+X-SPORTSHUB-HASH:541d58357eb9ab93
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918186@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270206
-DTEND;VALUE=DATE:20270207
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270206T150000
+DTEND;TZID=America/New_York:20270206T171500
 SUMMARY:🏀 Wake Forest at Louisville [Away]
 LOCATION:KFC Yum! Center\, Louisville\, KY
-DESCRIPTION:Start time TBD\nVenue: KFC Yum! Center\nhttps://jonnylegal.gith
- ub.io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: KFC Yum! Center\nhttps://jonnylegal.git
+ hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:066645f11510ef7f
+X-SPORTSHUB-HASH:1a2c19fa49b4ee88
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401925972@sports-hub.jonnylegal.github.io
@@ -917,122 +917,122 @@ X-SPORTSHUB-HASH:c5f9e8f4b1ab00ba
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918196@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270210
-DTEND;VALUE=DATE:20270211
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270210T190000
+DTEND;TZID=America/New_York:20270210T211500
 SUMMARY:🏀 NC State at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0963d5714794814e
+X-SPORTSHUB-HASH:fb9b262eae47a0a5
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918200@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20270213
-DTEND;VALUE=DATE:20270214
+DTSTAMP:20261008T153459Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20270213T190000
+DTEND;TZID=America/New_York:20270213T211500
 SUMMARY:🏀 Pittsburgh at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b48e39d5610c268f
+X-SPORTSHUB-HASH:e4916e938865cda7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918209@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270216
-DTEND;VALUE=DATE:20270217
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270217T210000
+DTEND;TZID=America/New_York:20270217T231500
 SUMMARY:🏀 Wake Forest at Notre Dame [Away]
 LOCATION:Purcell Pavilion\, South Bend\, IN
-DESCRIPTION:Start time TBD\nFlex Game: 2/16 or 2/17\nVenue: Purcell Pavilio
- n\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0620b966acda9a11
-END:VEVENT
-BEGIN:VEVENT
-UID:wake-forest-basketball-espn-401918218@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
-SUMMARY:🏀 North Carolina at Wake Forest [Home]
-LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d4f32b096af9e370
-END:VEVENT
-BEGIN:VEVENT
-UID:wake-forest-basketball-espn-401918229@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270224
-DTEND;VALUE=DATE:20270225
-SUMMARY:🏀 Wake Forest at Stanford [Away]
-LOCATION:Maples Pavilion\, Stanford\, CA
-DESCRIPTION:Start time TBD\nVenue: Maples Pavilion\nhttps://jonnylegal.gith
- ub.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:beec2d02bfd84e5a
-END:VEVENT
-BEGIN:VEVENT
-UID:wake-forest-basketball-espn-401918230@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270227
-DTEND;VALUE=DATE:20270228
-SUMMARY:🏀 Wake Forest at California [Away]
-LOCATION:Haas Pavilion\, Berkeley\, CA
-DESCRIPTION:Start time TBD\nVenue: Haas Pavilion\nhttps://jonnylegal.github
- .io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d498bef0016336f8
-END:VEVENT
-BEGIN:VEVENT
-UID:wake-forest-basketball-espn-401918244@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270303
-DTEND;VALUE=DATE:20270304
-SUMMARY:🏀 Georgia Tech at Wake Forest [Home]
-LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:57b37f14d5acac84
-END:VEVENT
-BEGIN:VEVENT
-UID:wake-forest-basketball-espn-401918246@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20270306
-DTEND;VALUE=DATE:20270307
-SUMMARY:🏀 Wake Forest at Syracuse [Away]
-LOCATION:JMA Wireless Dome\, Syracuse\, NY
-DESCRIPTION:Start time TBD\nVenue: JMA Wireless Dome\nhttps://jonnylegal.gi
+DESCRIPTION:TV: ACC Network\nVenue: Purcell Pavilion\nhttps://jonnylegal.gi
  thub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0dff2780f8486a59
+X-SPORTSHUB-HASH:9ec18b65ece10651
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-basketball-espn-401918218@sports-hub.jonnylegal.github.io
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270220T190000
+DTEND;TZID=America/New_York:20270220T211500
+SUMMARY:🏀 North Carolina at Wake Forest [Home]
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f3740396e948435c
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-basketball-espn-401918229@sports-hub.jonnylegal.github.io
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270224T230000
+DTEND;TZID=America/New_York:20270225T011500
+SUMMARY:🏀 Wake Forest at Stanford [Away]
+LOCATION:Maples Pavilion\, Stanford\, CA
+DESCRIPTION:TV: ESPNU\nVenue: Maples Pavilion\nhttps://jonnylegal.github.io
+ /sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:e1170aa36686c1ce
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-basketball-espn-401918230@sports-hub.jonnylegal.github.io
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270227T163000
+DTEND;TZID=America/New_York:20270227T184500
+SUMMARY:🏀 Wake Forest at California [Away]
+LOCATION:Haas Pavilion\, Berkeley\, CA
+DESCRIPTION:TV: ACC Network\nVenue: Haas Pavilion\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f2c9b1c791a325ce
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-basketball-espn-401918244@sports-hub.jonnylegal.github.io
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270303T203000
+DTEND;TZID=America/New_York:20270303T224500
+SUMMARY:🏀 Georgia Tech at Wake Forest [Home]
+LOCATION:LJVM Coliseum\, Winston-Salem\, NC
+DESCRIPTION:TV: ACC Network\nVenue: LJVM Coliseum\nhttps://jonnylegal.githu
+ b.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8d818676553fd313
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-basketball-espn-401918246@sports-hub.jonnylegal.github.io
+DTSTAMP:20261008T153459Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20270306T173000
+DTEND;TZID=America/New_York:20270306T194500
+SUMMARY:🏀 Wake Forest at Syracuse [Away]
+LOCATION:JMA Wireless Dome\, Syracuse\, NY
+DESCRIPTION:TV: CW\nVenue: JMA Wireless Dome\nhttps://jonnylegal.github.io/
+ sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:89e7ee1d154a2f5b
 END:VEVENT
 END:VCALENDAR
