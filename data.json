@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T02:08:18+00:00",
+  "updated": "2026-10-09T09:01:09+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -397,8 +397,7 @@
         "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905202"
       },
       "next": null,
-      "calendar": "calendars/usmnt.ics",
-      "stale": true
+      "calendar": "calendars/usmnt.ics"
     }
   ]
 }

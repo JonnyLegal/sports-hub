@@ -1631,18 +1631,18 @@ X-SPORTSHUB-HASH:7b72a7554014747d
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824245@sports-hub.jonnylegal.github.io
-DTSTAMP:20261009T020818Z
-SEQUENCE:3
+DTSTAMP:20261009T090109Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20260727T184000
 DTEND;TZID=America/New_York:20260727T214000
 SUMMARY:⚾ ✅ Orioles 8 at Tigers 5 [Away]
 LOCATION:Comerica Park
-DESCRIPTION:Final: Won 8-5\nTV: MASN\, Detroit SportsNet\nVenue: Comerica P
+DESCRIPTION:Final: Won 8-5\nTV: Detroit SportsNet\, MASN\nVenue: Comerica P
  ark\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:50d1c05ae3b68398
+X-SPORTSHUB-HASH:d20e0069ede5de12
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824243@sports-hub.jonnylegal.github.io
