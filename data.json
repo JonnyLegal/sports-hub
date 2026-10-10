@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T09:01:09+00:00",
+  "updated": "2026-10-10T07:04:56+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -370,31 +370,31 @@
         "onSecondary": "#FFFFFF"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "record": "7-5",
+      "record": "8-5",
       "recordNote": "2026",
       "standing": null,
       "live": null,
       "last": {
-        "id": "401905202",
-        "date": "2026-10-04T02:00Z",
+        "id": "401905188",
+        "date": "2026-10-07T00:00Z",
         "state": "post",
         "timeTBD": false,
         "detail": "FT",
         "homeAway": "home",
-        "opponent": "Mexico",
-        "opponentShort": "Mexico",
-        "opponentFull": "Mexico",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
-        "venue": "State Farm Stadium",
-        "location": "State Farm Stadium, Glendale, Arizona",
+        "opponent": "Canada",
+        "opponentShort": "Canada",
+        "opponentFull": "Canada",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "venue": "Allianz Field",
+        "location": "Allianz Field, Saint Paul, Minnesota",
         "broadcast": "TNT",
         "neutral": false,
         "note": "International Friendly",
-        "teamScore": 3,
+        "teamScore": 1,
         "oppScore": 0,
         "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905202",
-        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905202"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905188",
+        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905188"
       },
       "next": null,
       "calendar": "calendars/usmnt.ics"
