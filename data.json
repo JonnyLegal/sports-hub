@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T18:33:51+00:00",
+  "updated": "2026-10-10T22:30:00+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -250,15 +250,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": "4-1",
+      "record": "5-1",
       "recordNote": null,
       "standing": "3rd in ACC",
-      "live": {
+      "live": null,
+      "last": {
         "id": "401858260",
         "date": "2026-10-10T16:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "10:34 - 3rd",
+        "detail": "Final",
         "homeAway": "away",
         "opponent": "NC State Wolfpack",
         "opponentShort": "NC State",
@@ -269,32 +270,11 @@
         "broadcast": "CW",
         "neutral": false,
         "note": null,
-        "teamScore": 17,
+        "teamScore": 38,
         "oppScore": 14,
+        "result": "W",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858260",
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
-      },
-      "last": {
-        "id": "401858251",
-        "date": "2026-10-03T16:00Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Stanford Cardinal",
-        "opponentShort": "Stanford",
-        "opponentFull": "Stanford",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/24.png",
-        "venue": "Allegacy Federal Credit Union Stadium",
-        "location": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
-        "broadcast": "ACC Network",
-        "neutral": false,
-        "note": null,
-        "teamScore": 57,
-        "oppScore": 3,
-        "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858251",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858251"
       },
       "next": {
         "id": "401858269",

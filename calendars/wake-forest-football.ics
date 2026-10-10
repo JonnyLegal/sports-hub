@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:36316a571ad96468
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858260@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261010T223000Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261010T120000
 DTEND;TZID=America/New_York:20261010T153000
-SUMMARY:🏈 Wake Forest at NC State [Away]
+SUMMARY:🏈 ✅ Wake Forest 38 at NC State 14 [Away]
 LOCATION:Carter-Finley Stadium\, Raleigh\, NC
-DESCRIPTION:TV: CW\nVenue: Carter-Finley Stadium\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:Final: Won 38-14\nTV: CW\nVenue: Carter-Finley Stadium\nhttps:/
+ /jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:418bce9b4ee6b93d
+X-SPORTSHUB-HASH:fe6d276f6d7db173
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858269@sports-hub.jonnylegal.github.io
