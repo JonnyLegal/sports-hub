@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T07:04:56+00:00",
+  "updated": "2026-10-10T18:33:51+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -253,7 +253,27 @@
       "record": "4-1",
       "recordNote": null,
       "standing": "3rd in ACC",
-      "live": null,
+      "live": {
+        "id": "401858260",
+        "date": "2026-10-10T16:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "10:34 - 3rd",
+        "homeAway": "away",
+        "opponent": "NC State Wolfpack",
+        "opponentShort": "NC State",
+        "opponentFull": "NC State",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+        "venue": "Carter-Finley Stadium",
+        "location": "Carter-Finley Stadium, Raleigh, NC",
+        "broadcast": "CW",
+        "neutral": false,
+        "note": null,
+        "teamScore": 17,
+        "oppScore": 14,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858260",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
+      },
       "last": {
         "id": "401858251",
         "date": "2026-10-03T16:00Z",
@@ -277,23 +297,23 @@
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858251"
       },
       "next": {
-        "id": "401858260",
-        "date": "2026-10-10T16:00Z",
+        "id": "401858269",
+        "date": "2026-10-17T04:00Z",
         "state": "pre",
-        "timeTBD": false,
-        "detail": "10/10 - 12:00 PM EDT",
+        "timeTBD": true,
+        "detail": "TBD",
         "homeAway": "away",
-        "opponent": "NC State Wolfpack",
-        "opponentShort": "NC State",
-        "opponentFull": "NC State",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-        "venue": "Carter-Finley Stadium",
-        "location": "Carter-Finley Stadium, Raleigh, NC",
-        "broadcast": "CW",
+        "opponent": "California Golden Bears",
+        "opponentShort": "California",
+        "opponentFull": "California",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+        "venue": "California Memorial Stadium",
+        "location": "California Memorial Stadium, Berkeley, CA",
+        "broadcast": null,
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858260",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858269",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858269"
       },
       "calendar": "calendars/wake-forest-football.ics"
     },
