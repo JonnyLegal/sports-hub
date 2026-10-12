@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:54:06+00:00",
+  "updated": "2026-10-12T15:19:48+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -396,7 +396,25 @@
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.friendly/scoreboard/401905188",
         "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401905188"
       },
-      "next": null,
+      "next": {
+        "id": "401929710",
+        "date": "2026-11-14T21:30Z",
+        "state": "pre",
+        "timeTBD": false,
+        "detail": "11/14 - 4:30 PM EST",
+        "homeAway": "away",
+        "opponent": "Haiti",
+        "opponentShort": "Haiti",
+        "opponentFull": "Haiti",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
+        "venue": "Sabina Park",
+        "location": "Sabina Park, Sabina Park",
+        "broadcast": null,
+        "neutral": false,
+        "note": "Concacaf Nations League - 1st Leg",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.nations.league/scoreboard/401929710",
+        "gameUrl": "https://www.espn.com/soccer/match/_/gameId/401929710"
+      },
       "calendar": "calendars/usmnt.ics"
     }
   ]
