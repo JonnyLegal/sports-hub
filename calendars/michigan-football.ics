@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:6e37e684452c8541
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858490@sports-hub.jonnylegal.github.io
-DTSTAMP:20261011T084742Z
-SEQUENCE:3
+DTSTAMP:20261012T055406Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261017T153000
 DTEND;TZID=America/Detroit:20261017T190000
 SUMMARY:🏈 Penn State at Michigan [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:Venue: Michigan Stadium\nhttps://jonnylegal.github.io/sports-hu
- b/
+DESCRIPTION:TV: CBS\nVenue: Michigan Stadium\nhttps://jonnylegal.github.io/
+ sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bc21b07a229c80d8
+X-SPORTSHUB-HASH:80d24db349afb9e1
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858496@sports-hub.jonnylegal.github.io

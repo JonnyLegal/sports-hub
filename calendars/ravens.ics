@@ -87,18 +87,18 @@ X-SPORTSHUB-HASH:6c417ea16f749656
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872993@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261012T055406Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261011T202000
 DTEND;TZID=America/New_York:20261011T235000
-SUMMARY:🏈 Ravens at Falcons [Away]
+SUMMARY:🏈 ✅ Ravens 30 at Falcons 23 [Away]
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
-DESCRIPTION:TV: NBC\nVenue: Mercedes-Benz Stadium\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:Final: Won 30-23\nTV: NBC\nVenue: Mercedes-Benz Stadium\nhttps:
+ //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:333bdf93fc052eef
+X-SPORTSHUB-HASH:e21ee65fd1b88577
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872997@sports-hub.jonnylegal.github.io
