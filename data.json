@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:57:31+00:00",
+  "updated": "2026-10-13T19:15:32+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -190,8 +190,8 @@
         "onSecondary": "#FFCB05"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": "37-3",
-      "recordNote": "2025-26 final",
+      "record": "0-0",
+      "recordNote": null,
       "standing": null,
       "live": null,
       "last": {
@@ -310,8 +310,8 @@
         "onSecondary": "#9E7E38"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": "18-17",
-      "recordNote": "2025-26 final",
+      "record": "0-0",
+      "recordNote": null,
       "standing": null,
       "live": null,
       "last": {

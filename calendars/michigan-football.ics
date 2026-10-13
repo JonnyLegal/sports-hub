@@ -117,18 +117,18 @@ X-SPORTSHUB-HASH:80d24db349afb9e1
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858496@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
+DTSTAMP:20261013T191532Z
+SEQUENCE:3
+DTSTART;TZID=America/Detroit:20261024T120000
+DTEND;TZID=America/Detroit:20261024T153000
 SUMMARY:🏈 Indiana at Michigan [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:Start time TBD\nVenue: Michigan Stadium\nhttps://jonnylegal.git
- hub.io/sports-hub/
+DESCRIPTION:TV: Fox\nVenue: Michigan Stadium\nhttps://jonnylegal.github.io/
+ sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c3ec0e522452473f
+X-SPORTSHUB-HASH:d92995ca4c43f1d0
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858507@sports-hub.jonnylegal.github.io
