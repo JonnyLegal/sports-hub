@@ -1210,18 +1210,18 @@ X-SPORTSHUB-HASH:9429ebb7b4cfd1fd
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824016@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261014T231241Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260622T213800
 DTEND;TZID=America/New_York:20260623T003800
 SUMMARY:⚾ ✅ Orioles 6 at Angels 1 [Away]
 LOCATION:Angel Stadium
-DESCRIPTION:Final: Won 6-1\nTV: MASN\, ABTV\, presented by Pechanga Resort 
- Casino\nVenue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Won 6-1\nTV: ABTV\, presented by Pechanga Resort Casino\
+ , MASN\nVenue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:92a31121243928d1
+X-SPORTSHUB-HASH:0574a34b2f71e7fc
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824017@sports-hub.jonnylegal.github.io
@@ -1615,18 +1615,18 @@ X-SPORTSHUB-HASH:7b72a7554014747d
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824245@sports-hub.jonnylegal.github.io
-DTSTAMP:20261014T101004Z
-SEQUENCE:6
+DTSTAMP:20261014T231241Z
+SEQUENCE:7
 DTSTART;TZID=America/New_York:20260727T184000
 DTEND;TZID=America/New_York:20260727T214000
 SUMMARY:⚾ ✅ Orioles 8 at Tigers 5 [Away]
 LOCATION:Comerica Park
-DESCRIPTION:Final: Won 8-5\nTV: Detroit SportsNet\, MASN\nVenue: Comerica P
+DESCRIPTION:Final: Won 8-5\nTV: MASN\, Detroit SportsNet\nVenue: Comerica P
  ark\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d20e0069ede5de12
+X-SPORTSHUB-HASH:50d1c05ae3b68398
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824243@sports-hub.jonnylegal.github.io
