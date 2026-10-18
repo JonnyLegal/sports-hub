@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T04:29:53+00:00",
+  "updated": "2026-10-18T09:35:48+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -250,15 +250,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": "5-1",
+      "record": "6-1",
       "recordNote": null,
       "standing": "2nd in ACC",
-      "live": {
+      "live": null,
+      "last": {
         "id": "401858269",
         "date": "2026-10-18T02:30Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "Halftime",
+        "detail": "Final",
         "homeAway": "away",
         "opponent": "California Golden Bears",
         "opponentShort": "California",
@@ -269,32 +270,11 @@
         "broadcast": "ESPN2",
         "neutral": false,
         "note": null,
-        "teamScore": 34,
-        "oppScore": 0,
+        "teamScore": 41,
+        "oppScore": 7,
+        "result": "W",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858269",
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858269"
-      },
-      "last": {
-        "id": "401858260",
-        "date": "2026-10-10T16:00Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "NC State Wolfpack",
-        "opponentShort": "NC State",
-        "opponentFull": "NC State",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-        "venue": "Carter-Finley Stadium",
-        "location": "Carter-Finley Stadium, Raleigh, NC",
-        "broadcast": "CW",
-        "neutral": false,
-        "note": null,
-        "teamScore": 38,
-        "oppScore": 14,
-        "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858260",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
       },
       "next": {
         "id": "401858284",

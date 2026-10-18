@@ -117,18 +117,18 @@ X-SPORTSHUB-HASH:fe6d276f6d7db173
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858269@sports-hub.jonnylegal.github.io
-DTSTAMP:20261011T084742Z
-SEQUENCE:5
+DTSTAMP:20261018T093548Z
+SEQUENCE:6
 DTSTART;TZID=America/New_York:20261017T223000
 DTEND;TZID=America/New_York:20261018T020000
-SUMMARY:🏈 Wake Forest at California [Away]
+SUMMARY:🏈 ✅ Wake Forest 41 at California 7 [Away]
 LOCATION:California Memorial Stadium\, Berkeley\, CA
-DESCRIPTION:TV: ESPN2\nVenue: California Memorial Stadium\nhttps://jonnyleg
- al.github.io/sports-hub/
+DESCRIPTION:Final: Won 41-7\nTV: ESPN2\nVenue: California Memorial Stadium\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ced3ce913fac307e
+X-SPORTSHUB-HASH:d94c465319ee8717
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858284@sports-hub.jonnylegal.github.io
