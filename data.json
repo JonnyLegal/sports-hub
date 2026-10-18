@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T21:26:44+00:00",
+  "updated": "2026-10-18T00:01:33+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -130,15 +130,16 @@
         "onSecondary": "#00274C"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": "3-2",
+      "record": "4-2",
       "recordNote": null,
-      "standing": "14th in Big Ten",
-      "live": {
+      "standing": "12th in Big Ten",
+      "live": null,
+      "last": {
         "id": "401858490",
         "date": "2026-10-17T19:30Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "Halftime",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Penn State Nittany Lions",
         "opponentShort": "Penn State",
@@ -149,32 +150,11 @@
         "broadcast": "CBS",
         "neutral": false,
         "note": null,
-        "teamScore": 0,
-        "oppScore": 3,
+        "teamScore": 21,
+        "oppScore": 18,
+        "result": "W",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858490",
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858490"
-      },
-      "last": {
-        "id": "401858474",
-        "date": "2026-10-03T16:00Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "Minnesota Golden Gophers",
-        "opponentShort": "Minnesota",
-        "opponentFull": "Minnesota",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/135.png",
-        "venue": "Huntington Bank Stadium",
-        "location": "Huntington Bank Stadium, Minneapolis, MN",
-        "broadcast": "Fox",
-        "neutral": false,
-        "note": null,
-        "teamScore": 14,
-        "oppScore": 20,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858474",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858474"
       },
       "next": {
         "id": "401858496",

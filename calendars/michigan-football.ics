@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:6e37e684452c8541
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858490@sports-hub.jonnylegal.github.io
-DTSTAMP:20261012T055406Z
-SEQUENCE:4
+DTSTAMP:20261018T000133Z
+SEQUENCE:5
 DTSTART;TZID=America/Detroit:20261017T153000
 DTEND;TZID=America/Detroit:20261017T190000
-SUMMARY:🏈 Penn State at Michigan [Home]
+SUMMARY:🏈 ✅ Penn State 18 at Michigan 21 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:TV: CBS\nVenue: Michigan Stadium\nhttps://jonnylegal.github.io/
- sports-hub/
+DESCRIPTION:Final: Won 21-18\nTV: CBS\nVenue: Michigan Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:80d24db349afb9e1
+X-SPORTSHUB-HASH:be8347cb4cbdd51e
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858496@sports-hub.jonnylegal.github.io
