@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T09:35:48+00:00",
+  "updated": "2026-10-18T17:21:26+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -17,7 +17,27 @@
       "record": "4-1",
       "recordNote": null,
       "standing": "2nd in American Football Conference",
-      "live": null,
+      "live": {
+        "id": "401872997",
+        "date": "2026-10-18T17:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "6:33 - 1st",
+        "homeAway": "away",
+        "opponent": "Cleveland Browns",
+        "opponentShort": "Browns",
+        "opponentFull": "Cleveland",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
+        "venue": "Huntington Bank Field",
+        "location": "Huntington Bank Field, Cleveland, OH",
+        "broadcast": "Fox",
+        "neutral": false,
+        "note": null,
+        "teamScore": 7,
+        "oppScore": 0,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872997",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872997"
+      },
       "last": {
         "id": "401872993",
         "date": "2026-10-12T00:20Z",
@@ -41,23 +61,23 @@
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872993"
       },
       "next": {
-        "id": "401872997",
-        "date": "2026-10-18T17:00Z",
+        "id": "401873012",
+        "date": "2026-10-25T17:00Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "10/18 - 1:00 PM EDT",
-        "homeAway": "away",
-        "opponent": "Cleveland Browns",
-        "opponentShort": "Browns",
-        "opponentFull": "Cleveland",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-        "venue": "Huntington Bank Field",
-        "location": "Huntington Bank Field, Cleveland, OH",
-        "broadcast": "Fox",
+        "detail": "10/25 - 1:00 PM EDT",
+        "homeAway": "home",
+        "opponent": "Cincinnati Bengals",
+        "opponentShort": "Bengals",
+        "opponentFull": "Cincinnati",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+        "venue": "M&T Bank Stadium",
+        "location": "M&T Bank Stadium, Baltimore, MD",
+        "broadcast": "CBS",
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872997",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872997"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873012",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873012"
       },
       "calendar": "calendars/ravens.ics"
     },
