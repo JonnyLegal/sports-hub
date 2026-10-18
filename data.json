@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:01:33+00:00",
+  "updated": "2026-10-18T04:29:53+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -253,7 +253,27 @@
       "record": "5-1",
       "recordNote": null,
       "standing": "2nd in ACC",
-      "live": null,
+      "live": {
+        "id": "401858269",
+        "date": "2026-10-18T02:30Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "Halftime",
+        "homeAway": "away",
+        "opponent": "California Golden Bears",
+        "opponentShort": "California",
+        "opponentFull": "California",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
+        "venue": "California Memorial Stadium",
+        "location": "California Memorial Stadium, Berkeley, CA",
+        "broadcast": "ESPN2",
+        "neutral": false,
+        "note": null,
+        "teamScore": 34,
+        "oppScore": 0,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858269",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858269"
+      },
       "last": {
         "id": "401858260",
         "date": "2026-10-10T16:00Z",
@@ -277,23 +297,23 @@
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858260"
       },
       "next": {
-        "id": "401858269",
-        "date": "2026-10-18T02:30Z",
+        "id": "401858284",
+        "date": "2026-10-31T04:00Z",
         "state": "pre",
-        "timeTBD": false,
-        "detail": "10/17 - 10:30 PM EDT",
-        "homeAway": "away",
-        "opponent": "California Golden Bears",
-        "opponentShort": "California",
-        "opponentFull": "California",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
-        "venue": "California Memorial Stadium",
-        "location": "California Memorial Stadium, Berkeley, CA",
-        "broadcast": "ESPN2",
+        "timeTBD": true,
+        "detail": "TBD",
+        "homeAway": "home",
+        "opponent": "Virginia Cavaliers",
+        "opponentShort": "Virginia",
+        "opponentFull": "Virginia",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+        "venue": "Allegacy Federal Credit Union Stadium",
+        "location": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
+        "broadcast": null,
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858269",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858269"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858284",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858284"
       },
       "calendar": "calendars/wake-forest-football.ics"
     },
