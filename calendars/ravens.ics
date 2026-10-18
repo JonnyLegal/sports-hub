@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:e21ee65fd1b88577
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401872997@sports-hub.jonnylegal.github.io
-DTSTAMP:20261005T182547Z
-SEQUENCE:2
+DTSTAMP:20261018T203957Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261018T130000
 DTEND;TZID=America/New_York:20261018T163000
-SUMMARY:🏈 Ravens at Browns [Away]
+SUMMARY:🏈 ❌ Ravens 10 at Browns 13 [Away]
 LOCATION:Huntington Bank Field\, Cleveland\, OH
-DESCRIPTION:TV: Fox\nVenue: Huntington Bank Field\nhttps://jonnylegal.githu
- b.io/sports-hub/
+DESCRIPTION:Final: Lost 10-13\nTV: Fox\nVenue: Huntington Bank Field\nhttps
+ ://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:741b5007fc10af49
+X-SPORTSHUB-HASH:042ba257e093455d
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873012@sports-hub.jonnylegal.github.io
