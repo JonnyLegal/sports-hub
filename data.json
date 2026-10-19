@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:21:27+00:00",
+  "updated": "2026-10-19T23:38:40+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -99,21 +99,21 @@
         "result": "L"
       },
       "next": {
-        "id": "868568",
-        "date": "2027-02-20T18:05:00Z",
+        "id": "868576",
+        "date": "2027-02-19T18:05:00Z",
         "timeTBD": false,
         "state": "pre",
         "detail": "Scheduled",
-        "homeAway": "away",
-        "opponent": "Minnesota Twins",
-        "opponentShort": "Twins",
-        "opponentLogo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "venue": "Lee Health Sports Complex",
+        "homeAway": "home",
+        "opponent": "Atlanta Braves",
+        "opponentShort": "Braves",
+        "opponentLogo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "venue": "Ed Smith Stadium",
         "broadcast": null,
         "neutral": false,
         "note": "Spring Training",
-        "liveUrl": "https://statsapi.mlb.com/api/v1/schedule?gamePk=868568&hydrate=linescore",
-        "gameUrl": "https://www.mlb.com/gameday/868568"
+        "liveUrl": "https://statsapi.mlb.com/api/v1/schedule?gamePk=868576&hydrate=linescore",
+        "gameUrl": "https://www.mlb.com/gameday/868576"
       },
       "calendar": "calendars/orioles.ics"
     },
