@@ -132,18 +132,18 @@ X-SPORTSHUB-HASH:d94c465319ee8717
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858284@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
+DTSTAMP:20261019T192127Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261031T154500
+DTEND;TZID=America/New_York:20261031T191500
 SUMMARY:🏈 Virginia at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: Allegacy Federal Credit Union Stadium\nh
- ttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Allegacy Federal Credit Union Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:040855b4cd4f1f6f
+X-SPORTSHUB-HASH:67b2648d0a732370
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858290@sports-hub.jonnylegal.github.io
