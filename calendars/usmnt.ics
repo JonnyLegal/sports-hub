@@ -431,4 +431,19 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:8b5a060dc498f44e
 END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401930977@sports-hub.jonnylegal.github.io
+DTSTAMP:20261020T150340Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261213T153000
+DTEND;TZID=America/New_York:20261213T173000
+SUMMARY:⚽ Jamaica at USA [Home]
+LOCATION:Chase Stadium\, Fort Lauderdale\, Florida
+DESCRIPTION:International Friendly\nVenue: Chase Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ed8ff4c3558d5918
+END:VEVENT
 END:VCALENDAR
