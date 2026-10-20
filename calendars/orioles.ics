@@ -992,51 +992,51 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:11
+DTSTAMP:20261020T100213Z
+SEQUENCE:12
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
- Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
+ , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a38a74978286154
+X-SPORTSHUB-HASH:fd80354a5e290d73
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:11
+DTSTAMP:20261020T100213Z
+SEQUENCE:12
 DTSTART;TZID=America/New_York:20260613T160500
 DTEND;TZID=America/New_York:20260613T190500
 SUMMARY:⚾ ❌ Padres 9 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 3-9\nTV: MASN\, Padres.TV Presented by UC San Diego
-  Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
+DESCRIPTION:Final: Lost 3-9\nTV: Padres.TV Presented by UC San Diego Health
+ \, MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fde36687816266c5
+X-SPORTSHUB-HASH:38a04cdea89bef3f
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824823@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:11
+DTSTAMP:20261020T100213Z
+SEQUENCE:12
 DTSTART;TZID=America/New_York:20260614T133500
 DTEND;TZID=America/New_York:20260614T163500
 SUMMARY:⚾ ❌ Padres 5 at Orioles 2 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 2-5\nTV: MASN\, Padres.TV Presented by UC San Diego
-  Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
+DESCRIPTION:Final: Lost 2-5\nTV: Padres.TV Presented by UC San Diego Health
+ \, MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:84a3f4acd1aef320
+X-SPORTSHUB-HASH:c3b22aca0141656b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-823128@sports-hub.jonnylegal.github.io
@@ -1130,18 +1130,18 @@ X-SPORTSHUB-HASH:9429ebb7b4cfd1fd
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824016@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:12
+DTSTAMP:20261020T100213Z
+SEQUENCE:13
 DTSTART;TZID=America/New_York:20260622T213800
 DTEND;TZID=America/New_York:20260623T003800
 SUMMARY:⚾ ✅ Orioles 6 at Angels 1 [Away]
 LOCATION:Angel Stadium
-DESCRIPTION:Final: Won 6-1\nTV: ABTV\, presented by Pechanga Resort Casino\
- , MASN\nVenue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Won 6-1\nTV: MASN\, ABTV\, presented by Pechanga Resort 
+ Casino\nVenue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0574a34b2f71e7fc
+X-SPORTSHUB-HASH:92a31121243928d1
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824017@sports-hub.jonnylegal.github.io
@@ -1535,18 +1535,18 @@ X-SPORTSHUB-HASH:7b72a7554014747d
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824245@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:17
+DTSTAMP:20261020T100213Z
+SEQUENCE:18
 DTSTART;TZID=America/New_York:20260727T184000
 DTEND;TZID=America/New_York:20260727T214000
 SUMMARY:⚾ ✅ Orioles 8 at Tigers 5 [Away]
 LOCATION:Comerica Park
-DESCRIPTION:Final: Won 8-5\nTV: MASN\, Detroit SportsNet\nVenue: Comerica P
+DESCRIPTION:Final: Won 8-5\nTV: Detroit SportsNet\, MASN\nVenue: Comerica P
  ark\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:50d1c05ae3b68398
+X-SPORTSHUB-HASH:d20e0069ede5de12
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824243@sports-hub.jonnylegal.github.io
