@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T23:38:40+00:00",
+  "updated": "2026-10-20T19:14:15+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -338,10 +338,10 @@
       },
       "next": {
         "id": "401909725",
-        "date": "2026-11-02T05:00Z",
+        "date": "2026-11-03T01:00Z",
         "state": "pre",
-        "timeTBD": true,
-        "detail": "TBD",
+        "timeTBD": false,
+        "detail": "11/2 - 8:00 PM EST",
         "homeAway": "home",
         "opponent": "Maryland Eastern Shore Hawks",
         "opponentShort": "MD Eastern",
