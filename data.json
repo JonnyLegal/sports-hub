@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:14:15+00:00",
+  "updated": "2026-10-21T01:33:56+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -409,7 +409,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
         "venue": "Sabina Park",
         "location": "Sabina Park, Sabina Park",
-        "broadcast": null,
+        "broadcast": "TBS",
         "neutral": false,
         "note": "Concacaf Nations League - 1st Leg",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/soccer/concacaf.nations.league/scoreboard/401929710",

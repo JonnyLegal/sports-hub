@@ -403,33 +403,33 @@ X-SPORTSHUB-HASH:c5ec60ca1061b164
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-401929710@sports-hub.jonnylegal.github.io
-DTSTAMP:20261012T151948Z
-SEQUENCE:0
+DTSTAMP:20261021T013356Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261114T163000
 DTEND;TZID=America/New_York:20261114T183000
 SUMMARY:⚽ USA at Haiti [Away]
 LOCATION:Sabina Park\, Sabina Park
-DESCRIPTION:Concacaf Nations League - 1st Leg\nVenue: Sabina Park\nhttps://
- jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: TBS\nConcacaf Nations League - 1st Leg\nVenue: Sabina Park\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ac49f54f31175e5f
+X-SPORTSHUB-HASH:4e20ef934c13bcaa
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-401929766@sports-hub.jonnylegal.github.io
-DTSTAMP:20261012T151948Z
-SEQUENCE:0
+DTSTAMP:20261021T013356Z
+SEQUENCE:1
 DTSTART;TZID=America/New_York:20261117T190000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:⚽ Haiti at USA [Home]
 LOCATION:TQL Stadium\, Cincinnati\, Ohio
-DESCRIPTION:Concacaf Nations League - 2nd Leg\nVenue: TQL Stadium\nhttps://
- jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: TBS\nConcacaf Nations League - 2nd Leg\nVenue: TQL Stadium\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8b5a060dc498f44e
+X-SPORTSHUB-HASH:35ef243807c58922
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-401930977@sports-hub.jonnylegal.github.io
