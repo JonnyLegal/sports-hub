@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-823405@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260405T133500
-DTEND;TZID=America/New_York:20260405T163500
-SUMMARY:⚾ ❌ Orioles 2 at Pirates 8 [Away]
-LOCATION:PNC Park
-DESCRIPTION:Final: Lost 2-8\nTV: MASN\, SportsNet Pittsburgh \nVenue: PNC P
- ark\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b647faa99ff2b223
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824619@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -962,19 +947,19 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261021T221926Z
-SEQUENCE:14
+DTSTAMP:20261023T012923Z
+SEQUENCE:15
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
- , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
+ Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fd80354a5e290d73
+X-SPORTSHUB-HASH:4a38a74978286154
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
@@ -2983,5 +2968,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:01ed33e7e594e012
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854038@sports-hub.jonnylegal.github.io
+DTSTAMP:20261023T012923Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:⚾ Orioles at White Sox [Away]
+LOCATION:Rate Field
+DESCRIPTION:Start time TBD\nVenue: Rate Field\nhttps://jonnylegal.github.io
+ /sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:659c70e0fea28a6b
 END:VEVENT
 END:VCALENDAR
