@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T18:07:25+00:00",
+  "updated": "2026-10-24T20:46:34+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -130,15 +130,16 @@
         "onSecondary": "#00274C"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": "4-2",
+      "record": "4-3",
       "recordNote": null,
-      "standing": "12th in Big Ten",
-      "live": {
+      "standing": "13th in Big Ten",
+      "live": null,
+      "last": {
         "id": "401858496",
         "date": "2026-10-24T16:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "14:13 - 3rd",
+        "detail": "Final/OT",
         "homeAway": "home",
         "opponent": "Indiana Hoosiers",
         "opponentShort": "Indiana",
@@ -149,32 +150,11 @@
         "broadcast": "Fox",
         "neutral": false,
         "note": null,
-        "teamScore": 0,
-        "oppScore": 6,
+        "teamScore": 6,
+        "oppScore": 13,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858496",
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858496"
-      },
-      "last": {
-        "id": "401858490",
-        "date": "2026-10-17T19:30Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Penn State Nittany Lions",
-        "opponentShort": "Penn State",
-        "opponentFull": "Penn State",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/213.png",
-        "venue": "Michigan Stadium",
-        "location": "Michigan Stadium, Ann Arbor, MI",
-        "broadcast": "CBS",
-        "neutral": false,
-        "note": null,
-        "teamScore": 21,
-        "oppScore": 18,
-        "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858490",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858490"
       },
       "next": {
         "id": "401858507",

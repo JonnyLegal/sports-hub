@@ -117,18 +117,18 @@ X-SPORTSHUB-HASH:be8347cb4cbdd51e
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858496@sports-hub.jonnylegal.github.io
-DTSTAMP:20261013T191532Z
-SEQUENCE:3
+DTSTAMP:20261024T204634Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261024T120000
 DTEND;TZID=America/Detroit:20261024T153000
-SUMMARY:🏈 Indiana at Michigan [Home]
+SUMMARY:🏈 ❌ Indiana 13 at Michigan 6 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:TV: Fox\nVenue: Michigan Stadium\nhttps://jonnylegal.github.io/
- sports-hub/
+DESCRIPTION:Final: Lost 6-13\nTV: Fox\nVenue: Michigan Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d92995ca4c43f1d0
+X-SPORTSHUB-HASH:072b551de0084da9
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858507@sports-hub.jonnylegal.github.io
