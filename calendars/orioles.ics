@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824619@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260406T194000
-DTEND;TZID=America/New_York:20260406T224000
-SUMMARY:⚾ ✅ Orioles 2 at White Sox 1 [Away]
-LOCATION:Rate Field
-DESCRIPTION:Final: Won 2-1\nTV: MASN\, Chicago Sports Network\nVenue: Rate 
- Field\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:3ec9ecb44c4fc6ca
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824618@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -2983,5 +2968,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:659c70e0fea28a6b
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854034@sports-hub.jonnylegal.github.io
+DTSTAMP:20261024T004010Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:⚾ Orioles at White Sox [Away]
+LOCATION:Rate Field
+DESCRIPTION:Start time TBD\nVenue: Rate Field\nhttps://jonnylegal.github.io
+ /sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:0040633ab2ab5e60
 END:VEVENT
 END:VCALENDAR
