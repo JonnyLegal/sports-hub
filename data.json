@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:19:11+00:00",
+  "updated": "2026-10-24T18:07:25+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -133,7 +133,27 @@
       "record": "4-2",
       "recordNote": null,
       "standing": "12th in Big Ten",
-      "live": null,
+      "live": {
+        "id": "401858496",
+        "date": "2026-10-24T16:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "14:13 - 3rd",
+        "homeAway": "home",
+        "opponent": "Indiana Hoosiers",
+        "opponentShort": "Indiana",
+        "opponentFull": "Indiana",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+        "venue": "Michigan Stadium",
+        "location": "Michigan Stadium, Ann Arbor, MI",
+        "broadcast": "Fox",
+        "neutral": false,
+        "note": null,
+        "teamScore": 0,
+        "oppScore": 6,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858496",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858496"
+      },
       "last": {
         "id": "401858490",
         "date": "2026-10-17T19:30Z",
@@ -157,23 +177,23 @@
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858490"
       },
       "next": {
-        "id": "401858496",
-        "date": "2026-10-24T16:00Z",
+        "id": "401858507",
+        "date": "2026-10-31T16:30Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "10/24 - 12:00 PM EDT",
-        "homeAway": "home",
-        "opponent": "Indiana Hoosiers",
-        "opponentShort": "Indiana",
-        "opponentFull": "Indiana",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
-        "venue": "Michigan Stadium",
-        "location": "Michigan Stadium, Ann Arbor, MI",
-        "broadcast": "Fox",
+        "detail": "10/31 - 12:30 PM EDT",
+        "homeAway": "away",
+        "opponent": "Rutgers Scarlet Knights",
+        "opponentShort": "Rutgers",
+        "opponentFull": "Rutgers",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
+        "venue": "SHI Stadium",
+        "location": "SHI Stadium, Piscataway, NJ",
+        "broadcast": "BTN",
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858496",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858496"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858507",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858507"
       },
       "calendar": "calendars/michigan-football.ics"
     },
