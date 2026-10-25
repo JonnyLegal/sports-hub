@@ -117,18 +117,18 @@ X-SPORTSHUB-HASH:042ba257e093455d
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873012@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261025T214551Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261025T130000
 DTEND;TZID=America/New_York:20261025T163000
-SUMMARY:🏈 Bengals at Ravens [Home]
+SUMMARY:🏈 ❌ Bengals 35 at Ravens 13 [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
-DESCRIPTION:TV: CBS\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io/
- sports-hub/
+DESCRIPTION:Final: Lost 13-35\nTV: CBS\nVenue: M&T Bank Stadium\nhttps://jo
+ nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:aac4987d43064388
+X-SPORTSHUB-HASH:e312f6e4d90e2507
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873026@sports-hub.jonnylegal.github.io

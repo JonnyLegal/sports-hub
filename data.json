@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:04:04+00:00",
+  "updated": "2026-10-25T21:45:51+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -14,15 +14,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": "4-2",
+      "record": "4-3",
       "recordNote": null,
-      "standing": "4th in American Football Conference",
-      "live": {
+      "standing": "8th in American Football Conference",
+      "live": null,
+      "last": {
         "id": "401873012",
         "date": "2026-10-25T17:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "7:10 - 3rd",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Cincinnati Bengals",
         "opponentShort": "Bengals",
@@ -34,31 +35,10 @@
         "neutral": false,
         "note": null,
         "teamScore": 13,
-        "oppScore": 7,
+        "oppScore": 35,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873012",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873012"
-      },
-      "last": {
-        "id": "401872997",
-        "date": "2026-10-18T17:00Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "Cleveland Browns",
-        "opponentShort": "Browns",
-        "opponentFull": "Cleveland",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png",
-        "venue": "Huntington Bank Field",
-        "location": "Huntington Bank Field, Cleveland, OH",
-        "broadcast": "Fox",
-        "neutral": false,
-        "note": null,
-        "teamScore": 10,
-        "oppScore": 13,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401872997",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872997"
       },
       "next": {
         "id": "401873026",
