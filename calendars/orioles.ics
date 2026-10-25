@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824618@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260407T151000
-DTEND;TZID=America/New_York:20260407T181000
-SUMMARY:⚾ ✅ Orioles 4 at White Sox 2 [Away]
-LOCATION:Rate Field
-DESCRIPTION:Final: Won 4-2\nTV: MASN\, Chicago Sports Network Plus\nVenue: 
- Rate Field\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2d8543698b1fde8a
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824617@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -932,19 +917,19 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261024T231120Z
-SEQUENCE:17
+DTSTAMP:20261025T010838Z
+SEQUENCE:18
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
- Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
+ , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a38a74978286154
+X-SPORTSHUB-HASH:fd80354a5e290d73
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
