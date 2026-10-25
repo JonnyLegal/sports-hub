@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T06:05:41+00:00",
+  "updated": "2026-10-25T19:04:04+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -16,8 +16,28 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
       "record": "4-2",
       "recordNote": null,
-      "standing": "3rd in American Football Conference",
-      "live": null,
+      "standing": "4th in American Football Conference",
+      "live": {
+        "id": "401873012",
+        "date": "2026-10-25T17:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "7:10 - 3rd",
+        "homeAway": "home",
+        "opponent": "Cincinnati Bengals",
+        "opponentShort": "Bengals",
+        "opponentFull": "Cincinnati",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
+        "venue": "M&T Bank Stadium",
+        "location": "M&T Bank Stadium, Baltimore, MD",
+        "broadcast": "CBS",
+        "neutral": false,
+        "note": null,
+        "teamScore": 13,
+        "oppScore": 7,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873012",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873012"
+      },
       "last": {
         "id": "401872997",
         "date": "2026-10-18T17:00Z",
@@ -41,23 +61,23 @@
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401872997"
       },
       "next": {
-        "id": "401873012",
-        "date": "2026-10-25T17:00Z",
+        "id": "401873026",
+        "date": "2026-11-01T18:00Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "10/25 - 1:00 PM EDT",
-        "homeAway": "home",
-        "opponent": "Cincinnati Bengals",
-        "opponentShort": "Bengals",
-        "opponentFull": "Cincinnati",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-        "venue": "M&T Bank Stadium",
-        "location": "M&T Bank Stadium, Baltimore, MD",
+        "detail": "11/1 - 1:00 PM EST",
+        "homeAway": "away",
+        "opponent": "Buffalo Bills",
+        "opponentShort": "Bills",
+        "opponentFull": "Buffalo",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png",
+        "venue": "Highmark Stadium",
+        "location": "Highmark Stadium, Orchard Park, NY",
         "broadcast": "CBS",
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873012",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873012"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873026",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873026"
       },
       "calendar": "calendars/ravens.ics"
     },
