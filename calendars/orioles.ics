@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824617@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260408T141000
-DTEND;TZID=America/New_York:20260408T171000
-SUMMARY:⚾ ✅ Orioles 5 at White Sox 3 [Away]
-LOCATION:Rate Field
-DESCRIPTION:Final: Won 5-3\nTV: MASN\, Chicago Sports Network\nVenue: Rate 
- Field\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:07a3d00224179a2f
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824858@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -2968,5 +2953,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:0040633ab2ab5e60
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854286@sports-hub.jonnylegal.github.io
+DTSTAMP:20261026T002119Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:⚾ Angels at Orioles [Home]
+LOCATION:Oriole Park at Camden Yards
+DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
+ nylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:7162c312e3652a6f
 END:VEVENT
 END:VCALENDAR
