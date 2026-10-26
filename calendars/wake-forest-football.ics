@@ -147,18 +147,18 @@ X-SPORTSHUB-HASH:1de50daf3ea07ff8
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858290@sports-hub.jonnylegal.github.io
-DTSTAMP:20261026T191703Z
-SEQUENCE:3
+DTSTAMP:20261026T230947Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261107T153000
 DTEND;TZID=America/New_York:20261107T190000
 SUMMARY:🏈 Merrimack at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
-DESCRIPTION:Venue: Allegacy Federal Credit Union Stadium\nhttps://jonnylega
- l.github.io/sports-hub/
+DESCRIPTION:TV: ACC Network\nVenue: Allegacy Federal Credit Union Stadium\n
+ https://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:790a1703945ec9d7
+X-SPORTSHUB-HASH:8e7ad54bd85409f0
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858301@sports-hub.jonnylegal.github.io
