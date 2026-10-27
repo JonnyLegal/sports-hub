@@ -902,19 +902,19 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261027T200513Z
-SEQUENCE:21
+DTSTAMP:20261027T234556Z
+SEQUENCE:22
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
- Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
+ , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a38a74978286154
+X-SPORTSHUB-HASH:fd80354a5e290d73
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
@@ -2821,93 +2821,93 @@ X-SPORTSHUB-HASH:4ef6ad6782ef36c7
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854289@sports-hub.jonnylegal.github.io
-DTSTAMP:20261015T012804Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270329
-DTEND;VALUE=DATE:20270330
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270329T150500
+DTEND;TZID=America/New_York:20270329T180500
 SUMMARY:⚾ Blue Jays at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fa39b3c0b906f234
+X-SPORTSHUB-HASH:c18edd1f9bc30994
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854283@sports-hub.jonnylegal.github.io
-DTSTAMP:20261017T011815Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270331
-DTEND;VALUE=DATE:20270401
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270331T183500
+DTEND;TZID=America/New_York:20270331T213500
 SUMMARY:⚾ Blue Jays at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:375394ed36108f40
+X-SPORTSHUB-HASH:c18bdbe56f3fd43e
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854284@sports-hub.jonnylegal.github.io
-DTSTAMP:20261018T000133Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270401
-DTEND;VALUE=DATE:20270402
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270401T133500
+DTEND;TZID=America/New_York:20270401T163500
 SUMMARY:⚾ Blue Jays at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b5a938133a80683e
+X-SPORTSHUB-HASH:cbe5d34e7cd69067
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854285@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T011440Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270402T190500
+DTEND;TZID=America/New_York:20270402T220500
 SUMMARY:⚾ Tigers at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0776eb0444cf81a4
+X-SPORTSHUB-HASH:b0e9d7d79dd50e5c
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854281@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T044721Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270403
-DTEND;VALUE=DATE:20270404
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270403T160500
+DTEND;TZID=America/New_York:20270403T190500
 SUMMARY:⚾ Tigers at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:63ecafb5e3733e4c
+X-SPORTSHUB-HASH:92300ca387eb3ed4
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854282@sports-hub.jonnylegal.github.io
-DTSTAMP:20261021T013356Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270404
-DTEND;VALUE=DATE:20270405
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270404T133500
+DTEND;TZID=America/New_York:20270404T163500
 SUMMARY:⚾ Tigers at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a7a1c7116890cb85
+X-SPORTSHUB-HASH:7446c334a74a08fa
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854032@sports-hub.jonnylegal.github.io
@@ -2956,32 +2956,32 @@ X-SPORTSHUB-HASH:0040633ab2ab5e60
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854286@sports-hub.jonnylegal.github.io
-DTSTAMP:20261026T002119Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270409
-DTEND;VALUE=DATE:20270410
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270409T190500
+DTEND;TZID=America/New_York:20270409T220500
 SUMMARY:⚾ Angels at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7162c312e3652a6f
+X-SPORTSHUB-HASH:3fdd796091551bc3
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-854278@sports-hub.jonnylegal.github.io
-DTSTAMP:20261027T020407Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270410
-DTEND;VALUE=DATE:20270411
+DTSTAMP:20261027T234556Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270410T160500
+DTEND;TZID=America/New_York:20270410T190500
 SUMMARY:⚾ Angels at Orioles [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Start time TBD\nVenue: Oriole Park at Camden Yards\nhttps://jon
- nylegal.github.io/sports-hub/
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5e6016dcd8dcfcb8
+X-SPORTSHUB-HASH:23d22affb5913001
 END:VEVENT
 END:VCALENDAR
