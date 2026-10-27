@@ -902,19 +902,19 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261025T161443Z
-SEQUENCE:20
+DTSTAMP:20261027T200513Z
+SEQUENCE:21
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
- , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
+ Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fd80354a5e290d73
+X-SPORTSHUB-HASH:4a38a74978286154
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
@@ -2506,18 +2506,18 @@ X-SPORTSHUB-HASH:b0cad338ed83fede
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868471@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270305
-DTEND;VALUE=DATE:20270306
+DTSTAMP:20261027T200513Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20270305T183500
+DTEND;TZID=America/New_York:20270305T213500
 SUMMARY:⚾ Orioles at Yankees [Away]
 LOCATION:George M. Steinbrenner Field
-DESCRIPTION:Start time TBD\nSpring Training\nVenue: George M. Steinbrenner 
- Field\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Spring Training\nVenue: George M. Steinbrenner Field\nhttps://j
+ onnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ec5a7e248943cf39
+X-SPORTSHUB-HASH:353fca218712579b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868467@sports-hub.jonnylegal.github.io
