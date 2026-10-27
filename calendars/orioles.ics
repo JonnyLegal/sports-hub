@@ -2686,18 +2686,18 @@ X-SPORTSHUB-HASH:b32fad913fb87aba
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868387@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270318
+DTSTAMP:20261027T142914Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20270317T130500
+DTEND;TZID=America/New_York:20270317T160500
 SUMMARY:⚾ Orioles at Phillies [Away]
 LOCATION:BayCare Ballpark
-DESCRIPTION:Start time TBD\nSpring Training\nVenue: BayCare Ballpark\nhttps
- ://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Spring Training\nVenue: BayCare Ballpark\nhttps://jonnylegal.gi
+ thub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4b89a19f32e9e020
+X-SPORTSHUB-HASH:17ee65187ec10292
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868372@sports-hub.jonnylegal.github.io
