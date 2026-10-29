@@ -2341,18 +2341,18 @@ X-SPORTSHUB-HASH:3c602419350b701a
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868534@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270223
-DTEND;VALUE=DATE:20270224
+DTSTAMP:20261029T214857Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20270223T130700
+DTEND;TZID=America/New_York:20270223T160700
 SUMMARY:⚾ Orioles at Blue Jays [Away]
 LOCATION:TD Ballpark
-DESCRIPTION:Start time TBD\nSpring Training\nVenue: TD Ballpark\nhttps://jo
- nnylegal.github.io/sports-hub/
+DESCRIPTION:Spring Training\nVenue: TD Ballpark\nhttps://jonnylegal.github.
+ io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:a09447f8d4d53986
+X-SPORTSHUB-HASH:241873344aeb6424
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868536@sports-hub.jonnylegal.github.io
