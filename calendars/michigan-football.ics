@@ -132,18 +132,18 @@ X-SPORTSHUB-HASH:072b551de0084da9
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858507@sports-hub.jonnylegal.github.io
-DTSTAMP:20261019T233840Z
-SEQUENCE:3
+DTSTAMP:20261031T222812Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261031T123000
 DTEND;TZID=America/Detroit:20261031T160000
-SUMMARY:🏈 Michigan at Rutgers [Away]
+SUMMARY:🏈 ✅ Michigan 28 at Rutgers 21 [Away]
 LOCATION:SHI Stadium\, Piscataway\, NJ
-DESCRIPTION:TV: BTN\nVenue: SHI Stadium\nhttps://jonnylegal.github.io/sport
- s-hub/
+DESCRIPTION:Final: Won 28-21\nTV: BTN\nVenue: SHI Stadium\nhttps://jonnyleg
+ al.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:70cbac10fa0a7354
+X-SPORTSHUB-HASH:02b1dfbcf2c2c889
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858511@sports-hub.jonnylegal.github.io
