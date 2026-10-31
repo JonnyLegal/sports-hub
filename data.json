@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T21:45:51+00:00",
+  "updated": "2026-10-31T00:46:39+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -349,7 +349,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2379.png",
         "venue": "LJVM Coliseum",
         "location": "LJVM Coliseum, Winston-Salem, NC",
-        "broadcast": null,
+        "broadcast": "ACCNX",
         "neutral": false,
         "note": null,
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401909725",

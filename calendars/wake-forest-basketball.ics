@@ -557,17 +557,18 @@ X-SPORTSHUB-HASH:1ecb194d0761ffd6
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909725@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:4
+DTSTAMP:20261031T004639Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261102T200000
 DTEND;TZID=America/New_York:20261102T221500
 SUMMARY:🏀 Maryland Eastern Shore at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Venue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:17dd9ee33baadf3e
+X-SPORTSHUB-HASH:89ca313c87eb1ad7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909726@sports-hub.jonnylegal.github.io
@@ -586,61 +587,63 @@ X-SPORTSHUB-HASH:6a038f1cfabf1aea
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909727@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:4
+DTSTAMP:20261031T004639Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261110T190000
 DTEND;TZID=America/New_York:20261110T211500
 SUMMARY:🏀 Charleston Southern at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Venue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5f5ba1705d856b65
+X-SPORTSHUB-HASH:4f7b66c3019b3da0
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909728@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
+DTSTAMP:20261031T004639Z
+SEQUENCE:3
+DTSTART;TZID=America/New_York:20261114T190000
+DTEND;TZID=America/New_York:20261114T211500
 SUMMARY:🏀 Southern Utah at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:852ffc8dee9dd578
+X-SPORTSHUB-HASH:ef3dd62df7549504
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909729@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:3
+DTSTAMP:20261031T004639Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261117T190000
 DTEND;TZID=America/New_York:20261117T211500
 SUMMARY:🏀 Monmouth at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Venue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:2afef1f810ae998b
+X-SPORTSHUB-HASH:1417bf4128e847cc
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909730@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T011102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
+DTSTAMP:20261031T004639Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20261121T190000
+DTEND;TZID=America/New_York:20261121T211500
 SUMMARY:🏀 Western Carolina at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: LJVM Coliseum\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:eb891696414cad9f
+X-SPORTSHUB-HASH:abc42d1c1475a10b
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401929287@sports-hub.jonnylegal.github.io
