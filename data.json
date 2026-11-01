@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T09:14:47+00:00",
+  "updated": "2026-11-01T16:03:24+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -158,10 +158,10 @@
       },
       "next": {
         "id": "401858511",
-        "date": "2026-11-07T05:00Z",
+        "date": "2026-11-08T00:30Z",
         "state": "pre",
-        "timeTBD": true,
-        "detail": "TBD",
+        "timeTBD": false,
+        "detail": "11/7 - 7:30 PM EST",
         "homeAway": "home",
         "opponent": "Michigan State Spartans",
         "opponentShort": "Michigan St",
@@ -169,7 +169,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
         "venue": "Michigan Stadium",
         "location": "Michigan Stadium, Ann Arbor, MI",
-        "broadcast": null,
+        "broadcast": "Peacock",
         "neutral": false,
         "note": null,
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858511",
@@ -190,9 +190,9 @@
         "onSecondary": "#FFCB05"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": "37-3",
-      "recordNote": "2025-26 final",
-      "standing": null,
+      "record": "0-0",
+      "recordNote": null,
+      "standing": "1st in Big Ten",
       "live": null,
       "last": {
         "id": "401856600",
