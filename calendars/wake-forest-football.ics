@@ -132,18 +132,18 @@ X-SPORTSHUB-HASH:d94c465319ee8717
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858284@sports-hub.jonnylegal.github.io
-DTSTAMP:20261025T060541Z
-SEQUENCE:4
+DTSTAMP:20261101T021256Z
+SEQUENCE:5
 DTSTART;TZID=America/New_York:20261031T154500
 DTEND;TZID=America/New_York:20261031T191500
-SUMMARY:🏈 Virginia at Wake Forest [Home]
+SUMMARY:🏈 ✅ Virginia 7 at Wake Forest 51 [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
-DESCRIPTION:TV: ESPN2\nVenue: Allegacy Federal Credit Union Stadium\nhttps:
- //jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Won 51-7\nTV: ESPN2\nVenue: Allegacy Federal Credit Unio
+ n Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:1de50daf3ea07ff8
+X-SPORTSHUB-HASH:6325e830ef65517d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858290@sports-hub.jonnylegal.github.io

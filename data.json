@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:28:12+00:00",
+  "updated": "2026-11-01T02:12:56+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -132,7 +132,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": "5-3",
       "recordNote": null,
-      "standing": "13th in Big Ten",
+      "standing": "12th in Big Ten",
       "live": null,
       "last": {
         "id": "401858507",
@@ -250,15 +250,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": "6-1",
+      "record": "7-1",
       "recordNote": null,
       "standing": "2nd in ACC",
-      "live": {
+      "live": null,
+      "last": {
         "id": "401858284",
         "date": "2026-10-31T19:45Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "9:59 - 3rd",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Virginia Cavaliers",
         "opponentShort": "Virginia",
@@ -269,32 +270,11 @@
         "broadcast": "ESPN2",
         "neutral": false,
         "note": null,
-        "teamScore": 23,
-        "oppScore": 0,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858284",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858284"
-      },
-      "last": {
-        "id": "401858269",
-        "date": "2026-10-18T02:30Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "California Golden Bears",
-        "opponentShort": "California",
-        "opponentFull": "California",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/25.png",
-        "venue": "California Memorial Stadium",
-        "location": "California Memorial Stadium, Berkeley, CA",
-        "broadcast": "ESPN2",
-        "neutral": false,
-        "note": null,
-        "teamScore": 41,
+        "teamScore": 51,
         "oppScore": 7,
         "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858269",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858269"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858284",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858284"
       },
       "next": {
         "id": "401858290",
