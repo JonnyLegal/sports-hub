@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824855@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260415T123500
-DTEND;TZID=America/New_York:20260415T153500
-SUMMARY:⚾ ❌ D-backs 8 at Orioles 5 [Home]
-LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 5-8\nTV: MASN\, DBACKS.TV\nVenue: Oriole Park at Ca
- mden Yards\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:dfb31b569701ae57
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824453@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -2983,5 +2968,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:a58bb065a9eac8d6
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-853466@sports-hub.jonnylegal.github.io
+DTSTAMP:20261102T004256Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:⚾ Orioles at Angels [Away]
+LOCATION:Angel Stadium
+DESCRIPTION:Start time TBD\nVenue: Angel Stadium\nhttps://jonnylegal.github
+ .io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8d221e32e88698cc
 END:VEVENT
 END:VCALENDAR

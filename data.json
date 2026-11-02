@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T20:29:32+00:00",
+  "updated": "2026-11-02T00:42:56+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -14,15 +14,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": "4-3",
+      "record": "4-4",
       "recordNote": null,
-      "standing": "8th in American Football Conference",
-      "live": {
+      "standing": "9th in American Football Conference",
+      "live": null,
+      "last": {
         "id": "401873026",
         "date": "2026-11-01T18:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "7:16 - 3rd",
+        "detail": "Final",
         "homeAway": "away",
         "opponent": "Buffalo Bills",
         "opponentShort": "Bills",
@@ -34,31 +35,10 @@
         "neutral": false,
         "note": null,
         "teamScore": 10,
-        "oppScore": 23,
+        "oppScore": 36,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873026",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873026"
-      },
-      "last": {
-        "id": "401873012",
-        "date": "2026-10-25T17:00Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Cincinnati Bengals",
-        "opponentShort": "Bengals",
-        "opponentFull": "Cincinnati",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-        "venue": "M&T Bank Stadium",
-        "location": "M&T Bank Stadium, Baltimore, MD",
-        "broadcast": "CBS",
-        "neutral": false,
-        "note": null,
-        "teamScore": 13,
-        "oppScore": 35,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873012",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873012"
       },
       "next": {
         "id": "401873037",
