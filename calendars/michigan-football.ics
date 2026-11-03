@@ -162,17 +162,18 @@ X-SPORTSHUB-HASH:c1a9672fdc883d3d
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858523@sports-hub.jonnylegal.github.io
-DTSTAMP:20261103T093019Z
-SEQUENCE:3
+DTSTAMP:20261103T175006Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261114T153000
 DTEND;TZID=America/Detroit:20261114T190000
 SUMMARY:🏈 Michigan at Oregon [Away]
 LOCATION:Autzen Stadium\, Eugene\, OR
-DESCRIPTION:Venue: Autzen Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: FS1\nVenue: Autzen Stadium\nhttps://jonnylegal.github.io/sp
+ orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c5b4c3de484647da
+X-SPORTSHUB-HASH:7088f57b39118ef6
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858528@sports-hub.jonnylegal.github.io

@@ -72,10 +72,10 @@ X-SPORTSHUB-HASH:4f7b66c3019b3da0
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909728@sports-hub.jonnylegal.github.io
-DTSTAMP:20261031T004639Z
-SEQUENCE:3
-DTSTART;TZID=America/New_York:20261114T190000
-DTEND;TZID=America/New_York:20261114T211500
+DTSTAMP:20261103T175006Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20261114T160000
+DTEND;TZID=America/New_York:20261114T181500
 SUMMARY:🏀 Southern Utah at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
 DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
@@ -83,7 +83,7 @@ DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ef3dd62df7549504
+X-SPORTSHUB-HASH:f433d1e036003295
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909729@sports-hub.jonnylegal.github.io
