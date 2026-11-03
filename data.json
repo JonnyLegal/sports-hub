@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T01:34:27+00:00",
+  "updated": "2026-11-03T09:30:19+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -310,15 +310,16 @@
         "onSecondary": "#9E7E38"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
-      "record": "0-0",
+      "record": "1-0",
       "recordNote": null,
       "standing": "1st in ACC",
-      "live": {
+      "live": null,
+      "last": {
         "id": "401909725",
         "date": "2026-11-03T01:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "7:11 - 1st",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Maryland Eastern Shore Hawks",
         "opponentShort": "MD Eastern",
@@ -329,32 +330,11 @@
         "broadcast": "ACCNX",
         "neutral": false,
         "note": null,
-        "teamScore": 26,
-        "oppScore": 16,
+        "teamScore": 83,
+        "oppScore": 62,
+        "result": "W",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401909725",
         "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909725"
-      },
-      "last": {
-        "id": "401858352",
-        "date": "2026-03-22T20:30Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Illinois State Redbirds",
-        "opponentShort": "Illinois St",
-        "opponentFull": "Illinois State",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
-        "venue": "LJVM Coliseum",
-        "location": "LJVM Coliseum, Winston-Salem, NC",
-        "broadcast": "ESPN2",
-        "neutral": false,
-        "note": "NIT - 2nd Round",
-        "teamScore": 75,
-        "oppScore": 78,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401858352",
-        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401858352"
       },
       "next": {
         "id": "401909726",
