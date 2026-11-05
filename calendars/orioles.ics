@@ -2925,47 +2925,44 @@ X-SPORTSHUB-HASH:a58bb065a9eac8d6
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-853466@sports-hub.jonnylegal.github.io
-DTSTAMP:20261102T004256Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270416
-DTEND;VALUE=DATE:20270417
+DTSTAMP:20261105T184410Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270416T183800
+DTEND;TZID=America/New_York:20270416T213800
 SUMMARY:⚾ Orioles at Angels [Away]
 LOCATION:Angel Stadium
-DESCRIPTION:Start time TBD\nVenue: Angel Stadium\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:Venue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8d221e32e88698cc
+X-SPORTSHUB-HASH:22e4e972c9a305b8
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-853472@sports-hub.jonnylegal.github.io
-DTSTAMP:20261103T013427Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270417
-DTEND;VALUE=DATE:20270418
+DTSTAMP:20261105T184410Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270417T183800
+DTEND;TZID=America/New_York:20270417T213800
 SUMMARY:⚾ Orioles at Angels [Away]
 LOCATION:Angel Stadium
-DESCRIPTION:Start time TBD\nVenue: Angel Stadium\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:Venue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8b247def798c4ccd
+X-SPORTSHUB-HASH:0b6950df69acb418
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-853474@sports-hub.jonnylegal.github.io
-DTSTAMP:20261104T061534Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270418
-DTEND;VALUE=DATE:20270419
+DTSTAMP:20261105T184410Z
+SEQUENCE:1
+DTSTART;TZID=America/New_York:20270418T160700
+DTEND;TZID=America/New_York:20270418T190700
 SUMMARY:⚾ Orioles at Angels [Away]
 LOCATION:Angel Stadium
-DESCRIPTION:Start time TBD\nVenue: Angel Stadium\nhttps://jonnylegal.github
- .io/sports-hub/
+DESCRIPTION:Venue: Angel Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0ad6f1d4ec5a2d24
+X-SPORTSHUB-HASH:a906f53a54a1dcc4
 END:VEVENT
 END:VCALENDAR
