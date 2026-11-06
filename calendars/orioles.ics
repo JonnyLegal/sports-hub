@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824452@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260419T134000
-DTEND;TZID=America/New_York:20260419T164000
-SUMMARY:⚾ ❌ Orioles 4 at Guardians 8 [Away]
-LOCATION:Progressive Field
-DESCRIPTION:Final: Lost 4-8\nTV: MASN\, Guardians.TV Presented by Progressi
- ve\nVenue: Progressive Field\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:67d2cc37981aab19
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824125@sports-hub.jonnylegal.github.io
 DTSTAMP:20261104T211919Z
 SEQUENCE:10
@@ -2964,5 +2949,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:a906f53a54a1dcc4
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854275@sports-hub.jonnylegal.github.io
+DTSTAMP:20261106T001356Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270420T183500
+DTEND;TZID=America/New_York:20270420T213500
+SUMMARY:⚾ Royals at Orioles [Home]
+LOCATION:Oriole Park at Camden Yards
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:fd8fc2b81e9fb037
 END:VEVENT
 END:VCALENDAR
