@@ -42,18 +42,18 @@ X-SPORTSHUB-HASH:8bd04a0bb8ebd720
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909726@sports-hub.jonnylegal.github.io
-DTSTAMP:20261008T005900Z
-SEQUENCE:3
+DTSTAMP:20261106T064547Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T201500
-SUMMARY:🏀 Wake Forest at Vanderbilt [Away]
+SUMMARY:🏀 ❌ Wake Forest 51 at Vanderbilt 74 [Away]
 LOCATION:Memorial Gymnasium (TN)\, Nashville\, TN
-DESCRIPTION:TV: ESPN2\nVenue: Memorial Gymnasium (TN)\nhttps://jonnylegal.g
- ithub.io/sports-hub/
+DESCRIPTION:Final: Lost 51-74\nTV: ESPN2\nVenue: Memorial Gymnasium (TN)\nh
+ ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6a038f1cfabf1aea
+X-SPORTSHUB-HASH:a4ed601c28afb38d
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909727@sports-hub.jonnylegal.github.io
