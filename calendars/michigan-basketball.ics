@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:9ef55ce836d15a75
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909495@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T150340Z
-SEQUENCE:3
+DTSTAMP:20261107T005504Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261124T173000
 DTEND;TZID=America/Detroit:20261124T194500
 SUMMARY:🏀 Michigan vs Creighton [Neutral]
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
-DESCRIPTION:Players Era 16\nVenue: T-Mobile Arena (neutral site)\nhttps://j
- onnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN\nPlayers Era 16\nVenue: T-Mobile Arena (neutral site)\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7bd77223a6862312
+X-SPORTSHUB-HASH:b159aedb1f549857
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io

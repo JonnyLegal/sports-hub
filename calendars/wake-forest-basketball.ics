@@ -162,17 +162,18 @@ X-SPORTSHUB-HASH:a1cc4e9d6d3304a7
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909733@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:3
+DTSTAMP:20261107T005504Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261208T190000
 DTEND;TZID=America/New_York:20261208T211500
 SUMMARY:🏀 Hampton at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Venue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:38ce707c9c3ba171
+X-SPORTSHUB-HASH:c5254539da3c2822
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909734@sports-hub.jonnylegal.github.io
@@ -206,17 +207,18 @@ X-SPORTSHUB-HASH:f3e15b7d9f2f87f5
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909736@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:3
+DTSTAMP:20261107T005504Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261222T160000
 DTEND;TZID=America/New_York:20261222T181500
 SUMMARY:🏀 Presbyterian at Wake Forest [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:Venue: LJVM Coliseum\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
+ ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:d663d9bfa7a032e2
+X-SPORTSHUB-HASH:fe3500e807783d03
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401918106@sports-hub.jonnylegal.github.io

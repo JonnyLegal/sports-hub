@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824125@sports-hub.jonnylegal.github.io
-DTSTAMP:20261104T211919Z
-SEQUENCE:10
-DTSTART;TZID=America/New_York:20260420T194000
-DTEND;TZID=America/New_York:20260420T224000
-SUMMARY:⚾ ✅ Orioles 7 at Royals 5 [Away]
-LOCATION:Kauffman Stadium
-DESCRIPTION:Final: Won 7-5\nTV: MASN\, Royals.TV\, FS1 / FOX ONE\nVenue: Ka
- uffman Stadium\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:6747ecfb8480cc5c
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824127@sports-hub.jonnylegal.github.io
 DTSTAMP:20261103T093019Z
 SEQUENCE:8
@@ -2964,5 +2949,20 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:fd8fc2b81e9fb037
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854277@sports-hub.jonnylegal.github.io
+DTSTAMP:20261107T005504Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270421T183500
+DTEND;TZID=America/New_York:20270421T213500
+SUMMARY:⚾ Royals at Orioles [Home]
+LOCATION:Oriole Park at Camden Yards
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ae2055e8a81e2003
 END:VEVENT
 END:VCALENDAR
