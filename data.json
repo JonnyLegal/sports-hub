@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:07:25+00:00",
+  "updated": "2026-11-07T22:43:35+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -132,7 +132,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
       "record": "5-3",
       "recordNote": null,
-      "standing": "10th in Big Ten",
+      "standing": "11th in Big Ten",
       "live": null,
       "last": {
         "id": "401858507",
@@ -253,7 +253,27 @@
       "record": "7-1",
       "recordNote": null,
       "standing": "2nd in ACC",
-      "live": null,
+      "live": {
+        "id": "401858290",
+        "date": "2026-11-07T20:30Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "Halftime",
+        "homeAway": "home",
+        "opponent": "Merrimack Warriors",
+        "opponentShort": "Merrimack",
+        "opponentFull": "Merrimack",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png",
+        "venue": "Allegacy Federal Credit Union Stadium",
+        "location": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
+        "broadcast": "ACC Network",
+        "neutral": false,
+        "note": null,
+        "teamScore": 49,
+        "oppScore": 0,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858290",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858290"
+      },
       "last": {
         "id": "401858284",
         "date": "2026-10-31T19:45Z",
@@ -277,23 +297,23 @@
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858284"
       },
       "next": {
-        "id": "401858290",
-        "date": "2026-11-07T20:30Z",
+        "id": "401858301",
+        "date": "2026-11-14T17:00Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "11/7 - 3:30 PM EST",
-        "homeAway": "home",
-        "opponent": "Merrimack Warriors",
-        "opponentShort": "Merrimack",
-        "opponentFull": "Merrimack",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png",
-        "venue": "Allegacy Federal Credit Union Stadium",
-        "location": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
-        "broadcast": "ACC Network",
+        "detail": "11/14 - 12:00 PM EST",
+        "homeAway": "away",
+        "opponent": "SMU Mustangs",
+        "opponentShort": "SMU",
+        "opponentFull": "SMU",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
+        "venue": "Gerald J. Ford Stadium",
+        "location": "Gerald J. Ford Stadium, Dallas, TX",
+        "broadcast": null,
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858290",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858290"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858301",
+        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858301"
       },
       "calendar": "calendars/wake-forest-football.ics"
     },
