@@ -42,18 +42,18 @@ X-SPORTSHUB-HASH:b3694aa6ff782ba4
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401920685@sports-hub.jonnylegal.github.io
-DTSTAMP:20261006T201814Z
-SEQUENCE:4
+DTSTAMP:20261107T070725Z
+SEQUENCE:5
 DTSTART;TZID=America/Detroit:20261106T200000
 DTEND;TZID=America/Detroit:20261106T221500
-SUMMARY:🏀 Michigan vs UConn [Neutral]
+SUMMARY:🏀 ❌ Michigan 77 vs UConn 85 [Neutral]
 LOCATION:TD Garden\, Boston\, MA
-DESCRIPTION:TV: TNT\nHall of Fame Series - Boston\nVenue: TD Garden (neutra
- l site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Lost 77-85\nTV: TNT\nHall of Fame Series - Boston\nVenue
+ : TD Garden (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:940e3edfcca0ea92
+X-SPORTSHUB-HASH:3b18015ef25e9594
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909524@sports-hub.jonnylegal.github.io
