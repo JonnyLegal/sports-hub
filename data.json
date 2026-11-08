@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T02:27:48+00:00",
+  "updated": "2026-11-08T10:17:04+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -130,15 +130,16 @@
         "onSecondary": "#00274C"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
-      "record": "5-3",
+      "record": "5-4",
       "recordNote": null,
-      "standing": "11th in Big Ten",
-      "live": {
+      "standing": "10th in Big Ten",
+      "live": null,
+      "last": {
         "id": "401858511",
         "date": "2026-11-08T00:30Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "Halftime",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Michigan State Spartans",
         "opponentShort": "Michigan St",
@@ -149,32 +150,11 @@
         "broadcast": "Peacock",
         "neutral": false,
         "note": null,
-        "teamScore": 0,
-        "oppScore": 6,
+        "teamScore": 6,
+        "oppScore": 15,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858511",
         "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858511"
-      },
-      "last": {
-        "id": "401858507",
-        "date": "2026-10-31T16:30Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "away",
-        "opponent": "Rutgers Scarlet Knights",
-        "opponentShort": "Rutgers",
-        "opponentFull": "Rutgers",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/164.png",
-        "venue": "SHI Stadium",
-        "location": "SHI Stadium, Piscataway, NJ",
-        "broadcast": "BTN",
-        "neutral": false,
-        "note": null,
-        "teamScore": 28,
-        "oppScore": 21,
-        "result": "W",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858507",
-        "gameUrl": "https://www.espn.com/college-football/game/_/gameId/401858507"
       },
       "next": {
         "id": "401858523",
@@ -272,7 +252,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/154.png",
       "record": "8-1",
       "recordNote": null,
-      "standing": "2nd in ACC",
+      "standing": "1st in ACC",
       "live": null,
       "last": {
         "id": "401858290",
