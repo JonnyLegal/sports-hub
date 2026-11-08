@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:17:04+00:00",
+  "updated": "2026-11-08T21:09:08+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -289,7 +289,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png",
         "venue": "Gerald J. Ford Stadium",
         "location": "Gerald J. Ford Stadium, Dallas, TX",
-        "broadcast": null,
+        "broadcast": "ESPN",
         "neutral": false,
         "note": null,
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard/401858301",

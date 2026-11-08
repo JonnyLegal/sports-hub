@@ -162,18 +162,18 @@ X-SPORTSHUB-HASH:34200ccd527912cb
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858301@sports-hub.jonnylegal.github.io
-DTSTAMP:20261103T013427Z
-SEQUENCE:3
+DTSTAMP:20261108T210908Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T153000
 SUMMARY:🏈 Wake Forest at SMU [Away]
 LOCATION:Gerald J. Ford Stadium\, Dallas\, TX
-DESCRIPTION:Venue: Gerald J. Ford Stadium\nhttps://jonnylegal.github.io/spo
- rts-hub/
+DESCRIPTION:TV: ESPN\nVenue: Gerald J. Ford Stadium\nhttps://jonnylegal.git
+ hub.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b8d3eb02d9f9f282
+X-SPORTSHUB-HASH:9757b4c6a6064f14
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858310@sports-hub.jonnylegal.github.io
