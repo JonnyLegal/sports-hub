@@ -57,18 +57,18 @@ X-SPORTSHUB-HASH:3b18015ef25e9594
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909524@sports-hub.jonnylegal.github.io
-DTSTAMP:20261007T203611Z
-SEQUENCE:3
+DTSTAMP:20261112T025659Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261111T190000
 DTEND;TZID=America/Detroit:20261111T211500
-SUMMARY:🏀 Marquette at Michigan [Home]
+SUMMARY:🏀 ✅ Marquette 70 at Michigan 84 [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:TV: FS1\nVenue: Crisler Center\nhttps://jonnylegal.github.io/sp
- orts-hub/
+DESCRIPTION:Final: Won 84-70\nTV: FS1\nVenue: Crisler Center\nhttps://jonny
+ legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fb45ecd5ab5412b3
+X-SPORTSHUB-HASH:1ec14d31b8d03fbc
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401918453@sports-hub.jonnylegal.github.io
