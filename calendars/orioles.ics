@@ -2965,4 +2965,19 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:49406e61d5da56f0
 END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854262@sports-hub.jonnylegal.github.io
+DTSTAMP:20261114T031156Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270428T123500
+DTEND;TZID=America/New_York:20270428T153500
+SUMMARY:⚾ Red Sox at Orioles [Home]
+LOCATION:Oriole Park at Camden Yards
+DESCRIPTION:Venue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.i
+ o/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:dc444be7ce406766
+END:VEVENT
 END:VCALENDAR
