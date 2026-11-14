@@ -27,18 +27,18 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:orioles-mlb-824849@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260428T183500
 DTEND;TZID=America/New_York:20260428T213500
 SUMMARY:⚾ ✅ Astros 3 at Orioles 5 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 5-3\nTV: MASN\, Space City Home Network\nVenue: Orio
+DESCRIPTION:Final: Won 5-3\nTV: Space City Home Network\, MASN\nVenue: Orio
  le Park at Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:547ef3df3e2c200c
+X-SPORTSHUB-HASH:7df9c114b1b425af
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824848@sports-hub.jonnylegal.github.io
@@ -117,34 +117,34 @@ X-SPORTSHUB-HASH:a046b4675eda1276
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-823552@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260504T190500
 DTEND;TZID=America/New_York:20260504T220500
 SUMMARY:⚾ ❌ Orioles 1 at Yankees 12 [Away]
 LOCATION:Yankee Stadium
-DESCRIPTION:Final: Lost 1-12\nTV: YES\, MASN\nVenue: Yankee Stadium\nhttps:
+DESCRIPTION:Final: Lost 1-12\nTV: MASN\, YES\nVenue: Yankee Stadium\nhttps:
  //jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:74f964d7ba14e762
+X-SPORTSHUB-HASH:04baaf55c32fea06
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-823873@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260505T184000
 DTEND;TZID=America/New_York:20260505T214000
 SUMMARY:⚾ ✅ Orioles 9 at Marlins 7 [Away]
 LOCATION:loanDepot park
-DESCRIPTION:Final: Won 9-7\nTV: MASN\, Marlins.TV presented by Werner\, Hof
- fman\, Greig & Garcia\nVenue: loanDepot park\nhttps://jonnylegal.github.io
+DESCRIPTION:Final: Won 9-7\nTV: Marlins.TV presented by Werner\, Hoffman\, 
+ Greig & Garcia\, MASN\nVenue: loanDepot park\nhttps://jonnylegal.github.io
  /sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:228b0a9920923732
+X-SPORTSHUB-HASH:6dce19a19ef3dc1b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-823872@sports-hub.jonnylegal.github.io
@@ -164,19 +164,19 @@ X-SPORTSHUB-HASH:9c911b5d05a5edd0
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-823870@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260507T184000
 DTEND;TZID=America/New_York:20260507T214000
 SUMMARY:⚾ ❌ Orioles 3 at Marlins 4 [Away]
 LOCATION:loanDepot park
-DESCRIPTION:Final: Lost 3-4\nTV: MASN\, Marlins.TV presented by Werner\, Ho
- ffman\, Greig & Garcia\nVenue: loanDepot park\nhttps://jonnylegal.github.i
+DESCRIPTION:Final: Lost 3-4\nTV: Marlins.TV presented by Werner\, Hoffman\,
+  Greig & Garcia\, MASN\nVenue: loanDepot park\nhttps://jonnylegal.github.i
  o/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9fc4113c0be7642c
+X-SPORTSHUB-HASH:fad49b842498beaa
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824846@sports-hub.jonnylegal.github.io
@@ -195,18 +195,18 @@ X-SPORTSHUB-HASH:6ca7e89459520a26
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824847@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260509T160500
 DTEND;TZID=America/New_York:20260509T190500
 SUMMARY:⚾ ❌ Athletics 6 at Orioles 2 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 2-6\nTV: MASN\, NBCSCA\nVenue: Oriole Park at Camde
+DESCRIPTION:Final: Lost 2-6\nTV: NBCSCA\, MASN\nVenue: Oriole Park at Camde
  n Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:59cae54914f6e13b
+X-SPORTSHUB-HASH:59f196bff4a145a9
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824845@sports-hub.jonnylegal.github.io
@@ -225,18 +225,18 @@ X-SPORTSHUB-HASH:3c0e255c8ca7b8df
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824844@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260511T183500
 DTEND;TZID=America/New_York:20260511T213500
 SUMMARY:⚾ ✅ Yankees 2 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 3-2\nTV: YES\, MASN\nVenue: Oriole Park at Camden Ya
+DESCRIPTION:Final: Won 3-2\nTV: MASN\, YES\nVenue: Oriole Park at Camden Ya
  rds\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bcef9fcfdf302fd6
+X-SPORTSHUB-HASH:5f4169a5ca4c99e4
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824843@sports-hub.jonnylegal.github.io
@@ -285,18 +285,18 @@ X-SPORTSHUB-HASH:de4cd4a7fb510c83
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822737@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T152847Z
-SEQUENCE:2
+DTSTAMP:20261114T170437Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20260516T160500
 DTEND;TZID=America/New_York:20260516T190500
 SUMMARY:⚾ ❌ Orioles 3 at Nationals 13 [Away]
 LOCATION:Nationals Park
-DESCRIPTION:Final: Lost 3-13\nTV: FS1 / FOX ONE\, MASN\, Nationals.TV\nVenu
+DESCRIPTION:Final: Lost 3-13\nTV: MASN\, FS1 / FOX ONE\, Nationals.TV\nVenu
  e: Nationals Park\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5d50a7afbc1deb9f
+X-SPORTSHUB-HASH:88e605f406e93637
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822738@sports-hub.jonnylegal.github.io
@@ -315,18 +315,18 @@ X-SPORTSHUB-HASH:110dbee24f80cb0e
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822980@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260518T184000
 DTEND;TZID=America/New_York:20260518T214000
 SUMMARY:⚾ ❌ Orioles 6 at Rays 16 [Away]
 LOCATION:Tropicana Field
-DESCRIPTION:Final: Lost 6-16\nTV: MASN\, Rays.TV\nVenue: Tropicana Field\nh
+DESCRIPTION:Final: Lost 6-16\nTV: Rays.TV\, MASN\nVenue: Tropicana Field\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9cf1bf5bf5ac76c7
+X-SPORTSHUB-HASH:30451dc712028a3a
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822979@sports-hub.jonnylegal.github.io
@@ -480,49 +480,49 @@ X-SPORTSHUB-HASH:3d5c047804cd032b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824833@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260530T160500
 DTEND;TZID=America/New_York:20260530T190500
 SUMMARY:⚾ ✅ Blue Jays 5 at Orioles 6 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 6-5\nTV: MASN\, Sportsnet\, SN1\, TVA Sports\nVenue:
+DESCRIPTION:Final: Won 6-5\nTV: Sportsnet\, MASN\, SN1\, TVA Sports\nVenue:
   Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:780737bdca7fa612
+X-SPORTSHUB-HASH:fb9e9b31891e14b8
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824832@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260531T121500
 DTEND;TZID=America/New_York:20260531T151500
 SUMMARY:⚾ ✅ Blue Jays 5 at Orioles 9 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 9-5\nTV: Sportsnet\, Peacock/NBCSN\, SN1\, TVA Sport
+DESCRIPTION:Final: Won 9-5\nTV: Sportsnet\, SN1\, Peacock/NBCSN\, TVA Sport
  s\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/sports
  -hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:31e5cea4910289d3
+X-SPORTSHUB-HASH:e54772cbbea8c9e6
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824754@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260602T184500
 DTEND;TZID=America/New_York:20260602T214500
 SUMMARY:⚾ ✅ Orioles 4 at Red Sox 2 [Away]
 LOCATION:Fenway Park
-DESCRIPTION:Final: Won 4-2\nTV: MASN\, NESN\nVenue: Fenway Park\nhttps://jo
+DESCRIPTION:Final: Won 4-2\nTV: NESN\, MASN\nVenue: Fenway Park\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c79efae654733983
+X-SPORTSHUB-HASH:f2a2fd8a5de5a77f
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824755@sports-hub.jonnylegal.github.io
@@ -541,18 +541,18 @@ X-SPORTSHUB-HASH:ce206923285cd2cd
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824753@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260604T133500
 DTEND;TZID=America/New_York:20260604T163500
 SUMMARY:⚾ ✅ Orioles 8 at Red Sox 2 [Away]
 LOCATION:Fenway Park
-DESCRIPTION:Final: Won 8-2\nTV: MASN\, NESN\nVenue: Fenway Park\nhttps://jo
+DESCRIPTION:Final: Won 8-2\nTV: NESN\, MASN\nVenue: Fenway Park\nhttps://jo
  nnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:e5f582b65e8fda4b
+X-SPORTSHUB-HASH:b422c371116d4d50
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822810@sports-hub.jonnylegal.github.io
@@ -586,18 +586,18 @@ X-SPORTSHUB-HASH:337d3fd7cc07be00
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-822807@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260607T133700
 DTEND;TZID=America/New_York:20260607T163700
 SUMMARY:⚾ ❌ Orioles 4 at Blue Jays 6 [Away]
 LOCATION:Rogers Centre
-DESCRIPTION:Final: Lost 4-6\nTV: MASN\, Sportsnet\, SN1\, TVA Sports\nVenue
+DESCRIPTION:Final: Lost 4-6\nTV: MASN\, Sportsnet\, TVA Sports\, SN1\nVenue
  : Rogers Centre\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c3bddb1353464fb1
+X-SPORTSHUB-HASH:320592e1468c79c5
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824829@sports-hub.jonnylegal.github.io
@@ -616,33 +616,33 @@ X-SPORTSHUB-HASH:55513285a53a7e48
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824830@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260609T183500
 DTEND;TZID=America/New_York:20260609T213500
 SUMMARY:⚾ ❌ Mariners 6 at Orioles 5 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 5-6\nTV: MASN\, Mariners.TV\nVenue: Oriole Park at 
+DESCRIPTION:Final: Lost 5-6\nTV: Mariners.TV\, MASN\nVenue: Oriole Park at 
  Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:457aa391b33c287d
+X-SPORTSHUB-HASH:9d517210fb919640
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824831@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260610T183500
 DTEND;TZID=America/New_York:20260610T213500
 SUMMARY:⚾ ✅ Mariners 2 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-2\nTV: MASN\, Mariners.TV\nVenue: Oriole Park at C
+DESCRIPTION:Final: Won 7-2\nTV: Mariners.TV\, MASN\nVenue: Oriole Park at C
  amden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:9e0a5e1c2615a5c7
+X-SPORTSHUB-HASH:66027ae7085d0517
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824827@sports-hub.jonnylegal.github.io
@@ -661,35 +661,35 @@ X-SPORTSHUB-HASH:b413e909a6b9fd08
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824826@sports-hub.jonnylegal.github.io
-DTSTAMP:20261029T095520Z
-SEQUENCE:25
+DTSTAMP:20261114T170437Z
+SEQUENCE:26
 DTSTART;TZID=America/New_York:20260612T190500
 DTEND;TZID=America/New_York:20260612T220500
 SUMMARY:⚾ ✅ Padres 3 at Orioles 7 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 7-3\nTV: MASN\, Padres.TV Presented by UC San Diego 
- Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
+DESCRIPTION:Final: Won 7-3\nTV: Padres.TV Presented by UC San Diego Health\
+ , MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/s
  ports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4a38a74978286154
+X-SPORTSHUB-HASH:fd80354a5e290d73
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824828@sports-hub.jonnylegal.github.io
-DTSTAMP:20261104T211919Z
-SEQUENCE:23
+DTSTAMP:20261114T170437Z
+SEQUENCE:24
 DTSTART;TZID=America/New_York:20260613T160500
 DTEND;TZID=America/New_York:20260613T190500
 SUMMARY:⚾ ❌ Padres 9 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 3-9\nTV: MASN\, Padres.TV Presented by UC San Diego
-  Health\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
+DESCRIPTION:Final: Lost 3-9\nTV: Padres.TV Presented by UC San Diego Health
+ \, MASN\nVenue: Oriole Park at Camden Yards\nhttps://jonnylegal.github.io/
  sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fde36687816266c5
+X-SPORTSHUB-HASH:38a04cdea89bef3f
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824823@sports-hub.jonnylegal.github.io
@@ -844,18 +844,18 @@ X-SPORTSHUB-HASH:72a59a97f5fa8ee9
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824824@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260626T190500
 DTEND;TZID=America/New_York:20260626T220500
 SUMMARY:⚾ ✅ Nationals 1 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 3-1\nTV: MASN\, Nationals.TV\nVenue: Oriole Park at 
+DESCRIPTION:Final: Won 3-1\nTV: Nationals.TV\, MASN\nVenue: Oriole Park at 
  Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:1fa9523610657426
+X-SPORTSHUB-HASH:e8d7ef0ec39a1942
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824825@sports-hub.jonnylegal.github.io
@@ -874,18 +874,18 @@ X-SPORTSHUB-HASH:db0d792ce36f8389
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824821@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260628T133500
 DTEND;TZID=America/New_York:20260628T163500
 SUMMARY:⚾ ❌ Nationals 6 at Orioles 4 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 4-6\nTV: MASN\, Nationals.TV\nVenue: Oriole Park at
+DESCRIPTION:Final: Lost 4-6\nTV: Nationals.TV\, MASN\nVenue: Oriole Park at
   Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7acde592f587b229
+X-SPORTSHUB-HASH:5607878ea29deb5a
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824822@sports-hub.jonnylegal.github.io
@@ -904,18 +904,18 @@ X-SPORTSHUB-HASH:cfb1720469da7c27
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824819@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260630T183500
 DTEND;TZID=America/New_York:20260630T213500
 SUMMARY:⚾ ❌ White Sox 9 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 3-9\nTV: MASN\, Chicago Sports Network\nVenue: Orio
+DESCRIPTION:Final: Lost 3-9\nTV: Chicago Sports Network\, MASN\nVenue: Orio
  le Park at Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:708ca2d25e0fb0cc
+X-SPORTSHUB-HASH:5d7c8720173b34d4
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824818@sports-hub.jonnylegal.github.io
@@ -1009,18 +1009,18 @@ X-SPORTSHUB-HASH:8f63e01b2bec15a8
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824816@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260709T133500
 DTEND;TZID=America/New_York:20260709T163500
 SUMMARY:⚾ ✅ Cubs 2 at Orioles 3 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 3-2\nTV: MASN\, Marquee Sports Network\nVenue: Oriol
+DESCRIPTION:Final: Won 3-2\nTV: Marquee Sports Network\, MASN\nVenue: Oriol
  e Park at Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ccf270b90721ec38
+X-SPORTSHUB-HASH:2bbb41c91897e50b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824817@sports-hub.jonnylegal.github.io
@@ -1039,33 +1039,33 @@ X-SPORTSHUB-HASH:addf17b2a4615c9a
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824813@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260711T190500
 DTEND;TZID=America/New_York:20260711T220500
 SUMMARY:⚾ ✅ Royals 1 at Orioles 6 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 6-1\nTV: MASN\, Royals.TV\nVenue: Oriole Park at Cam
+DESCRIPTION:Final: Won 6-1\nTV: Royals.TV\, MASN\nVenue: Oriole Park at Cam
  den Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:349702a26d28f1aa
+X-SPORTSHUB-HASH:d1616f290331d6f6
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824814@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260712T133500
 DTEND;TZID=America/New_York:20260712T163500
 SUMMARY:⚾ ✅ Royals 2 at Orioles 8 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 8-2\nTV: MASN\, Royals.TV\nVenue: Oriole Park at Cam
+DESCRIPTION:Final: Won 8-2\nTV: Royals.TV\, MASN\nVenue: Oriole Park at Cam
  den Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:8c1d75c92ff8f7b7
+X-SPORTSHUB-HASH:90202165310f902a
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824170@sports-hub.jonnylegal.github.io
@@ -1159,18 +1159,18 @@ X-SPORTSHUB-HASH:4108769ef8d11ce7
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824812@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260724T190500
 DTEND;TZID=America/New_York:20260724T220500
 SUMMARY:⚾ ❌ Braves 7 at Orioles 6 [Home]
 LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Lost 6-7\nTV: MASN\, BravesVision\nVenue: Oriole Park at
+DESCRIPTION:Final: Lost 6-7\nTV: BravesVision\, MASN\nVenue: Oriole Park at
   Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bcf6e1896a6830d2
+X-SPORTSHUB-HASH:a5b72b98f0483cca
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824811@sports-hub.jonnylegal.github.io
@@ -1219,33 +1219,33 @@ X-SPORTSHUB-HASH:50d1c05ae3b68398
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824243@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260728T184000
 DTEND;TZID=America/New_York:20260728T214000
 SUMMARY:⚾ ❌ Orioles 0 at Tigers 14 [Away]
 LOCATION:Comerica Park
-DESCRIPTION:Final: Lost 0-14\nTV: MASN\, Detroit SportsNet\nVenue: Comerica
+DESCRIPTION:Final: Lost 0-14\nTV: Detroit SportsNet\, MASN\nVenue: Comerica
   Park\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:4bb78585648b6edd
+X-SPORTSHUB-HASH:314f8f566defacf6
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824242@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261114T170437Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260729T131000
 DTEND;TZID=America/New_York:20260729T161000
 SUMMARY:⚾ ✅ Orioles 10 at Tigers 9 [Away]
 LOCATION:Comerica Park
-DESCRIPTION:Final: Won 10-9\nTV: MASN\, Detroit SportsNet\nVenue: Comerica 
+DESCRIPTION:Final: Won 10-9\nTV: Detroit SportsNet\, MASN\nVenue: Comerica 
  Park\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:378e2c98254b10a5
+X-SPORTSHUB-HASH:5ccd9bb8afb57248
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-824809@sports-hub.jonnylegal.github.io
