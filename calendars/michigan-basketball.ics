@@ -72,18 +72,18 @@ X-SPORTSHUB-HASH:1ec14d31b8d03fbc
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401918453@sports-hub.jonnylegal.github.io
-DTSTAMP:20261020T191415Z
-SEQUENCE:4
+DTSTAMP:20261115T214706Z
+SEQUENCE:5
 DTSTART;TZID=America/Detroit:20261115T140000
 DTEND;TZID=America/Detroit:20261115T161500
-SUMMARY:🏀 William & Mary at Michigan [Home]
+SUMMARY:🏀 ✅ William & Mary 79 at Michigan 123 [Home]
 LOCATION:Crisler Center\, Ann Arbor\, MI
-DESCRIPTION:TV: B1G+\nVenue: Crisler Center\nhttps://jonnylegal.github.io/s
- ports-hub/
+DESCRIPTION:Final: Won 123-79\nTV: B1G+\nVenue: Crisler Center\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:67fc777e65fce114
+X-SPORTSHUB-HASH:fda5829fc6bcc371
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401921776@sports-hub.jonnylegal.github.io
