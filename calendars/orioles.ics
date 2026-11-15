@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-824849@sports-hub.jonnylegal.github.io
-DTSTAMP:20261114T170437Z
-SEQUENCE:2
-DTSTART;TZID=America/New_York:20260428T183500
-DTEND;TZID=America/New_York:20260428T213500
-SUMMARY:⚾ ✅ Astros 3 at Orioles 5 [Home]
-LOCATION:Oriole Park at Camden Yards
-DESCRIPTION:Final: Won 5-3\nTV: Space City Home Network\, MASN\nVenue: Orio
- le Park at Camden Yards\nhttps://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7df9c114b1b425af
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-824848@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
