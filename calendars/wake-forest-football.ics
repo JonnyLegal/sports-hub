@@ -192,17 +192,17 @@ X-SPORTSHUB-HASH:67d42d617001e042
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858312@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261116T202636Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:🏈 Duke at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nVenue: Allegacy Federal Credit Union Stadium\nh
- ttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Start time TBD\nAFTERNOON: 3 - 3:30pm ET start\nVenue: Allegacy
+  Federal Credit Union Stadium\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c53d35a5ceecea1d
+X-SPORTSHUB-HASH:29e5e63311301cac
 END:VEVENT
 END:VCALENDAR
