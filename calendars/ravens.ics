@@ -162,18 +162,18 @@ X-SPORTSHUB-HASH:f93e90268797b594
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873065@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
+DTSTAMP:20261117T132044Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20261116T201500
 DTEND;TZID=America/New_York:20261116T234500
-SUMMARY:🏈 Chargers at Ravens [Home]
+SUMMARY:🏈 ❌ Chargers 23 at Ravens 20 [Home]
 LOCATION:M&T Bank Stadium\, Baltimore\, MD
-DESCRIPTION:TV: ESPN\nVenue: M&T Bank Stadium\nhttps://jonnylegal.github.io
- /sports-hub/
+DESCRIPTION:Final: Lost 20-23\nTV: ESPN\nVenue: M&T Bank Stadium\nhttps://j
+ onnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:aeb8663d9c38dde2
+X-SPORTSHUB-HASH:01064f550bab8d67
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873068@sports-hub.jonnylegal.github.io

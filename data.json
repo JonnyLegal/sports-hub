@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:50:21+00:00",
+  "updated": "2026-11-17T13:20:44+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -14,15 +14,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": "4-5",
+      "record": "4-6",
       "recordNote": null,
       "standing": "9th in American Football Conference",
-      "live": {
+      "live": null,
+      "last": {
         "id": "401873065",
         "date": "2026-11-17T01:15Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "10:23 - 4th",
+        "detail": "Final",
         "homeAway": "home",
         "opponent": "Los Angeles Chargers",
         "opponentShort": "Chargers",
@@ -35,30 +36,9 @@
         "note": null,
         "teamScore": 20,
         "oppScore": 23,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873065",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873065"
-      },
-      "last": {
-        "id": "401873037",
-        "date": "2026-11-06T01:15Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Jacksonville Jaguars",
-        "opponentShort": "Jaguars",
-        "opponentFull": "Jacksonville",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-        "venue": "M&T Bank Stadium",
-        "location": "M&T Bank Stadium, Baltimore, MD",
-        "broadcast": "Prime Video",
-        "neutral": false,
-        "note": null,
-        "teamScore": 10,
-        "oppScore": 33,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873037",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873037"
       },
       "next": {
         "id": "401873068",
