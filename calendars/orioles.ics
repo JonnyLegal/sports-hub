@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-823557@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260501T190500
-DTEND;TZID=America/New_York:20260501T220500
-SUMMARY:⚾ ❌ Orioles 2 at Yankees 7 [Away]
-LOCATION:Yankee Stadium
-DESCRIPTION:Final: Lost 2-7\nTV: YES\, MASN\nVenue: Yankee Stadium\nhttps:/
- /jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f13370418b2052bb
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-823554@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -2962,5 +2947,19 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:61df6bfbc7f90541
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-852736@sports-hub.jonnylegal.github.io
+DTSTAMP:20261118T041718Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270502T161000
+DTEND;TZID=America/New_York:20270502T191000
+SUMMARY:⚾ Orioles at Padres [Away]
+LOCATION:Petco Park
+DESCRIPTION:Venue: Petco Park\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:ed0e7771feed92b3
 END:VEVENT
 END:VCALENDAR
