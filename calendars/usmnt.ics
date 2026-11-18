@@ -417,4 +417,19 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:aa368b846510ab85
 END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401935564@sports-hub.jonnylegal.github.io
+DTSTAMP:20261118T215421Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270325T221500
+DTEND;TZID=America/New_York:20270326T001500
+SUMMARY:⚽ Mexico at USA [Home]
+LOCATION:SoFi Stadium\, Inglewood\, California
+DESCRIPTION:Concacaf Nations League\nVenue: SoFi Stadium\nhttps://jonnylega
+ l.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:8a15af2840c58995
+END:VEVENT
 END:VCALENDAR
