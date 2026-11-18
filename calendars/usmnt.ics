@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:usmnt-espn-soccer-735329@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20250619T211500
-DTEND;TZID=America/New_York:20250619T231500
-SUMMARY:⚽ ✅ USA 1 at Saudi Arabia 0 [Away]
-LOCATION:Q2 Stadium\, Austin\, Texas
-DESCRIPTION:Final: Won 1-0\nTV: FS1\nConcacaf Gold Cup\nVenue: Q2 Stadium\n
- https://jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:761bf0ad12808ccc
-END:VEVENT
-BEGIN:VEVENT
 UID:usmnt-espn-soccer-735335@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T171153Z
 SEQUENCE:1
@@ -400,6 +385,22 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:3618cdcd999a47b2
+END:VEVENT
+BEGIN:VEVENT
+UID:usmnt-espn-soccer-401929766@sports-hub.jonnylegal.github.io
+DTSTAMP:20261118T135531Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261117T190000
+DTEND;TZID=America/New_York:20261117T210000
+SUMMARY:⚽ ✅ Haiti 0 at USA 2 [Home]
+LOCATION:TQL Stadium\, Cincinnati\, Ohio
+DESCRIPTION:Final: Won 2-0\nTV: TBS\nConcacaf Nations League - 2nd Leg - Un
+ ited States win 8-0 on aggregate\nVenue: TQL Stadium\nhttps://jonnylegal.g
+ ithub.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:bd01f859472cdc12
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-401930977@sports-hub.jonnylegal.github.io
