@@ -26,21 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-823554@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;TZID=America/New_York:20260502T133500
-DTEND;TZID=America/New_York:20260502T163500
-SUMMARY:⚾ ❌ Orioles 4 at Yankees 9 [Away]
-LOCATION:Yankee Stadium
-DESCRIPTION:Final: Lost 4-9\nTV: YES\, MASN\nVenue: Yankee Stadium\nhttps:/
- /jonnylegal.github.io/sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:c145d0a556fc4c53
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-823555@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1
@@ -2961,5 +2946,19 @@ URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-SPORTSHUB-HASH:ed0e7771feed92b3
+END:VEVENT
+BEGIN:VEVENT
+UID:orioles-mlb-854509@sports-hub.jonnylegal.github.io
+DTSTAMP:20261119T032324Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20270503T214000
+DTEND;TZID=America/New_York:20270504T004000
+SUMMARY:⚾ Orioles at D-backs [Away]
+LOCATION:Chase Field
+DESCRIPTION:Venue: Chase Field\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:d5b2fffc81f4a03f
 END:VEVENT
 END:VCALENDAR
