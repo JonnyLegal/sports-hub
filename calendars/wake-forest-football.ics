@@ -177,18 +177,18 @@ X-SPORTSHUB-HASH:24a0c11fde77c3a2
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858310@sports-hub.jonnylegal.github.io
-DTSTAMP:20261115T214706Z
-SEQUENCE:3
+DTSTAMP:20261121T231302Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261121T120000
 DTEND;TZID=America/New_York:20261121T153000
-SUMMARY:🏈 Wake Forest at Georgia Tech [Away]
+SUMMARY:🏈 ✅ Wake Forest 50 at Georgia Tech 29 [Away]
 LOCATION:Bobby Dodd Stadium\, Atlanta\, GA
-DESCRIPTION:TV: ESPN\nVenue: Bobby Dodd Stadium\nhttps://jonnylegal.github.
- io/sports-hub/
+DESCRIPTION:Final: Won 50-29\nTV: ESPN\nVenue: Bobby Dodd Stadium\nhttps://
+ jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:67d42d617001e042
+X-SPORTSHUB-HASH:2fbfa556b8170800
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858312@sports-hub.jonnylegal.github.io

@@ -102,18 +102,18 @@ X-SPORTSHUB-HASH:b556df4cd93e8cda
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909730@sports-hub.jonnylegal.github.io
-DTSTAMP:20261113T223544Z
-SEQUENCE:5
+DTSTAMP:20261121T231302Z
+SEQUENCE:6
 DTSTART;TZID=America/New_York:20261121T140000
 DTEND;TZID=America/New_York:20261121T161500
-SUMMARY:🏀 Western Carolina at Wake Forest [Home]
+SUMMARY:🏀 ✅ Western Carolina 63 at Wake Forest 90 [Home]
 LOCATION:LJVM Coliseum\, Winston-Salem\, NC
-DESCRIPTION:TV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonnylegal.github.io/s
- ports-hub/
+DESCRIPTION:Final: Won 90-63\nTV: ACCNX\nVenue: LJVM Coliseum\nhttps://jonn
+ ylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:60393157b8e5129d
+X-SPORTSHUB-HASH:a8e11726c9940416
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401929287@sports-hub.jonnylegal.github.io
