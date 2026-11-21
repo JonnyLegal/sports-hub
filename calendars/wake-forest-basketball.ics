@@ -132,18 +132,18 @@ X-SPORTSHUB-HASH:1dc5315ba0b7b600
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909731@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010751Z
-SEQUENCE:2
+DTSTAMP:20261121T012955Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261201T210000
 DTEND;TZID=America/New_York:20261201T231500
 SUMMARY:🏀 Wake Forest at LSU [Away]
 LOCATION:Pete Maravich Assembly Center\, Baton Rouge\, LA
-DESCRIPTION:TV: SEC Network\nACC/SEC Men's Challenge\nVenue: Pete Maravich 
+DESCRIPTION:TV: SEC Network\nSEC/ACC Men's Challenge\nVenue: Pete Maravich 
  Assembly Center\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:98440e9e73529b10
+X-SPORTSHUB-HASH:03913d13b6c783c9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909732@sports-hub.jonnylegal.github.io
