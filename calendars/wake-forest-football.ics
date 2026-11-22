@@ -192,17 +192,32 @@ X-SPORTSHUB-HASH:2fbfa556b8170800
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-football-espn-401858312@sports-hub.jonnylegal.github.io
-DTSTAMP:20261116T202636Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
+DTSTAMP:20261122T111805Z
+SEQUENCE:4
+DTSTART;TZID=America/New_York:20261128T153000
+DTEND;TZID=America/New_York:20261128T190000
 SUMMARY:🏈 Duke at Wake Forest [Home]
 LOCATION:Allegacy Federal Credit Union Stadium\, Winston-Salem\, NC
-DESCRIPTION:Start time TBD\nAFTERNOON: 3 - 3:30pm ET start\nVenue: Allegacy
-  Federal Credit Union Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN\nVenue: Allegacy Federal Credit Union Stadium\nhttps:/
+ /jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:29e5e63311301cac
+X-SPORTSHUB-HASH:acd0a7335afd743c
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-forest-football-espn-401858318@sports-hub.jonnylegal.github.io
+DTSTAMP:20261122T111805Z
+SEQUENCE:0
+DTSTART;TZID=America/New_York:20261205T120000
+DTEND;TZID=America/New_York:20261205T153000
+SUMMARY:🏈 Wake Forest vs Miami [Neutral]
+LOCATION:Bank of America Stadium\, Charlotte\, NC
+DESCRIPTION:TV: ABC\nACC Championship\nVenue: Bank of America Stadium (neut
+ ral site)\nhttps://jonnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:f0fd31046983b59a
 END:VEVENT
 END:VCALENDAR
