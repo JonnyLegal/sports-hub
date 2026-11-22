@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T11:18:05+00:00",
+  "updated": "2026-11-22T19:35:13+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -17,7 +17,27 @@
       "record": "4-6",
       "recordNote": null,
       "standing": "9th in American Football Conference",
-      "live": null,
+      "live": {
+        "id": "401873068",
+        "date": "2026-11-22T18:00Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "0:59 - 2nd",
+        "homeAway": "away",
+        "opponent": "Carolina Panthers",
+        "opponentShort": "Panthers",
+        "opponentFull": "Carolina",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
+        "venue": "Bank of America Stadium",
+        "location": "Bank of America Stadium, Charlotte, NC",
+        "broadcast": "Fox",
+        "neutral": false,
+        "note": null,
+        "teamScore": 26,
+        "oppScore": 22,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873068",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873068"
+      },
       "last": {
         "id": "401873065",
         "date": "2026-11-17T01:15Z",
@@ -41,23 +61,23 @@
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873065"
       },
       "next": {
-        "id": "401873068",
-        "date": "2026-11-22T18:00Z",
+        "id": "401873085",
+        "date": "2026-11-29T18:00Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "11/22 - 1:00 PM EST",
+        "detail": "11/29 - 1:00 PM EST",
         "homeAway": "away",
-        "opponent": "Carolina Panthers",
-        "opponentShort": "Panthers",
-        "opponentFull": "Carolina",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png",
-        "venue": "Bank of America Stadium",
-        "location": "Bank of America Stadium, Charlotte, NC",
-        "broadcast": "Fox",
+        "opponent": "Houston Texans",
+        "opponentShort": "Texans",
+        "opponentFull": "Houston",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
+        "venue": "Reliant Stadium",
+        "location": "Reliant Stadium, Houston, TX",
+        "broadcast": "CBS",
         "neutral": false,
         "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873068",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873068"
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873085",
+        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873085"
       },
       "calendar": "calendars/ravens.ics"
     },
