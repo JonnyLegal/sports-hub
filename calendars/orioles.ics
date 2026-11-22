@@ -26,22 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orioles-mlb-823873@sports-hub.jonnylegal.github.io
-DTSTAMP:20261121T172854Z
-SEQUENCE:3
-DTSTART;TZID=America/New_York:20260505T184000
-DTEND;TZID=America/New_York:20260505T214000
-SUMMARY:⚾ ✅ Orioles 9 at Marlins 7 [Away]
-LOCATION:loanDepot park
-DESCRIPTION:Final: Won 9-7\nTV: MASN\, Marlins.TV presented by Werner\, Hof
- fman\, Greig & Garcia\nVenue: loanDepot park\nhttps://jonnylegal.github.io
- /sports-hub/
-URL:https://jonnylegal.github.io/sports-hub/
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:228b0a9920923732
-END:VEVENT
-BEGIN:VEVENT
 UID:orioles-mlb-823872@sports-hub.jonnylegal.github.io
 DTSTAMP:20261004T010544Z
 SEQUENCE:1

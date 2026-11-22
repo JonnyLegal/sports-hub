@@ -177,18 +177,18 @@ X-SPORTSHUB-HASH:986230fecae06137
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858528@sports-hub.jonnylegal.github.io
-DTSTAMP:20261115T092122Z
-SEQUENCE:3
+DTSTAMP:20261122T030932Z
+SEQUENCE:4
 DTSTART;TZID=America/Detroit:20261121T153000
 DTEND;TZID=America/Detroit:20261121T190000
-SUMMARY:🏈 UCLA at Michigan [Home]
+SUMMARY:🏈 ✅ UCLA 16 at Michigan 18 [Home]
 LOCATION:Michigan Stadium\, Ann Arbor\, MI
-DESCRIPTION:TV: CBS\nVenue: Michigan Stadium\nhttps://jonnylegal.github.io/
- sports-hub/
+DESCRIPTION:Final: Won 18-16\nTV: CBS\nVenue: Michigan Stadium\nhttps://jon
+ nylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:23e189eebf02ecea
+X-SPORTSHUB-HASH:ee310e430bfa950f
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-football-espn-401858540@sports-hub.jonnylegal.github.io
