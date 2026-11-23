@@ -177,18 +177,18 @@ X-SPORTSHUB-HASH:01064f550bab8d67
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873068@sports-hub.jonnylegal.github.io
-DTSTAMP:20261005T182547Z
-SEQUENCE:2
+DTSTAMP:20261123T004934Z
+SEQUENCE:3
 DTSTART;TZID=America/New_York:20261122T130000
 DTEND;TZID=America/New_York:20261122T163000
-SUMMARY:🏈 Ravens at Panthers [Away]
+SUMMARY:🏈 ❌ Ravens 33 at Panthers 35 [Away]
 LOCATION:Bank of America Stadium\, Charlotte\, NC
-DESCRIPTION:TV: Fox\nVenue: Bank of America Stadium\nhttps://jonnylegal.git
- hub.io/sports-hub/
+DESCRIPTION:Final: Lost 33-35\nTV: Fox\nVenue: Bank of America Stadium\nhtt
+ ps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:06f9d44b3800a008
+X-SPORTSHUB-HASH:79ad3c1b0aef3ce0
 END:VEVENT
 BEGIN:VEVENT
 UID:ravens-espn-401873085@sports-hub.jonnylegal.github.io

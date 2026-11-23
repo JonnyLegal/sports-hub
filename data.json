@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T19:35:13+00:00",
+  "updated": "2026-11-23T00:49:34+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -14,15 +14,16 @@
         "onSecondary": "#000000"
       },
       "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-      "record": "4-6",
+      "record": "4-7",
       "recordNote": null,
-      "standing": "9th in American Football Conference",
-      "live": {
+      "standing": "10th in American Football Conference",
+      "live": null,
+      "last": {
         "id": "401873068",
         "date": "2026-11-22T18:00Z",
-        "state": "in",
+        "state": "post",
         "timeTBD": false,
-        "detail": "0:59 - 2nd",
+        "detail": "Final",
         "homeAway": "away",
         "opponent": "Carolina Panthers",
         "opponentShort": "Panthers",
@@ -33,32 +34,11 @@
         "broadcast": "Fox",
         "neutral": false,
         "note": null,
-        "teamScore": 26,
-        "oppScore": 22,
+        "teamScore": 33,
+        "oppScore": 35,
+        "result": "L",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873068",
         "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873068"
-      },
-      "last": {
-        "id": "401873065",
-        "date": "2026-11-17T01:15Z",
-        "state": "post",
-        "timeTBD": false,
-        "detail": "Final",
-        "homeAway": "home",
-        "opponent": "Los Angeles Chargers",
-        "opponentShort": "Chargers",
-        "opponentFull": "Los Angeles",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png",
-        "venue": "M&T Bank Stadium",
-        "location": "M&T Bank Stadium, Baltimore, MD",
-        "broadcast": "ESPN",
-        "neutral": false,
-        "note": null,
-        "teamScore": 20,
-        "oppScore": 23,
-        "result": "L",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard/401873065",
-        "gameUrl": "https://www.espn.com/nfl/game/_/gameId/401873065"
       },
       "next": {
         "id": "401873085",
