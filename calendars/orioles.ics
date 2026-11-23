@@ -2158,18 +2158,18 @@ X-SPORTSHUB-HASH:e1856c28d5cca436
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868452@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270307
-DTEND;VALUE=DATE:20270308
+DTSTAMP:20261123T211820Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20270307T130500
+DTEND;TZID=America/New_York:20270307T160500
 SUMMARY:⚾ Orioles at Tigers [Away]
 LOCATION:Publix Field at Joker Marchant Stadium
-DESCRIPTION:Start time TBD\nSpring Training\nVenue: Publix Field at Joker M
- archant Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Spring Training\nVenue: Publix Field at Joker Marchant Stadium\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:bc5c5348882a3d96
+X-SPORTSHUB-HASH:35fc0d41d2046e32
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868453@sports-hub.jonnylegal.github.io
@@ -2293,18 +2293,18 @@ X-SPORTSHUB-HASH:dbabd2c87c479a6b
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868392@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T010544Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20270316
-DTEND;VALUE=DATE:20270317
+DTSTAMP:20261123T211820Z
+SEQUENCE:2
+DTSTART;TZID=America/New_York:20270316T130500
+DTEND;TZID=America/New_York:20270316T160500
 SUMMARY:⚾ Orioles at Tigers [Away]
 LOCATION:Publix Field at Joker Marchant Stadium
-DESCRIPTION:Start time TBD\nSpring Training\nVenue: Publix Field at Joker M
- archant Stadium\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Spring Training\nVenue: Publix Field at Joker Marchant Stadium\
+ nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b32fad913fb87aba
+X-SPORTSHUB-HASH:1664c49990d06700
 END:VEVENT
 BEGIN:VEVENT
 UID:orioles-mlb-868387@sports-hub.jonnylegal.github.io
