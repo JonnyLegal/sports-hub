@@ -147,19 +147,19 @@ X-SPORTSHUB-HASH:03913d13b6c783c9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909732@sports-hub.jonnylegal.github.io
-DTSTAMP:20261119T213002Z
-SEQUENCE:6
+DTSTAMP:20261125T022402Z
+SEQUENCE:7
 DTSTART;TZID=America/New_York:20261206T130000
 DTEND;TZID=America/New_York:20261206T151500
 SUMMARY:🏀 Wake Forest vs Massachusetts [Neutral]
 LOCATION:MassMutual Center\, Springfield\, MA
-DESCRIPTION:TV: ESPNU\n2026 MGM Springfield Basketball Hall of Fame Classic
+DESCRIPTION:TV: ESPN2\n2026 MGM Springfield Basketball Hall of Fame Classic
  \nVenue: MassMutual Center (neutral site)\nhttps://jonnylegal.github.io/sp
  orts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b41ca87d249f307f
+X-SPORTSHUB-HASH:3421e8ca0b66327c
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909733@sports-hub.jonnylegal.github.io
@@ -193,18 +193,18 @@ X-SPORTSHUB-HASH:d98aecad0196f2a9
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909735@sports-hub.jonnylegal.github.io
-DTSTAMP:20261008T153459Z
-SEQUENCE:3
+DTSTAMP:20261125T022402Z
+SEQUENCE:4
 DTSTART;TZID=America/New_York:20261219T153000
 DTEND;TZID=America/New_York:20261219T174500
 SUMMARY:🏀 Wake Forest vs West Virginia [Neutral]
 LOCATION:First Horizon Coliseum\, Greensboro\, NC
-DESCRIPTION:TV: ESPN2\nHoliday Hoopfest\nVenue: First Horizon Coliseum (neu
- tral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:TV: ESPN2\nRocket Money Holiday Hoopfest\nVenue: First Horizon 
+ Coliseum (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:f3e15b7d9f2f87f5
+X-SPORTSHUB-HASH:f51ad6a7bb05e1a4
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-forest-basketball-espn-401909736@sports-hub.jonnylegal.github.io

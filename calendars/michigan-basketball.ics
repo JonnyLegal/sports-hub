@@ -102,18 +102,33 @@ X-SPORTSHUB-HASH:086af22b1468829d
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401909495@sports-hub.jonnylegal.github.io
-DTSTAMP:20261107T005504Z
-SEQUENCE:4
-DTSTART;TZID=America/Detroit:20261124T173000
-DTEND;TZID=America/Detroit:20261124T194500
-SUMMARY:🏀 Michigan vs Creighton [Neutral]
+DTSTAMP:20261125T022402Z
+SEQUENCE:5
+DTSTART;TZID=America/Detroit:20261124T175500
+DTEND;TZID=America/Detroit:20261124T201000
+SUMMARY:🏀 ❌ Michigan 73 vs Creighton 99 [Neutral]
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
-DESCRIPTION:TV: ESPN\nPlayers Era 16\nVenue: T-Mobile Arena (neutral site)\
- nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Lost 73-99\nTV: ESPN\nPlayers Era 16\nVenue: T-Mobile Ar
+ ena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b159aedb1f549857
+X-SPORTSHUB-HASH:bd7ee25ebb87f58f
+END:VEVENT
+BEGIN:VEVENT
+UID:michigan-basketball-espn-401920537@sports-hub.jonnylegal.github.io
+DTSTAMP:20261125T022402Z
+SEQUENCE:0
+DTSTART;TZID=America/Detroit:20261126T153000
+DTEND;TZID=America/Detroit:20261126T174500
+SUMMARY:🏀 Michigan vs Miami [Neutral]
+LOCATION:T-Mobile Arena\, Las Vegas\, NV
+DESCRIPTION:Players Era 16\nVenue: T-Mobile Arena (neutral site)\nhttps://j
+ onnylegal.github.io/sports-hub/
+URL:https://jonnylegal.github.io/sports-hub/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-SPORTSHUB-HASH:3dda2d7242c5f677
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io
