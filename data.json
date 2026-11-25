@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:49:32+00:00",
+  "updated": "2026-11-25T22:29:27+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -349,7 +349,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
         "venue": "Imperial Arena",
         "location": "Imperial Arena, Nassau, Bahamas",
-        "broadcast": "ESPN2",
+        "broadcast": "ESPNU",
         "neutral": true,
         "note": "Battle 4 Atlantis - Championship Bracket",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401929287",
