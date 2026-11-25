@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T02:24:02+00:00",
+  "updated": "2026-11-25T12:49:32+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -229,7 +229,7 @@
         "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png",
         "venue": "T-Mobile Arena",
         "location": "T-Mobile Arena, Las Vegas, NV",
-        "broadcast": null,
+        "broadcast": "ESPN2",
         "neutral": true,
         "note": "Players Era 16",
         "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401920537",
