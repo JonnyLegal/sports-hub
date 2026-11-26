@@ -27,34 +27,34 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-735335@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20250622T190000
 DTEND;TZID=America/New_York:20250622T210000
 SUMMARY:⚽ ✅ Haiti 1 at USA 2 [Home]
 LOCATION:AT&T Stadium\, Arlington\, Texas
-DESCRIPTION:Final: Won 2-1\nTV: FOX\nConcacaf Gold Cup\nVenue: AT&T Stadium
+DESCRIPTION:Final: Won 2-1\nTV: Fox\nConcacaf Gold Cup\nVenue: AT&T Stadium
  \nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:7420a6ac2c9350aa
+X-SPORTSHUB-HASH:5935fe9a1995dc6d
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-735342@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20250629T190000
 DTEND;TZID=America/New_York:20250629T210000
 SUMMARY:⚽ ✅ Costa Rica 2 at USA 2 [Home]
 LOCATION:U.S. Bank Stadium\, Minneapolis\, Minnesota
-DESCRIPTION:Final: Won 2-2 on penalties\nTV: FOX\nConcacaf Gold Cup - Unite
+DESCRIPTION:Final: Won 2-2 on penalties\nTV: Fox\nConcacaf Gold Cup - Unite
  d States advance 4-3 on penalties\nVenue: U.S. Bank Stadium\nhttps://jonny
  legal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:444830a059fc42aa
+X-SPORTSHUB-HASH:00d2fb6bbfb6db01
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-735346@sports-hub.jonnylegal.github.io
@@ -73,18 +73,18 @@ X-SPORTSHUB-HASH:cc28f8ef9f34651f
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-735348@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20250706T190000
 DTEND;TZID=America/New_York:20250706T210000
 SUMMARY:⚽ ❌ Mexico 2 at USA 1 [Home]
 LOCATION:NRG Stadium\, Houston\, Texas
-DESCRIPTION:Final: Lost 1-2\nTV: FOX\nConcacaf Gold Cup\nVenue: NRG Stadium
+DESCRIPTION:Final: Lost 1-2\nTV: Fox\nConcacaf Gold Cup\nVenue: NRG Stadium
  \nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ca8dd0f081bcfccd
+X-SPORTSHUB-HASH:6ef7cf0c502b26d2
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-735765@sports-hub.jonnylegal.github.io
@@ -238,78 +238,78 @@ X-SPORTSHUB-HASH:b9e9eb859aea9b7f
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-760417@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260612T210000
 DTEND;TZID=America/New_York:20260612T230000
 SUMMARY:⚽ ✅ Paraguay 1 at USA 4 [Home]
 LOCATION:SoFi Stadium\, Inglewood\, California
-DESCRIPTION:Final: Won 4-1\nTV: FOX\nFIFA World Cup\nVenue: SoFi Stadium\nh
+DESCRIPTION:Final: Won 4-1\nTV: Fox\nFIFA World Cup\nVenue: SoFi Stadium\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:ae134d2ca7293633
+X-SPORTSHUB-HASH:08b97051d6e0637e
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-760442@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260619T150000
 DTEND;TZID=America/New_York:20260619T170000
 SUMMARY:⚽ ✅ Australia 0 at USA 2 [Home]
 LOCATION:Lumen Field\, Seattle\, Washington
-DESCRIPTION:Final: Won 2-0\nTV: FOX\nFIFA World Cup\nVenue: Lumen Field\nht
+DESCRIPTION:Final: Won 2-0\nTV: Fox\nFIFA World Cup\nVenue: Lumen Field\nht
  tps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:b114bf8772bf14d2
+X-SPORTSHUB-HASH:6dbecd366dfcb1f3
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-760470@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260625T220000
 DTEND;TZID=America/New_York:20260626T000000
 SUMMARY:⚽ ❌ USA 2 at Türkiye 3 [Away]
 LOCATION:SoFi Stadium\, Inglewood\, California
-DESCRIPTION:Final: Lost 2-3\nTV: FOX\nFIFA World Cup\nVenue: SoFi Stadium\n
+DESCRIPTION:Final: Lost 2-3\nTV: Fox\nFIFA World Cup\nVenue: SoFi Stadium\n
  https://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:fd786137d48b2829
+X-SPORTSHUB-HASH:260c703720433e25
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-760494@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260701T200000
 DTEND;TZID=America/New_York:20260701T220000
 SUMMARY:⚽ ✅ Bosnia-Herzegovina 0 at USA 2 [Home]
 LOCATION:Levi's Stadium\, Santa Clara\, California
-DESCRIPTION:Final: Won 2-0\nTV: FOX\nFIFA World Cup\nVenue: Levi's Stadium\
+DESCRIPTION:Final: Won 2-0\nTV: Fox\nFIFA World Cup\nVenue: Levi's Stadium\
  nhttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:27be988d62aa4966
+X-SPORTSHUB-HASH:23f07479344a56c1
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-760507@sports-hub.jonnylegal.github.io
-DTSTAMP:20261004T171153Z
-SEQUENCE:1
+DTSTAMP:20261126T151036Z
+SEQUENCE:2
 DTSTART;TZID=America/New_York:20260706T200000
 DTEND;TZID=America/New_York:20260706T220000
 SUMMARY:⚽ ❌ Belgium 4 at USA 1 [Home]
 LOCATION:Lumen Field\, Seattle\, Washington
-DESCRIPTION:Final: Lost 1-4\nTV: FOX\nFIFA World Cup\nVenue: Lumen Field\nh
+DESCRIPTION:Final: Lost 1-4\nTV: Fox\nFIFA World Cup\nVenue: Lumen Field\nh
  ttps://jonnylegal.github.io/sports-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:5a720306e538777c
+X-SPORTSHUB-HASH:0dda8d1cfa1156bf
 END:VEVENT
 BEGIN:VEVENT
 UID:usmnt-espn-soccer-401905203@sports-hub.jonnylegal.github.io
