@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:49:43+00:00",
+  "updated": "2026-11-27T08:24:51+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -217,23 +217,23 @@
         "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920537"
       },
       "next": {
-        "id": "401925734",
-        "date": "2026-12-02T00:00Z",
+        "id": "401920541",
+        "date": "2026-11-27T22:30Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "12/1 - 7:00 PM EST",
-        "homeAway": "home",
-        "opponent": "Mississippi Valley State Delta Devils",
-        "opponentShort": "Miss Valley St",
-        "opponentFull": "Mississippi Valley State",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
-        "venue": "Crisler Center",
-        "location": "Crisler Center, Ann Arbor, MI",
-        "broadcast": "BTN",
-        "neutral": false,
-        "note": null,
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401925734",
-        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401925734"
+        "detail": "11/27 - 5:30 PM EST",
+        "homeAway": "away",
+        "opponent": "Kansas State Wildcats",
+        "opponentShort": "Kansas St",
+        "opponentFull": "Kansas State",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png",
+        "venue": "T-Mobile Arena",
+        "location": "T-Mobile Arena, Las Vegas, NV",
+        "broadcast": "ESPNU",
+        "neutral": true,
+        "note": "Players Era 16 - Seventh Place Game",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401920541",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401920541"
       },
       "calendar": "calendars/michigan-basketball.ics"
     },
