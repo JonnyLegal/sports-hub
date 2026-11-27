@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:24:51+00:00",
+  "updated": "2026-11-27T18:56:21+00:00",
   "teams": [
     {
       "key": "ravens",
@@ -313,7 +313,27 @@
       "record": "6-1",
       "recordNote": null,
       "standing": "1st in ACC",
-      "live": null,
+      "live": {
+        "id": "401929288",
+        "date": "2026-11-27T18:30Z",
+        "state": "in",
+        "timeTBD": false,
+        "detail": "15:33 - 1st",
+        "homeAway": "home",
+        "opponent": "Memphis Tigers",
+        "opponentShort": "Memphis",
+        "opponentFull": "Memphis",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+        "venue": "Imperial Arena",
+        "location": "Imperial Arena, Nassau, Bahamas",
+        "broadcast": "ACC Network",
+        "neutral": true,
+        "note": "Battle 4 Atlantis - Championship Bracket",
+        "teamScore": 8,
+        "oppScore": 7,
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401929288",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401929288"
+      },
       "last": {
         "id": "401929287",
         "date": "2026-11-26T02:29Z",
@@ -337,23 +357,23 @@
         "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401929287"
       },
       "next": {
-        "id": "401929288",
-        "date": "2026-11-27T18:30Z",
+        "id": "401909731",
+        "date": "2026-12-02T02:00Z",
         "state": "pre",
         "timeTBD": false,
-        "detail": "11/27 - 1:30 PM EST",
+        "detail": "12/1 - 9:00 PM EST",
         "homeAway": "away",
-        "opponent": "Memphis Tigers",
-        "opponentShort": "Memphis",
-        "opponentFull": "Memphis",
-        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
-        "venue": "Imperial Arena",
-        "location": "Imperial Arena, Nassau, Bahamas",
-        "broadcast": null,
-        "neutral": true,
-        "note": "Battle 4 Atlantis - Championship Bracket",
-        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401929288",
-        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401929288"
+        "opponent": "LSU Tigers",
+        "opponentShort": "LSU",
+        "opponentFull": "LSU",
+        "opponentLogo": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+        "venue": "Pete Maravich Assembly Center",
+        "location": "Pete Maravich Assembly Center, Baton Rouge, LA",
+        "broadcast": "SEC Network",
+        "neutral": false,
+        "note": "SEC/ACC Men's Challenge",
+        "liveUrl": "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/401909731",
+        "gameUrl": "https://www.espn.com/mens-college-basketball/game/_/gameId/401909731"
       },
       "calendar": "calendars/wake-forest-basketball.ics"
     },
