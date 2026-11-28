@@ -132,18 +132,19 @@ X-SPORTSHUB-HASH:7ad5edaec752b7af
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401920541@sports-hub.jonnylegal.github.io
-DTSTAMP:20261127T082451Z
-SEQUENCE:0
-DTSTART;TZID=America/Detroit:20261127T173000
-DTEND;TZID=America/Detroit:20261127T194500
-SUMMARY:🏀 Michigan vs Kansas State [Neutral]
+DTSTAMP:20261128T015733Z
+SEQUENCE:1
+DTSTART;TZID=America/Detroit:20261127T174100
+DTEND;TZID=America/Detroit:20261127T195600
+SUMMARY:🏀 ✅ Michigan 98 vs Kansas State 69 [Neutral]
 LOCATION:T-Mobile Arena\, Las Vegas\, NV
-DESCRIPTION:TV: ESPNU\nPlayers Era 16 - Seventh Place Game\nVenue: T-Mobile
-  Arena (neutral site)\nhttps://jonnylegal.github.io/sports-hub/
+DESCRIPTION:Final: Won 98-69\nTV: ESPNU\nPlayers Era 16 - Seventh Place Gam
+ e\nVenue: T-Mobile Arena (neutral site)\nhttps://jonnylegal.github.io/spor
+ ts-hub/
 URL:https://jonnylegal.github.io/sports-hub/
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-SPORTSHUB-HASH:0828812de0a95ece
+X-SPORTSHUB-HASH:990b845c890d21ca
 END:VEVENT
 BEGIN:VEVENT
 UID:michigan-basketball-espn-401925734@sports-hub.jonnylegal.github.io
